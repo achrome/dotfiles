@@ -17,5 +17,20 @@ LS_COLORS='no=00:fi=00:di=34:ow=34;40:ln=35:pi=30;44:so=35;44:do=35;44:bd=33;44:
 export LS_COLORS
 rvm use default
 export TERM=xterm-256color
-echo "Shell config loaded! Greetings $USER"
 eval alias git=hub
+export GOROOT=/usr/local/go
+export GOPATH=/var/code/go
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+ruby -v
+python --version
+nvm use 0.10.29
+apache2 -v
+gcc --version
+java -version
+php -v
+gvm use gradle 1.12
+mysql --version
+mongo --version
+git --version
+go version
+echo "Shell config loaded. Greetings $USER"
