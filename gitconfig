@@ -3,3 +3,5 @@
 	email = achromatic.rainbow@gmail.com
 [push]
 	default = simple
+[core]
+	autocrlf = input
