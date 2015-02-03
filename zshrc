@@ -19,6 +19,7 @@ uname -a
 rvm use default
 export TERM=xterm-256color
 eval alias git=hub
+eval alias npm-exec="PATH=$(npm bin):$PATH"
 export GOROOT=/usr/local/go
 export GOPATH=/var/code/go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
