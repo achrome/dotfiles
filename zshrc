@@ -24,7 +24,6 @@ export GOROOT=/usr/local/go
 export GOPATH=/var/code/go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 ruby -v
-python --version
 nvm use default
 apache2 -v
 gcc --version
@@ -36,4 +35,9 @@ mongo --version
 git --version
 go version
 rustc --version
+export PATH="$HOME/.pyenv/bin:$PATH"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+pyenv global system
+python --version
 echo "Shell config loaded. Greetings $USER"
