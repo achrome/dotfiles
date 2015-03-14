@@ -13,7 +13,10 @@ export PATH="$PATH:$HOME/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local
 export LANG=en_IN.UTF-8
 export GOROOT=/usr/local/go
 export GOPATH=/var/code/go
-export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+export GHCVERSION=7.10.1
+export CABALVERSION=1.22
+export GHCPATH=/opt/ghc/$GHCVERSION/bin:/opt/cabal/$CABALVERSION/bin
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin:$GHCPATH
 export TERM=xterm-256color
 export NVM_DIR="$HOME/.nvm"
 export PATH="$HOME/.pyenv/bin:$PATH"
@@ -44,6 +47,7 @@ uname -a
 apache2 -v
 gcc --version
 g++ --version
+ghc --version
 git --version
 go version
 java -version
