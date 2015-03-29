@@ -20,7 +20,7 @@
       "Wine", 
       "Update-notifier"
     ], 
-    "gsettings://com.canonical.indicator.appmenu.hud store-usage-data": true, 
+    "gsettings://com.canonical.indicator.appmenu.hud store-usage-data": false, 
     "gconf://apps/compiz-1/plugins/unityshell/screen0/options/autohide_animation": 3, 
     "gsettings://org.gnome.nautilus.desktop home-icon-visible": false, 
     "gconf://desktop/gnome/peripherals/mouse/cursor_theme": "oxy-white", 
@@ -34,7 +34,7 @@
     "env://QT_X11_NO_NATIVE_MENUBAR": null, 
     "gsettings://org.gnome.desktop.interface ubuntu-overlay-scrollbars": true, 
     "gconf://apps/metacity/general/auto_raise_delay": 1000, 
-    "gconf://apps/compiz-1/plugins/unityshell/screen0/options/panel_opacity": 1.0, 
+    "gconf://apps/compiz-1/plugins/unityshell/screen0/options/panel_opacity": 0.5, 
     "gsettings://org.gnome.nautilus.desktop network-icon-visible": true, 
     "gsettings://org.gnome.desktop.background show-desktop-icons": true, 
     "gsettings://com.canonical.indicator.session show-real-name-on-panel": true, 
@@ -62,7 +62,7 @@
     "gconf://apps/compiz-1/plugins/unityshell/screen0/options/shortcut_overlay": true, 
     "gconf://apps/compiz-1/plugins/unityshell/screen0/options/urgent_animation": 2, 
     "gsettings://org.gnome.desktop.interface automatic-mnemonics": true, 
-    "gconf://apps/compiz-1/plugins/unityshell/screen0/options/panel_opacity_maximized_toggle": false, 
+    "gconf://apps/compiz-1/plugins/unityshell/screen0/options/panel_opacity_maximized_toggle": true, 
     "gsettings://org.gnome.nautilus.desktop trash-icon-visible": true, 
     "gconf://apps/compiz-1/plugins/unityshell/screen0/options/overcome_pressure": 20, 
     "gsettings://org.gnome.settings-daemon.plugins.xsettings hinting": "slight", 
@@ -71,7 +71,7 @@
     "gsettings://org.gnome.desktop.interface font-name": "DejaVu Sans 11", 
     "gconf://apps/compiz-1/plugins/unityshell/screen0/options/automaximize_value": 75, 
     "gsettings://org.gnome.settings-daemon.plugins.xsettings antialiasing": "rgba", 
-    "zeitgeist://enabled": true, 
+    "zeitgeist://enabled": false, 
     "gsettings://org.gnome.desktop.interface cursor-theme": "oxy-white"
   }
 }
