@@ -65,7 +65,7 @@
     "gconf://apps/compiz-1/plugins/unityshell/screen0/options/panel_opacity_maximized_toggle": false, 
     "gsettings://org.gnome.nautilus.desktop trash-icon-visible": true, 
     "gconf://apps/compiz-1/plugins/unityshell/screen0/options/overcome_pressure": 20, 
-    "gsettings://org.gnome.settings-daemon.plugins.xsettings hinting": "none", 
+    "gsettings://org.gnome.settings-daemon.plugins.xsettings hinting": "slight", 
     "gsettings://org.gnome.desktop.interface cursor-blink": true, 
     "gconf://apps/compiz-1/plugins/unityshell/screen0/options/alt_tab_bias_viewport": true, 
     "gsettings://org.gnome.desktop.interface font-name": "DejaVu Sans 11", 
