@@ -1,12 +1,17 @@
 echo "Loading shell config"
 ### ZSH Configuration
-export ZSH=$HOME/.oh-my-zsh
-ZSH_THEME="ys"
-export UPDATE_ZSH_DAYS=6
-COMPLETION_WAITING_DOTS="true"
-HIST_STAMPS="dd/mm/yyyy"
-plugins=(git git-extras common-aliases command-not-found rand-quote)
-source $ZSH/oh-my-zsh.sh
+source $HOME/dotfiles/antigen/antigen.zsh
+antigen use oh-my-zsh
+antigen theme ys
+antigen bundles <<EOBUNDLES
+  ruby
+  node
+  git
+  zsh-users/zsh-completions src
+  zsh-users/zsh-syntax-highlighting zsh-syntax-highlighting.zsh
+  voronkovich/gitignore.plugin.zsh
+EOBUNDLES
+antigen apply
 
 ### Environment variables
 export PATH="$PATH:$HOME/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:$HOME/.rvm/bin"
@@ -61,6 +66,3 @@ rethinkdb --version
 ruby -v
 rustc --version
 echo "Shell config loaded. Greetings $USER"
-
-### Random quote
-quote
