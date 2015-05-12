@@ -7,9 +7,15 @@ antigen bundles <<EOBUNDLES
   ruby
   node
   git
+  wd
   zsh-users/zsh-completions src
   zsh-users/zsh-syntax-highlighting zsh-syntax-highlighting.zsh
   voronkovich/gitignore.plugin.zsh
+  marzocchi/zsh-notify
+  ascii-soup/zsh-url-highlighter url/url-highlighter.zsh
+  joel-porquet/zsh-dircolors-solarized
+  tarrasch/zsh-colors
+  willghatch/zsh-snippets
 EOBUNDLES
 antigen apply
 
