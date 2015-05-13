@@ -1,13 +1,41 @@
 echo "Loading shell config"
-### ZSH Configuration
+
+### Antigen Configuration
 source $HOME/dotfiles/antigen/antigen.zsh
 antigen use oh-my-zsh
 antigen theme ys
 antigen bundles <<EOBUNDLES
+  ### Ruby
   ruby
+  gem
+
+  ### Node
   node
-  git
+  npm
+
+  ### Python
+  python
+  pyenv
+  pip
+
+  ### Git
+  gitfast
+  git-extras
+
+  ### Dev-ops
+  docker
+  vagrant
+
+  ### Text Editor
+  atom
+
+  ### Utils
   wd
+  extract
+  urltools
+  httpie
+
+  rand-quote
   zsh-users/zsh-completions src
   zsh-users/zsh-syntax-highlighting zsh-syntax-highlighting.zsh
   voronkovich/gitignore.plugin.zsh
@@ -72,3 +100,5 @@ rethinkdb --version
 ruby -v
 rustc --version
 echo "Shell config loaded. Greetings $USER"
+
+quote
