@@ -8,7 +8,7 @@
     "gsettings://com.canonical.Unity.FilesLens use-locate": true, 
     "gsettings://org.gnome.nautilus.desktop font": "Bitstream Vera Sans 11", 
     "gsettings://org.gnome.desktop.interface icon-theme": "Numix-Shine", 
-    "gsettings://org.gnome.desktop.interface monospace-font-name": "Inconsolata-dz for Powerline Medium 11", 
+    "gsettings://org.gnome.desktop.interface monospace-font-name": "Inconsolata for Powerline Medium 12", 
     "gsettings://com.canonical.Unity form-factor": "Automatic", 
     "gsettings://org.gnome.desktop.interface gtk-theme": "Numix", 
     "gsettings://com.canonical.Unity.Panel systray-whitelist": [
@@ -32,7 +32,7 @@
     "gsettings://org.gnome.desktop.interface buttons-have-icons": true, 
     "gsettings://com.canonical.indicator.bluetooth visible": true, 
     "gsettings://org.gnome.desktop.interface cursor-theme": "oxy-white", 
-    "gsettings://com.canonical.indicator.sound visible": true, 
+    "gsettings://com.canonical.indicator.sound visible": false, 
     "gsettings://org.gnome.desktop.wm.preferences titlebar-font": "Bitstream Vera Sans Bold 11", 
     "gsettings://org.gnome.desktop.interface automatic-mnemonics": true, 
     "gsettings://org.gnome.desktop.wm.preferences theme": "Numix", 
