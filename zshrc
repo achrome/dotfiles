@@ -75,6 +75,9 @@ alias git=hub
 alias reload="source $HOME/.zshrc"
 eval alias npm-exec="PATH=$(npm bin):$PATH"
 
+### OPAM
+. /home/achrome/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
+
 ### Use default versions from different VMs
 rvm use default
 nvm use default
