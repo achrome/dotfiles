@@ -108,12 +108,13 @@ echo "\e[35mHaskell     :\e[0m $(ghc --numeric-version)"
 echo "\e[35mJava        :\e[0m $(java -version 2>&1 | awk 'NR==1{ gsub(/"/,""); print $3 }')"
 echo "\e[35mJulia       :\e[0m $(julia --version)"
 echo "\e[35mOCamL       :\e[0m $(ocaml -version)"
-echo "\e[35mPHP         :\e[0m $(php -v)"
-echo "\e[35mPython      :\e[0m $(python --version)"
+echo "\e[35mPHP         :\e[0m $(php -r 'echo phpversion();')"
+echo "\e[35mPython      :\e[0m $(python -c 'print __import__("platform").python_version()')"
 echo "\e[35mRuby        :\e[0m $(ruby -v)"
 echo "\e[35mRust        :\e[0m $(rustc --version)"
 echo "\n"
 apache2 -v
+nginx -v
 git --version
 mongo --version
 mysql --version
