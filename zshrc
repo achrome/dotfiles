@@ -62,7 +62,7 @@ export PATH="$HOME/.pyenv/bin:$PATH"
 echo "\e[32mPath variables \u2714\e[0m"
 
 ### Version Managers
-export SDKMAN_DIR="/home/achrome/.sdkman" && source "/home/achrome/.sdkman/bin/sdkman-init.sh"
+export SDKMAN_DIR="$HOME/.sdkman" && source "$HOME/.sdkman/bin/sdkman-init.sh"
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 eval "$(pyenv init -)"
@@ -84,8 +84,8 @@ echo "\e[32mAliases \u2714\e[0m"
 ### Use default versions from different VMs
 rvm use default --quiet
 nvm use --silent default
-sdk use gradle
-sdk use groovy
+sdk use gradle &> /dev/null
+sdk use groovy &> /dev/null
 pyenv shell system
 echo "\e[32mLanguage defaults \u2714\e[0m"
 
@@ -99,27 +99,33 @@ echo "\e[35mKernel Version  :\e[0m $(uname -v)"
 echo "\e[35mProcessor       :\e[0m $(uname -o)"
 echo "\e[35mShell           :\e[0m $($SHELL --version)"
 echo "\n"
-echo "\e[1;35mLanguages\e[0m\n"
+
+echo "\e[1;4;32mLanguages\e[0m\n"
 echo "\e[35mErlang      :\e[0m $(cat $(dirname $(dirname `which erl`)/$(readlink `which erl`))/../releases/*/OTP_*)"
 echo "\e[35mGCC         :\e[0m $(gcc -dumpversion)"
 echo "\e[35mG++         :\e[0m $(g++ -dumpversion)"
-echo "\e[35mGolang      :\e[0m $(go version)"
+echo "\e[35mGolang      :\e[0m $(go version | awk '{ gsub(/go/, ""); print $2 }')"
 echo "\e[35mHaskell     :\e[0m $(ghc --numeric-version)"
-echo "\e[35mJava        :\e[0m $(java -version 2>&1 | awk 'NR==1{ gsub(/"/,""); print $3 }')"
-echo "\e[35mJulia       :\e[0m $(julia --version)"
-echo "\e[35mOCamL       :\e[0m $(ocaml -version)"
-echo "\e[35mPHP         :\e[0m $(php -r 'echo phpversion();')"
+echo "\e[35mJava        :\e[0m $(java -version 2>&1 | awk 'NR == 1 { gsub(/"/,""); print $3 }')"
+echo "\e[35mJulia       :\e[0m $(julia --version | awk '{ print $3 }')"
+echo "\e[35mOCamL       :\e[0m $(ocaml -version | awk '{ print $5 }')"
+echo "\e[35mPHP         :\e[0m $(php -r 'echo phpversion();' | sed 's/-.*$//g')"
 echo "\e[35mPython      :\e[0m $(python -c 'print __import__("platform").python_version()')"
-echo "\e[35mRuby        :\e[0m $(ruby -v)"
-echo "\e[35mRust        :\e[0m $(rustc --version)"
+echo "\e[35mRuby        :\e[0m $(ruby -v | awk '{ print $2 }')"
+echo "\e[35mRust        :\e[0m $(rustc --version | awk '{ print $2 }')"
 echo "\n"
-apache2 -v
-nginx -v
-git --version
-mongo --version
-mysql --version
-redis-cli --version
-redis-server --version
-rethinkdb --version
 
+echo "\e[1;4;32mDatabases\e[0m\n"
+echo "\e[35mMongo       :\e[0m $(mongo --version | awk '{ print $4 }')"
+echo "\e[35mMariaDB     :\e[0m $(mysql --version | awk '{ print $3 }')"
+echo "\e[35mRethink     :\e[0m $(rethinkdb --version | awk '{ gsub(/-.*$/, ""); print $2 }')"
+echo "\n"
+
+echo "\e[1;4;32mTools\e[0m\n"
+echo "\e[35mApache      :\e[0m $(apache2 -v | sed -e '2d' -e 's/^.*\///')"
+echo "\e[35mNGinX       :\e[0m $(nginx -v 2>&1 | sed 's/^.*\///')"
+echo "\e[35mGit         :\e[0m $(/usr/bin/git --version | sed 's/git version //')"
+echo "\e[35mRedis       :\e[0m $(redis-server --version | awk '{ gsub(/v=/, ""); print $3 }')"
+
+echo "\n\e[1;4;32mAnd here's a random quote to get you through this day\e[0m\n"
 quote
