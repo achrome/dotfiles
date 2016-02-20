@@ -77,6 +77,8 @@ echo "\e[32mFixed\e[0m \e[33mls colors\e[0m \e[32m\u2714\e[0m"
 
 ### Misc aliases
 alias git=hub
+fpath=($HOME/dotfiles/zsh/completions $fpath)
+autoload -U compinit && compinit
 alias reload="exec $SHELL"
 eval alias npm-exec="PATH=$(npm bin):$PATH"
 echo "\e[32mAliases \u2714\e[0m"
