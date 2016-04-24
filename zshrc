@@ -3,7 +3,7 @@ echo "\e[1;4;33m\x0aLoading shell configuration\e[0m\n"
 ### Antigen Configuration
 source $HOME/dotfiles/antigen/antigen.zsh
 antigen use oh-my-zsh
-antigen theme ys
+antigen theme af-magic
 antigen bundles <<EOBUNDLES
   ### Ruby
   ruby
@@ -47,12 +47,12 @@ antigen apply
 echo "\e[32mAntigen \u2714\e[0m"
 
 ### Environment variables
-export PATH="$PATH:$HOME/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:$HOME/.rvm/bin"
+export PATH="$PATH:$HOME/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:$HOME/.rvm/bin:$HOME/.local/bin"
 export LANG=en_IN.UTF-8
 export GOROOT=/usr/local/go
 export GOPATH=/var/code/go
-export GHCVERSION=7.10.2
-export CABALVERSION=1.22
+export GHCVERSION=head
+export CABALVERSION=head
 export GHCPATH=/opt/ghc/$GHCVERSION/bin:/opt/cabal/$CABALVERSION/bin
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin:$GHCPATH
 export TERM=xterm-256color
@@ -62,13 +62,15 @@ export PATH="$HOME/.pyenv/bin:$PATH"
 echo "\e[32mPath variables \u2714\e[0m"
 
 ### Version Managers
-export SDKMAN_DIR="$HOME/.sdkman" && source "$HOME/.sdkman/bin/sdkman-init.sh"
+# export SDKMAN_DIR="$HOME/.sdkman" && source "$HOME/.sdkman/bin/sdkman-init.sh"
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
+powerline-daemon -q
+. "/usr/local/lib/python2.7/dist-packages/powerline/bindings/zsh/powerline.zsh"
 ### OPAM
-. /home/achrome/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
+. $HOME/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
 echo "\e[32mVersion managers \u2714\e[0m"
 
 ### ls fix
@@ -89,6 +91,7 @@ nvm use --silent default
 sdk use gradle &> /dev/null
 sdk use groovy &> /dev/null
 pyenv shell system
+pyenv virtualenvwrapper
 echo "\e[32mLanguage defaults \u2714\e[0m"
 
 ### System information
@@ -119,7 +122,7 @@ echo "\n"
 
 echo "\e[1;4;32mDatabases\e[0m\n"
 echo "\e[35mMongo       :\e[0m $(mongo --version | awk '{ print $4 }')"
-echo "\e[35mMariaDB     :\e[0m $(mysql --version | awk '{ print $3 }')"
+# echo "\e[35mMariaDB     :\e[0m $(mysql --version | awk '{ print $3 }')"
 echo "\e[35mRethink     :\e[0m $(rethinkdb --version | awk '{ gsub(/-.*$/, ""); print $2 }')"
 echo "\n"
 
