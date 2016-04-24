@@ -50,7 +50,7 @@ echo "\e[32mAntigen \u2714\e[0m"
 export PATH="$PATH:$HOME/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:$HOME/.rvm/bin:$HOME/.local/bin"
 export LANG=en_IN.UTF-8
 export GOROOT=/usr/local/go
-export GOPATH=/var/code/go
+export GOPATH=$HOME/code/go
 export GHCVERSION=head
 export CABALVERSION=head
 export GHCPATH=/opt/ghc/$GHCVERSION/bin:/opt/cabal/$CABALVERSION/bin
@@ -123,7 +123,7 @@ echo "\n"
 echo "\e[1;4;32mDatabases\e[0m\n"
 echo "\e[35mMongo       :\e[0m $(mongo --version | awk '{ print $4 }')"
 # echo "\e[35mMariaDB     :\e[0m $(mysql --version | awk '{ print $3 }')"
-echo "\e[35mRethink     :\e[0m $(rethinkdb --version | awk '{ gsub(/-.*$/, ""); print $2 }')"
+# echo "\e[35mRethink     :\e[0m $(rethinkdb --version | awk '{ gsub(/-.*$/, ""); print $2 }')"
 echo "\n"
 
 echo "\e[1;4;32mTools\e[0m\n"
