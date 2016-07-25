@@ -59,6 +59,8 @@ export TERM=xterm-256color
 export NVM_DIR="$HOME/.nvm"
 export WORKON_HOME="$HOME/.virtualenvs"
 export PATH="$HOME/.pyenv/bin:$PATH"
+export FDK_EXE="$HOME/bin/FDK/Tools/linux"
+export PATH="$PATH:$FDK_EXE"
 echo "\e[32mPath variables \u2714\e[0m"
 
 ### Version Managers

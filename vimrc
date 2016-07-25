@@ -13,6 +13,7 @@ set clipboard=unnamed              " Use system clipboard
 set paste                          " Toggle paste mode
 set fileformats=unix               " Enforce UNIX style line endings
 set colorcolumn=100                " Mark 100th column
+set laststatus=2                   " Need this for airline  
 
 " Turn syntax highlighting on
 syntax on
@@ -36,8 +37,6 @@ set expandtab
 set nowrap
 set linebreak
 
-set list listchars=tab:\ \ ,trail:·
-
 nnoremap p p=`]<C-o>
 nnoremap P P=`]<C-o>
 
@@ -46,7 +45,7 @@ filetype indent on
 
 " Enable mouse if there is support
 if has("mouse")
-    set mouse=a
+  set mouse=a
 endif
 
 " Folding
@@ -69,6 +68,7 @@ let sh_fold_enabled=1
 let vimsyn_folding='af'
 let xml_syntax_folding=1
 
+" Vundle
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
   " Base vundling
@@ -76,10 +76,14 @@ call vundle#begin()
   Plugin 'gmarik/vundle'
 
   " Mappings
-  Plugin 'bruno-/vim-alt-mappings'
+  Plugin 'vim-utils/vim-alt-mappings'
 
   " Pairing
-  Plugin 'jiangmiao/auto-pairs'
+  Plugin 'L9'
+  Plugin 'FuzzyFinder'
+  Plugin 'openssl.vim'
+  Plugin 'tpope/vim-unimpaired'
+  Plugin 'wojtekmach/vim-rename'
 
   " Fuzzy searches
   Plugin 'kien/ctrlp.vim'
@@ -124,9 +128,6 @@ call vundle#begin()
   " Go
   Plugin 'fatih/vim-go'
 
-  " Rust
-  Plugin 'wting/rust.vim'
-
   " Markdown
   Plugin 'plasticboy/vim-markdown'
 
@@ -137,6 +138,9 @@ call vundle#begin()
   Plugin 'nvie/vim-flake8'
   Plugin 'vim-scripts/indentpython.vim'
 
+  Plugin 'xolox/vim-misc'
+  Plugin 'xolox/vim-easytags'
+
   Plugin 'godlygeek/tabular'
   Plugin 'mtth/scratch.vim'
   Plugin 'greplace.vim'
@@ -144,17 +148,25 @@ call vundle#begin()
   " Nerdtree
   Plugin 'scrooloose/nerdtree'
   Plugin 'jistr/vim-nerdtree-tabs'
+  Plugin 'majutsushi/tagbar'
+  Plugin 'Valloric/YouCompleteMe'
 call vundle#end()
 
 " Enable Powerline fonts for airline
 let g:airline_powerline_fonts = 1
-AirlineTheme hybrid
+let g:airline_theme = 'zenburn'
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#whitespace#enabled = 1
 
 colorscheme zenburn
 
-" Column 80 marker
-highlight OverLength ctermbg=darkred ctermfg=white guibg=#660000
-match OverLength /\%81v.\+/
-
 " Custom keymaps
 nmap <silent> <leader>/ :let @/=''<CR>
+nmap <F2> :NERDTreeToggle<CR>
+nmap <F8> :TagbarToggle<CR>
+
+" Auto reload vimrc on save
+augroup auto_reload " {
+  autocmd!
+  autocmd BufWritePost $MYVIMRC source $MYVIMRC
+augroup END " }

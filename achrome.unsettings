@@ -12,7 +12,7 @@
     "gsettings://org.gnome.desktop.interface icon-theme": "Faenza-Ambiance", 
     "gsettings://org.gnome.nautilus.desktop home-icon-visible": true, 
     "gsettings://org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshell/ dash-blur-experimental": 2, 
-    "gsettings://org.gnome.desktop.interface monospace-font-name": "Inconsolata for Powerline Medium 12", 
+    "gsettings://org.gnome.desktop.interface monospace-font-name": "Fira Mono for Powerline 10", 
     "xkbopt://kpdl": "---", 
     "gsettings://com.canonical.Unity form-factor": "Automatic", 
     "gsettings://org.gnome.desktop.interface gtk-theme": "Albatross", 
