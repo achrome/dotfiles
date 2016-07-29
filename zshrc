@@ -59,18 +59,23 @@ export TERM=xterm-256color
 export NVM_DIR="$HOME/.nvm"
 export WORKON_HOME="$HOME/.virtualenvs"
 export PATH="$HOME/.pyenv/bin:$PATH"
+### Font development kit
 export FDK_EXE="$HOME/bin/FDK/Tools/linux"
 export PATH="$PATH:$FDK_EXE"
 echo "\e[32mPath variables \u2714\e[0m"
 
 ### Version Managers
-# export SDKMAN_DIR="$HOME/.sdkman" && source "$HOME/.sdkman/bin/sdkman-init.sh"
+# Groovy, grails and others goodies
+export SDKMAN_DIR="$HOME/.sdkman" && source "$HOME/.sdkman/bin/sdkman-init.sh"
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
+
+### Powerline
 powerline-daemon -q
 . "/usr/local/lib/python2.7/dist-packages/powerline/bindings/zsh/powerline.zsh"
+
 ### OPAM
 . $HOME/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
 echo "\e[32mVersion managers \u2714\e[0m"
@@ -90,8 +95,10 @@ echo "\e[32mAliases \u2714\e[0m"
 ### Use default versions from different VMs
 rvm use default --quiet
 nvm use --silent default
-sdk use gradle &> /dev/null
+# Gradle etc
+sdk use gradle &> /dev/null 
 sdk use groovy &> /dev/null
+# PyEnv and virtualenv setup
 pyenv shell system
 pyenv virtualenvwrapper
 echo "\e[32mLanguage defaults \u2714\e[0m"
@@ -124,8 +131,8 @@ echo "\n"
 
 echo "\e[1;4;32mDatabases\e[0m\n"
 echo "\e[35mMongo       :\e[0m $(mongo --version | awk '{ print $4 }')"
-# echo "\e[35mMariaDB     :\e[0m $(mysql --version | awk '{ print $3 }')"
-# echo "\e[35mRethink     :\e[0m $(rethinkdb --version | awk '{ gsub(/-.*$/, ""); print $2 }')"
+echo "\e[35mRethink     :\e[0m $(rethinkdb --version | awk '{ gsub(/-.*$/, ""); print $2 }')"
+echo "\e[35mPostGRE     :\e[0m $(pg_config --version | awk '{ print $2 }')"
 echo "\n"
 
 echo "\e[1;4;32mTools\e[0m\n"
