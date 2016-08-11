@@ -91,21 +91,24 @@ autoload -U compinit && compinit
 alias reload="exec $SHELL"
 eval alias npm-exec="PATH=$(npm bin):$PATH"
 echo "\e[32mAliases \u2714\e[0m"
+alias gfp="git fetch && git pull"
 
 ### Use default versions from different VMs
 rvm use default --quiet
 nvm use --silent default
 # Gradle etc
-sdk use gradle &> /dev/null 
-sdk use groovy &> /dev/null
+sdk use gradle  &> /dev/null 
+sdk use groovy  &> /dev/null
+sdk use grails  &> /dev/null
+sdk use scala   &> /dev/null
 # PyEnv and virtualenv setup
 pyenv shell system
 pyenv virtualenvwrapper
 echo "\e[32mLanguage defaults \u2714\e[0m"
 
 ### System information
-echo "\n\e[1;4;32mShell configuration \u2713\u2713. Greetings \e[0;1;4;33m$USER.\e[0m\n"
-echo "\e[1;35mSystem Details\e[0m\n"
+echo "\n\e[1;4;32mShell configuration \u2713\u2713.\e[0m\n"
+echo "\e[1;4;32mSystem Details\e[0m\n"
 echo "\e[35mOS              :\e[0m $(uname -o)"
 echo "\e[35mNode            :\e[0m $(uname -n)"
 echo "\e[35mKernel Release  :\e[0m $(uname -r)"
@@ -127,19 +130,24 @@ echo "\e[35mPHP         :\e[0m $(php -r 'echo phpversion();' | sed 's/-.*$//g')"
 echo "\e[35mPython      :\e[0m $(python -c 'print __import__("platform").python_version()')"
 echo "\e[35mRuby        :\e[0m $(ruby -v | awk '{ print $2 }')"
 echo "\e[35mRust        :\e[0m $(rustc --version | awk '{ print $2 }')"
+echo "\e[35mScala       :\e[0m $(scala -version 2>&1 | awk '{ print $5 }')"
 echo "\n"
 
 echo "\e[1;4;32mDatabases\e[0m\n"
 echo "\e[35mMongo       :\e[0m $(mongo --version | awk '{ print $4 }')"
-echo "\e[35mRethink     :\e[0m $(rethinkdb --version | awk '{ gsub(/-.*$/, ""); print $2 }')"
+echo "\e[35mRethink     :\e[0m $(rethinkdb --version | awk '{ gsub(/~.*$/, ""); print $2 }')"
 echo "\e[35mPostGRE     :\e[0m $(pg_config --version | awk '{ print $2 }')"
+echo "\e[35mMySQL       :\e[0m $(mysql --version | awk -v start=2 -v end=5 '{ for (i=start;i<=end;i++) printf("%s%s", $i, (i==end) ? "\n": OFS) }' | sed 's/,//')"
 echo "\n"
 
 echo "\e[1;4;32mTools\e[0m\n"
 echo "\e[35mApache      :\e[0m $(apache2 -v | sed -e '2d' -e 's/^.*\///')"
 echo "\e[35mNGinX       :\e[0m $(nginx -v 2>&1 | sed 's/^.*\///')"
+echo "\e[35mHAProxy     :\e[0m $(haproxy -v | awk 'NR == 1 { print $3 }')"
 echo "\e[35mGit         :\e[0m $(/usr/bin/git --version | sed 's/git version //')"
 echo "\e[35mRedis       :\e[0m $(redis-server --version | awk '{ gsub(/v=/, ""); print $3 }')"
+echo "\e[35mDocker      :\e[0m $(docker --version | awk '{ print $3 }' | sed 's/,//')"
 
-echo "\n\e[1;4;32mAnd here's a random quote to get you through this day\e[0m\n"
+echo "\n\e[1;4;32mGreetings \e[0;1;4;33m$USER.\e[0m"
+echo "\n\e[1;4;32mHere's a random quote\e[0m\n"
 quote
