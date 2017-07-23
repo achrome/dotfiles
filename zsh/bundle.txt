@@ -1,0 +1,31 @@
+git@github.com:djui/alias-tips.git
+git@github.com:fcambus/ansiweather.git
+git@github.com:hchbaw/auto-fu.zsh.git
+git@github.com:desyncr/auto-ls.git
+git@github.com:zpm-zsh/autoenv.git
+git@github.com:zuxfoucault/colored-man-pages_mod.git
+git@github.com:molovo/crash.git
+git@github.com:Vifon/deer.git
+git@github.com:webyneter/docker-aliases.git
+git@github.com:unixorn/docker-helpers.zshplugin.git
+git@github.com:b4b4r07/enhancd.git
+git@github.com:zigius/expand-ealias.plugin.zsh.git
+git@github.com:zdharma/fast-syntax-highlighting.git
+git@github.com:tevren/gitfast-zsh-plugin.git
+git@github.com:voronkovich/gitignore.plugin.zsh.git
+git@github.com:or17191/going_places.git
+git@github.com:bric3/nice-exit-code.git
+git@github.com:micrenda/zsh-nohup.git
+git@github.com:fshp/schroot.plugin.zsh.git
+git@github.com:qianxinfeng/vscode.git
+git@github.com:hlissner/zsh-autopair.git
+git@github.com:zsh-users/zsh-history-substring-search.git
+git@github.com:zsh-users/zsh-autosuggestions.git
+git@github.com:zsh-users/zsh-completions.git
+git@github.com:jreese/zsh-titles.git
+# Autocompletions
+git@github.com:d12frosted/cabal.plugin.zsh.git
+git@github.com:felixr/docker-zsh-completion.git
+# Theme
+git@github.com:bhilburn/powerlevel9k.git
+
