@@ -42,7 +42,7 @@ sdk use scala &>/dev/null
 pyenv shell system
 pyenv virtualenvwrapper
 # GOVM
-gvm use go1.8.3 &> /dev/null
+govm use go1.8.3 &> /dev/null
 echo "\e[32mLanguage defaults \u2714\e[0m"
 
 ### System information
@@ -90,3 +90,4 @@ echo "\e[35mDocker      :\e[0m $(docker --version | awk '{ print $3 }' | sed 's/
 
 echo "\n\e[1;4;32mGreetings \e[0;1;4;33m$USER.\e[0m"
 
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
