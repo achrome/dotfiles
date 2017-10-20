@@ -33,16 +33,10 @@ echo "\e[32mFixed\e[0m \e[33mls colors\e[0m \e[32m\u2714\e[0m"
 ## Use default versions from different VMs
 nvm use default --silent
 eval alias npm-exec="PATH=$(npm bin):$PATH"
-# Gradle etc
-# sdk use gradle 
-# sdk use groovy 
-# sdk use grails 
 sdk use scala &>/dev/null 
-# PyEnv and virtualenv setup
 pyenv shell system
 pyenv virtualenvwrapper
-# GOVM
-govm use go1.8.3 &> /dev/null
+govm use go1.9 &> /dev/null
 echo "\e[32mLanguage defaults \u2714\e[0m"
 
 ### System information
@@ -77,7 +71,6 @@ echo "\e[35mMongo       :\e[0m $(mongo --version | awk 'NR == 1 { print $4 }')"
 echo "\e[35mRethink     :\e[0m $(rethinkdb --version | awk '{ gsub(/~.*$/, ""); print $2 }')"
 echo "\e[35mPostGRE     :\e[0m $(pg_config --version | awk '{ print $2 }')"
 echo "\e[35mMySQL       :\e[0m $(mysql --version | awk -v start=2 -v end=5 '{ for (i=start;i<=end;i++) printf("%s%s", $i, (i==end) ? "\n": OFS) }' | sed 's/,//')"
-echo "\e[35mArangoDB    :\e[0m $(arangod --version | awk 'NR == 1')"
 echo "\n"
 
 echo "\e[1;4;32mTools\e[0m\n"
