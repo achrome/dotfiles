@@ -36,7 +36,7 @@ eval alias npm-exec="PATH=$(npm bin):$PATH"
 sdk use scala &>/dev/null 
 pyenv shell system
 pyenv virtualenvwrapper
-govm use go1.9.4 &> /dev/null
+govm use go1.10.2 &> /dev/null
 echo "\e[32mLanguage defaults \u2714\e[0m"
 
 ### System information
