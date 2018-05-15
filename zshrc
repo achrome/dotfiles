@@ -84,3 +84,5 @@ echo "\e[35mDocker      :\e[0m $(docker --version | awk '{ print $3 }' | sed 's/
 echo "\n\e[1;4;32mGreetings \e[0;1;4;33m$USER.\e[0m"
 
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+[ -f ~/dotfiles/zsh/fzf.zsh ] && source ~/dotfiles/zsh/fzf.zsh
