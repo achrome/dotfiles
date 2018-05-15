@@ -211,6 +211,12 @@ Plug 'yggdroot/indentline'
 let g:indentLine_setColors = 0
 let g:indentLine_char = '|'
 
+Plug 'tpope/vim-unimpaired'
+nmap <C-Up> [e
+nmap <C-Down> ]e
+vmap <C-Up> [egv
+vmap <C-Down> ]egv
+
 if !empty(filter(copy(g:plugs), '!isdirectory(v:val.dir)'))
 	autocmd VimEnter * PlugInstall | q
 endif
@@ -226,3 +232,7 @@ au FocusLost,WinLeave * :silent! wa
 au FocusGained,BufEnter * :silent! !
 
 colorscheme molokai
+
+command! W w
+command! Wq wq
+command! Bd bd
