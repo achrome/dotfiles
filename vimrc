@@ -74,13 +74,10 @@ set colorcolumn=101
 set laststatus=2
 
 " Autoindent
-set autoindent 
+set autoindent
 
 " Copy the previous indent on newline
 set copyindent
-
-set listchars=tab:▸\ ,trail:·,extends:…,nbsp:·
-set list
 
 " Suppress error bells
 set novisualbell
@@ -118,7 +115,7 @@ let &showbreak='↪ '
 
 if empty(glob('~/.vim/autoload/plug.vim'))
 	silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
-  			\ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+		\ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 	autocmd VimEnter * PlugInstall | source $MYVIMRC
 endif
 
@@ -190,22 +187,39 @@ let g:prettier#config#single_quote = 'true'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+let g:fzf_colors =
+	\ { 'fg':		 ['fg', 'Normal'],
+	\ 'bg':			 ['bg', 'Normal'],
+	\ 'hl':			 ['fg', 'Comment'],
+	\ 'fg+':		 ['fg', 'CursorLine', 'CursorColumn', 'Normal'],
+	\ 'bg+':		 ['bg', 'CursorLine', 'CursorColumn'],
+	\ 'hl+':		 ['fg', 'Statement'],
+	\ 'info':		 ['fg', 'PreProc'],
+	\ 'border':  ['fg', 'Ignore'],
+	\ 'prompt':  ['fg', 'Conditional'],
+	\ 'pointer': ['fg', 'Exception'],
+	\ 'marker':  ['fg', 'Keyword'],
+	\ 'spinner': ['fg', 'Label'],
+	\ 'header':  ['fg', 'Comment'] }
 
 Plug 'flazz/vim-colorschemes'
+
+Plug 'editorconfig/editorconfig-vim'
+let g:EditorConfig_exclude_patterns = ['fugitive://.*', 'scp://.*']
 
 Plug 'yggdroot/indentline'
 let g:indentLine_setColors = 0
 let g:indentLine_char = '|'
 
 if !empty(filter(copy(g:plugs), '!isdirectory(v:val.dir)'))
-  autocmd VimEnter * PlugInstall | q
+	autocmd VimEnter * PlugInstall | q
 endif
 
 call plug#end()
 
 augroup auto_reload " {
-  autocmd!
-  autocmd BufWritePost $MYVIMRC source $MYVIMRC
+	autocmd!
+	autocmd BufWritePost $MYVIMRC source $MYVIMRC
 augroup END " }
 
 au FocusLost,WinLeave * :silent! wa
