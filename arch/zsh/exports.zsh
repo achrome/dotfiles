@@ -8,6 +8,7 @@ export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin:$GHCPATH
 export NVM_DIR="$HOME/.nvm"
 export WORKON_HOME="$HOME/.virtualenvs"
 export PATH="$HOME/.pyenv/bin:$HOME/.govm/versions/current/bin:$PATH"
+export VISUAL=vim
 
 ### Font development kit
 export FDK_EXE="$HOME/bin/FDK/Tools/linux"
