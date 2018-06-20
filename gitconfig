@@ -1,8 +1,18 @@
 [user]
 	name = Ashwin Mukhija
 	email = achromatic.rainbow@gmail.com
+	username = achrome
+
 [push]
 	default = simple
+
 [core]
 	autocrlf = input
 	symlinks = true
+
+[gitflow "prefix"]
+	feature = feature-
+	release = release-
+	hotfix = hotfix-
+	support = support-
+	versiontag = v

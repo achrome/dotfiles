@@ -236,3 +236,4 @@ colorscheme molokai
 command! W w
 command! Wq wq
 command! Bd bd
+cnoremap w!! w !sudo tee > /dev/null %
