@@ -33,7 +33,7 @@ echo "\e[32mFixed\e[0m \e[33mls colors\e[0m \e[32m\u2714\e[0m"
 ## Use default versions from different VMs
 nvm use default --silent
 eval alias npm-exec="PATH=$(npm bin):$PATH"
-sdk use scala &>/dev/null 
+# sdk use scala &>/dev/null 
 pyenv shell 3.6.5
 pyenv virtualenvwrapper
 echo "\e[32mLanguage defaults \u2714\e[0m"
@@ -85,3 +85,4 @@ echo "\n\e[1;4;32mGreetings \e[0;1;4;33m$USER.\e[0m"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 [ -f ~/dotfiles/zsh/fzf.zsh ] && source ~/dotfiles/zsh/fzf.zsh
+[ -f /etc/profile.d/emscripten.sh ] && source /etc/profile.d/emscripten.sh

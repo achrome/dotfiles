@@ -155,7 +155,7 @@ let g:airline_powerline_fonts = 1
 Plug 'vim-airline/vim-airline-themes'
 let g:airline_theme = 'minimalist'
 
-Plug 'valloric/YouCompleteMe', { 'do': './install.py --all' }
+" Plug 'valloric/YouCompleteMe', { 'do': './install.py --all' }
 
 Plug 'easymotion/vim-easymotion'
 let g:EasyMotion_do_mapping = 0
