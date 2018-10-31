@@ -1830,6 +1830,7 @@ social-vuln-scanner
 socialfish
 socketfuzz
 sockstat
+solidity
 soot
 spade
 spaf
