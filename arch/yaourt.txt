@@ -1,5 +1,4 @@
 alsi
-amarok
 brave-bin
 cheetah-suite
 cmusfm
@@ -28,7 +27,6 @@ nautilus-dropbox
 package-query
 pcmciautils
 php-grpc
-proton
 qca-qt4
 reaper
 simplenote-electron-bin

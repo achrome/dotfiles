@@ -1507,7 +1507,6 @@ kauth
 kautilya
 kbd
 kbookmarks
-kcmutils
 kcodecs
 kcompletion
 kconfig
@@ -1516,7 +1515,6 @@ kcoreaddons
 kcrash
 kdbusaddons
 kdeclarative
-kdnssd
 keimpx
 kekeo
 kerbcrack
@@ -1542,7 +1540,6 @@ kitty-framework
 kjobwidgets
 klogger
 kmod
-knewstuff
 knock
 knotifications
 knxmap
@@ -1553,7 +1550,6 @@ kparts
 kraken
 krb5
 kservice
-ktexteditor
 ktextwidgets
 kwallet
 kwidgetsaddons
@@ -1779,7 +1775,6 @@ libgnomekbd
 libgovirt
 libgpg-error
 libgphoto2
-libgpod
 libgrss
 libgsf
 libgssglue
@@ -1806,7 +1801,6 @@ libjpeg-turbo
 libkeybinder3
 libksba
 liblangtag
-liblastfm-qt5
 libldap
 liblognorm
 liblouis
@@ -1832,7 +1826,6 @@ libmspub
 libmtp
 libmusicbrainz5
 libmwaw
-libmygpo-qt5
 libmypaint
 libnautilus-extension
 libndp
@@ -2035,7 +2028,6 @@ lorcon
 lorcon-old
 lorg
 lotophagi
-loudmouth
 lpsolve
 lsb-release
 lsof
@@ -4330,7 +4322,6 @@ tabi
 tachyon-scanner
 tactical-exploitation
 taglib
-taglib-extras
 talloc
 tangerine-icon-theme
 taof
@@ -4389,7 +4380,6 @@ thefuzz
 theharvester
 themole
 thin-provisioning-tools
-threadweaver
 thrift
 thunderbird
 tidy
@@ -4568,10 +4558,10 @@ vulnerabilities-spider
 vuls
 vulscan
 w3af
-waffit
 wafninja
 wafp
 wafpass
+wafw00f
 waidps
 waldo
 wapiti
@@ -4775,6 +4765,7 @@ xterm
 xvidcore
 xwaf
 xxeinjector
+xxhash
 xz
 yaaf
 yaf
