@@ -113,6 +113,7 @@ arpwner
 artillery
 artlas
 arybo
+asar
 asleap
 asp-audit
 aspell
@@ -3730,6 +3731,7 @@ python2-stem
 python2-stevedore
 python2-stix
 python2-stopit
+python2-stringcase
 python2-subprocess32
 python2-symath
 python2-symautomata
