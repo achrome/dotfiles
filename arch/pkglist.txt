@@ -113,7 +113,6 @@ arpwner
 artillery
 artlas
 arybo
-asar
 asleap
 asp-audit
 aspell
@@ -630,7 +629,6 @@ eazy
 ebtables
 ecfs
 edb
-editorconfig-core-c
 efibootmgr
 efivar
 eigrp-tools
@@ -1515,7 +1513,6 @@ kconfigwidgets
 kcoreaddons
 kcrash
 kdbusaddons
-kdeclarative
 keimpx
 kekeo
 kerbcrack
@@ -1531,7 +1528,6 @@ killerbee
 kimi
 kio
 kippo
-kirigami2
 kismet
 kismet-earth
 kismet2earth
@@ -1547,7 +1543,6 @@ knxmap
 koadic
 kolkata
 kpackage
-kparts
 kraken
 krb5
 kservice
@@ -1664,6 +1659,7 @@ lib32-libxss
 lib32-libxxf86vm
 lib32-llvm-libs
 lib32-lm_sensors
+lib32-lz4
 lib32-mesa
 lib32-ncurses
 lib32-nettle
@@ -1678,6 +1674,7 @@ lib32-util-linux
 lib32-wayland
 lib32-xz
 lib32-zlib
+lib32-zstd
 libabw
 libaec
 libaio
@@ -3537,6 +3534,7 @@ python2-prettytable
 python2-progress
 python2-progressbar
 python2-prompt_toolkit
+python2-prompt_toolkit1
 python2-protobuf
 python2-psutil
 python2-psycopg2
@@ -4063,7 +4061,6 @@ sessionlist
 set
 setowner
 sfuzz
-sg3_utils
 sha1collisiondetection
 shadow
 shard
@@ -4311,7 +4308,6 @@ syms2elf
 synflood
 synner
 synscan
-syntax-highlighting
 syringe
 sysdig
 sysfsutils
