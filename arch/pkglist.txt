@@ -1542,7 +1542,6 @@ knotifications
 knxmap
 koadic
 kolkata
-kpackage
 kraken
 krb5
 kservice
@@ -2535,6 +2534,7 @@ perl-digest-md4
 perl-digest-perl-md5
 perl-digest-sha1
 perl-dist-checkconflicts
+perl-email-date-format
 perl-encode-locale
 perl-error
 perl-eval-closure
@@ -2599,6 +2599,8 @@ perl-math-gmp
 perl-math-pari
 perl-math-random-isaac
 perl-md5
+perl-mime-lite
+perl-mime-types
 perl-modern-perl
 perl-module-build
 perl-module-build-tiny
@@ -2924,11 +2926,13 @@ python-cle
 python-click
 python-click-log
 python-click-plugins
+python-codecov
 python-colorama
 python-coloredlogs
 python-colorlog
 python-constantly
 python-cooldict
+python-coverage
 python-cryptography
 python-cssselect
 python-dateutil
@@ -2991,6 +2995,7 @@ python-hyperlink
 python-idna
 python-incremental
 python-inflect
+python-influxdb
 python-iniconfig
 python-inquirer
 python-ipgetter
@@ -3019,6 +3024,7 @@ python-lxml
 python-magic
 python-mako
 python-markupsafe
+python-mechanicalsoup
 python-mido
 python-mock
 python-monotonic
@@ -3026,6 +3032,7 @@ python-more-itertools
 python-msgpack
 python-mulpyplexer
 python-multidict
+python-ndg-httpsclient
 python-netaddr
 python-netifaces
 python-networkx
@@ -3102,6 +3109,7 @@ python-pysocks
 python-pystrich
 python-pytanque
 python-pytest
+python-pytest-cov
 python-python-cymruwhois
 python-python-dxf
 python-python-libnmap
@@ -3121,6 +3129,7 @@ python-redis
 python-relatime
 python-requests
 python-requests-cache
+python-requests-file
 python-requests-mock
 python-requests-unixsocket
 python-requestsexceptions
@@ -3134,6 +3143,7 @@ python-s3transfer
 python-scapy
 python-scipy
 python-screenutils
+python-scruffington
 python-scruffy
 python-selenium
 python-service-identity
@@ -3159,9 +3169,11 @@ python-tabulate
 python-termcolor
 python-terminaltables
 python-tld
+python-tldextract
 python-tornado
 python-tqdm
 python-traitlets
+python-trufflehogregexes
 python-twisted
 python-tzlocal
 python-unicorn
@@ -3234,6 +3246,7 @@ python2-beautifulsoup4
 python2-billiard
 python2-binaryornot
 python2-bintrees
+python2-biplist
 python2-bitarray
 python2-bitstring
 python2-blessings
@@ -3456,7 +3469,6 @@ python2-marshmallow
 python2-matplotlib
 python2-maxminddb
 python2-mccabe
-python2-mechanicalsoup
 python2-mechanize
 python2-mimeparse
 python2-mimerender
@@ -3485,6 +3497,7 @@ python2-ntlm
 python2-ntlm-auth
 python2-ntplib
 python2-numpy
+python2-nyawc
 python2-oauth2
 python2-oauthlib
 python2-odfpy
@@ -3829,7 +3842,6 @@ qt5-graphicaleffects
 qt5-location
 qt5-multimedia
 qt5-quickcontrols
-qt5-quickcontrols2
 qt5-script
 qt5-sensors
 qt5-speech
@@ -3970,6 +3982,8 @@ ruby-net-http-persistent
 ruby-nokogiri
 ruby-ntlm-http
 ruby-parslet
+ruby-pcaprub
+ruby-rake
 ruby-rdoc
 ruby-require_all
 ruby-rprogram

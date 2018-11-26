@@ -20,3 +20,6 @@ export PROMPT_COMMAND='echo -ne "\033]0;${USER}@${HOSTNAME}: ${PWD/$HOME/~}\007"
 export FZF_DEFAULT_COMMAND="fd --type file --follow --hidden --exclude .git --color=always"
 export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 export FZF_DEFAULT_OPTS="--ansi"
+
+export LANG=en_IN.UTF-8
+export LC_CTYPE=en_IN.UTF-8
