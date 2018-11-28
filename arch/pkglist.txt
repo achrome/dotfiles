@@ -1494,6 +1494,12 @@ jsql-injection
 jstillery
 julia
 junkie
+jupyter
+jupyter-nbconvert
+jupyter-nbformat
+jupyter-notebook
+jupyter-widgetsnbextension
+jupyter_console
 jwscan
 jwt-cracker
 kacak
@@ -2093,6 +2099,7 @@ matahari
 mate-icon-theme
 mate-icon-theme-faenza
 materia-gtk-theme
+mathjax
 matroschka
 mausezahn
 mbedtls
@@ -2905,6 +2912,7 @@ python-billiard
 python-bintrees
 python-bitarray
 python-bitstring
+python-bleach
 python-blessed
 python-blessings
 python-blinker
@@ -2941,6 +2949,7 @@ python-dbus-common
 python-ddt
 python-decorator
 python-defang
+python-defusedxml
 python-delegator.py
 python-demjson
 python-distlib
@@ -2958,6 +2967,7 @@ python-easyinject
 python-editdistance
 python-editorconfig
 python-elasticsearch
+python-entrypoints
 python-et-xmlfile
 python-eventlet
 python-fake-useragent
@@ -3000,6 +3010,8 @@ python-iniconfig
 python-inquirer
 python-ipgetter
 python-ipwhois
+python-ipykernel
+python-ipywidgets
 python-isort
 python-itsdangerous
 python-jdcal
@@ -3010,6 +3022,8 @@ python-jsbeautifier
 python-json2html
 python-jsonpickle
 python-jsonschema
+python-jupyter_client
+python-jupyter_core
 python-jwcrypto
 python-kaitaistruct
 python-keystone
@@ -3026,6 +3040,7 @@ python-mako
 python-markupsafe
 python-mechanicalsoup
 python-mido
+python-mistune
 python-mock
 python-monotonic
 python-more-itertools
@@ -3043,6 +3058,7 @@ python-olefile
 python-openpyxl
 python-packaging
 python-pandas
+python-pandocfilters
 python-paramiko
 python-parsel
 python-parso
@@ -3146,6 +3162,7 @@ python-screenutils
 python-scruffington
 python-scruffy
 python-selenium
+python-send2trash
 python-service-identity
 python-setuptools
 python-sgmllib
@@ -3167,7 +3184,9 @@ python-stem
 python-stopit
 python-tabulate
 python-termcolor
+python-terminado
 python-terminaltables
+python-testpath
 python-tld
 python-tldextract
 python-tornado
