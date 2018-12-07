@@ -635,6 +635,7 @@ eigrp-tools
 eindeutig
 elasticsearch
 electron
+electron2
 elementary-icon-theme
 elettra
 elettra-gui
@@ -3082,6 +3083,7 @@ python-poormanslogging
 python-prettytable
 python-progress
 python-progressbar
+python-prometheus_client
 python-prompt_toolkit
 python-protobuf
 python-psutil
@@ -4673,6 +4675,7 @@ wireshark-common
 wireshark-gtk
 wirouter-keyrec
 witchxtool
+wkhtmltopdf
 wlan2eth
 wmat
 wnmap
