@@ -2210,7 +2210,6 @@ multimac
 multimon-ng
 multiscanner
 multitun
-muparser
 musescore
 mutagen
 mutator
@@ -2944,6 +2943,7 @@ python-cooldict
 python-coverage
 python-cryptography
 python-cssselect
+python-cycler
 python-dateutil
 python-dbus
 python-dbus-common
@@ -3029,6 +3029,7 @@ python-jwcrypto
 python-kaitaistruct
 python-keystone
 python-keystone-engine
+python-kiwisolver
 python-kombu
 python-ldap3
 python-levenshtein
@@ -3039,6 +3040,7 @@ python-lxml
 python-magic
 python-mako
 python-markupsafe
+python-matplotlib
 python-mechanicalsoup
 python-mido
 python-mistune
@@ -4224,7 +4226,6 @@ sox
 spade
 spaf
 spandsp
-sparsehash
 sparta
 spartan
 sparty
