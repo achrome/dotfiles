@@ -2925,6 +2925,7 @@ python-cachetools
 python-cairo
 python-capstone
 python-case
+python-cchardet
 python-celery
 python-cffi
 python-chardet
@@ -3185,6 +3186,7 @@ python-sortedcontainers
 python-sphinx_rtd_theme
 python-sqlalchemy
 python-ssdeep
+python-sshtunnel
 python-stem
 python-stopit
 python-tabulate
