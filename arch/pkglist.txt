@@ -4301,7 +4301,6 @@ staekka
 starttls-mitm
 startup-notification
 statsprocessor
-steam
 stegdetect
 steghide
 stegolego
