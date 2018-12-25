@@ -307,6 +307,7 @@ cangibrina
 cansina
 cantarell-fonts
 cantoolz
+capfuzz
 capstone
 captipper
 carwhisperer
@@ -1479,6 +1480,8 @@ joomscan
 jpegdump
 jpexs-decompiler
 jq
+jre-openjdk
+jre-openjdk-headless
 jre10-openjdk
 jre10-openjdk-headless
 jre7-openjdk
@@ -1661,7 +1664,6 @@ lib32-libxml2
 lib32-libxrandr
 lib32-libxrender
 lib32-libxshmfence
-lib32-libxss
 lib32-libxxf86vm
 lib32-llvm-libs
 lib32-lm_sensors
@@ -2910,6 +2912,7 @@ python-beaker
 python-beautifulsoup4
 python-billiard
 python-bintrees
+python-biplist
 python-bitarray
 python-bitstring
 python-bleach
@@ -2927,6 +2930,7 @@ python-capstone
 python-case
 python-cchardet
 python-celery
+python-certifi
 python-cffi
 python-chardet
 python-checksumdir
@@ -3070,6 +3074,7 @@ python-passlib
 python-pbkdf2
 python-pbr
 python-pcapy
+python-pdfkit
 python-pdfminer3k
 python-pefile
 python-pep517
@@ -3210,6 +3215,7 @@ python-utidylib
 python-utils
 python-veryprettytable
 python-vine
+python-virtualenv
 python-virustotal-api
 python-w3lib
 python-wcwidth
@@ -3547,7 +3553,6 @@ python2-pbr
 python2-pcapfile
 python2-pcapy
 python2-pdb
-python2-pdfkit
 python2-pdfminer
 python2-pdfrw
 python2-pefile
@@ -3837,7 +3842,6 @@ python2-wtforms
 python2-wxpython3
 python2-xdot
 python2-xgoogle
-python2-xhtml2pdf
 python2-xlrd
 python2-xlsx2csv
 python2-xlsxwriter
