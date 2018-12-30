@@ -1136,7 +1136,6 @@ haskell-free
 haskell-fsnotify
 haskell-generic-deriving
 haskell-githash
-haskell-gitrev
 haskell-glob
 haskell-hackage-security
 haskell-haddock-library
@@ -3709,7 +3708,6 @@ python2-re2
 python2-recommonmark
 python2-redis
 python2-regex
-python2-reportlab
 python2-requesocks
 python2-requests
 python2-requests-file
@@ -3871,7 +3869,6 @@ qt5-charts
 qt5-declarative
 qt5-location
 qt5-multimedia
-qt5-quickcontrols
 qt5-script
 qt5-sensors
 qt5-speech
