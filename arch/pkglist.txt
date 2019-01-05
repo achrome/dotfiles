@@ -1711,6 +1711,7 @@ libcddb
 libcdio
 libcdio-paranoia
 libcdr
+libcerf
 libchamplain
 libcli
 libcmis
