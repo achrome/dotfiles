@@ -885,6 +885,7 @@ glib2
 glib2-docs
 glibc
 glibmm
+glide
 gloom
 glu
 glue
@@ -1025,6 +1026,7 @@ gts
 guake
 guile
 guile2.0
+gunicorn
 gupnp
 gupnp-av
 gupnp-dlna
@@ -2735,7 +2737,6 @@ pgdbf
 phantomjs
 phemail
 phishery
-phishingkithunter
 phodav
 phonon-qt5
 phonon-qt5-gstreamer
@@ -3084,6 +3085,7 @@ python-pickleshare
 python-pika
 python-pillow
 python-pip
+python-plotly
 python-pluggy
 python-ply
 python-pmw
@@ -3131,6 +3133,7 @@ python-pyqt5
 python-pyserial
 python-pyside-common
 python-pysigset
+python-pysmi
 python-pysnmp
 python-pysocks
 python-pystrich
@@ -3142,6 +3145,7 @@ python-python-dxf
 python-python-libnmap
 python-python-nmap
 python-python-openflow
+python-python-whois
 python-pytoml
 python-pytun
 python-pytz
@@ -3199,6 +3203,7 @@ python-termcolor
 python-terminado
 python-terminaltables
 python-testpath
+python-texttable
 python-tld
 python-tldextract
 python-tornado
@@ -3231,6 +3236,7 @@ python-wtforms
 python-www-authenticate
 python-xdg
 python-xlrd
+python-xls-writer
 python-xlsxwriter
 python-xmltodict
 python-xpath-expressions
@@ -3664,6 +3670,7 @@ python2-pyshark
 python2-pyside
 python2-pysmb
 python2-pysmbc
+python2-pysmi
 python2-pysnmp
 python2-pysocks
 python2-pysqlite
@@ -3740,6 +3747,7 @@ python2-sfalearn
 python2-sflock
 python2-sha3
 python2-shiboken
+python2-shodan
 python2-simplejson
 python2-simplekml
 python2-simuvex
@@ -4031,6 +4039,8 @@ ruby1.8-sqlite3
 ruby1.9
 ruby2.3
 ruby2.3-bundler
+ruby2.5
+ruby2.5-bundler
 rubygems
 rubygems1.8
 ruler
@@ -4566,6 +4576,7 @@ viproy-voipkit
 virglrenderer
 virt-install
 virtualbox
+virtualbox-guest-dkms
 virtualbox-host-dkms
 virustotal
 visql

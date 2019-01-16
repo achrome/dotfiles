@@ -17,6 +17,7 @@ insomnia
 jsql
 kafka
 kubectl-bin
+kubernetes-helm
 lain-git
 leiningen
 libc++
@@ -27,6 +28,7 @@ morxtunnel
 nautilus-dropbox
 package-query
 pcmciautils
+phishingkithunter
 php-grpc
 qca-qt4
 reaper
