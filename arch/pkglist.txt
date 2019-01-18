@@ -352,6 +352,7 @@ chrome-decode
 chromefreak
 chromensics
 chromium
+chrpath
 chw00t
 cidr2range
 cifs-utils
@@ -1800,6 +1801,7 @@ libidn
 libidn2
 libiec61883
 libieee1284
+libimagequant
 libimobiledevice
 libinput
 libiptcdata
@@ -1816,7 +1818,6 @@ liblphobos
 liblqr
 libmagick
 libmagick6
-libmariadbclient
 libmaxminddb
 libmcrypt
 libmediaart
@@ -2093,6 +2094,7 @@ mara-framework
 marc4dasm
 mariadb
 mariadb-clients
+mariadb-libs
 maryam
 maskprocessor
 massbleed
@@ -2295,6 +2297,7 @@ nield
 nikto
 nili
 nimbostratus
+ninja
 nipe
 nipper
 nirsoft
@@ -3912,6 +3915,7 @@ rcracki-mt
 rdesktop
 rdesktop-brute
 re2
+re2c
 readline
 reaver
 rebind

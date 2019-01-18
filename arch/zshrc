@@ -84,3 +84,4 @@ echo "\n\e[1;4;32mGreetings \e[0;1;4;33m$USER.\e[0m"
 
 [ -f ~/dotfiles/zsh/fzf.zsh ] && source ~/dotfiles/zsh/fzf.zsh
 [ -f /etc/profile.d/emscripten.sh ] && source /etc/profile.d/emscripten.sh
+
