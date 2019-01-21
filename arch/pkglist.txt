@@ -1031,6 +1031,7 @@ gunicorn
 gupnp
 gupnp-av
 gupnp-dlna
+gupnp-igd
 guymager
 gvfs
 gvfs-afc
@@ -3232,7 +3233,6 @@ python-websocket-client
 python-werkzeug
 python-wget
 python-whitenoise
-python-whois
 python-win_inet_pton
 python-wsproto
 python-wtforms

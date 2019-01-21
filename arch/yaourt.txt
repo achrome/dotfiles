@@ -30,6 +30,7 @@ package-query
 pcmciautils
 phishingkithunter
 php-grpc
+python-whois
 qca-qt4
 reaper
 simplenote-electron-bin
