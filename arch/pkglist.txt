@@ -352,7 +352,6 @@ chrome-decode
 chromefreak
 chromensics
 chromium
-chrpath
 chw00t
 cidr2range
 cifs-utils
@@ -886,7 +885,6 @@ glib2
 glib2-docs
 glibc
 glibmm
-glide
 gloom
 glu
 glue
@@ -1131,6 +1129,7 @@ haskell-echo
 haskell-ed25519
 haskell-either
 haskell-enclosed-exceptions
+haskell-erf
 haskell-exceptions
 haskell-extra
 haskell-fast-logger
@@ -2298,7 +2297,6 @@ nield
 nikto
 nili
 nimbostratus
-ninja
 nipe
 nipper
 nirsoft
@@ -2741,6 +2739,7 @@ pgdbf
 phantomjs
 phemail
 phishery
+phishingkithunter
 phodav
 phonon-qt5
 phonon-qt5-gstreamer
@@ -3170,6 +3169,7 @@ python-requests-unixsocket
 python-requestsexceptions
 python-retdec-python
 python-retrying
+python-rjsmin
 python-ropper
 python-rpyc
 python-rsa
@@ -3915,7 +3915,6 @@ rcracki-mt
 rdesktop
 rdesktop-brute
 re2
-re2c
 readline
 reaver
 rebind
