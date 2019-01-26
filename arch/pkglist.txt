@@ -1230,7 +1230,6 @@ haskell-smallcheck
 haskell-socks
 haskell-split
 haskell-src-exts
-haskell-src-meta
 haskell-statevar
 haskell-stm-chans
 haskell-store
@@ -1828,6 +1827,7 @@ libmng
 libmnl
 libmodplug
 libmp4v2
+libmpack
 libmpc
 libmpcdec
 libmpeg2
@@ -3196,6 +3196,7 @@ python-six
 python-slip
 python-smmap
 python-sortedcontainers
+python-soupsieve
 python-sphinx_rtd_theme
 python-sqlalchemy
 python-ssdeep
@@ -3577,7 +3578,6 @@ python2-pluggy
 python2-pluginbase
 python2-plumbum
 python2-ply
-python2-pmw
 python2-poppler
 python2-portend
 python2-poster
@@ -3653,6 +3653,7 @@ python2-pymongo
 python2-pymysql
 python2-pynacl
 python2-pynids
+python2-pyodbc
 python2-pyopenssl
 python2-pypandoc
 python2-pyparsing
@@ -3768,6 +3769,7 @@ python2-smspdu
 python2-snowballstemmer
 python2-socketpool
 python2-sortedcontainers
+python2-soupsieve
 python2-speaklater
 python2-speechrecognition
 python2-sphinx
