@@ -3477,6 +3477,7 @@ python2-isodate
 python2-itsdangerous
 python2-j2cli
 python2-jaraco
+python2-javalang
 python2-jdcal
 python2-jinja
 python2-jmespath
@@ -3551,6 +3552,7 @@ python2-osmgpsmap
 python2-otxv2
 python2-packaging
 python2-pager
+python2-pandas
 python2-paramiko
 python2-parsley
 python2-passlib
@@ -3595,7 +3597,6 @@ python2-ptp
 python2-ptrace
 python2-ptyprocess
 python2-publicsuffix
-python2-pubsub
 python2-pushbullet.py
 python2-py
 python2-py-radix
@@ -3705,7 +3706,6 @@ python2-pytz
 python2-pyusb
 python2-pyvex
 python2-pyvirtualdisplay
-python2-pywebview
 python2-pywerview
 python2-pywhois
 python2-pyx
@@ -3791,7 +3791,6 @@ python2-symath
 python2-symautomata
 python2-sympy
 python2-tabulate
-python2-tblib
 python2-telepot
 python2-telnetsrv
 python2-tempora
@@ -4010,7 +4009,6 @@ ruby-http-cookie
 ruby-httparty
 ruby-json
 ruby-mechanize
-ruby-mime-types-data
 ruby-mini_portile2
 ruby-msgpack
 ruby-multi_xml
