@@ -840,7 +840,7 @@ gedit
 gef
 gegl
 genlist
-geoclue2
+geoclue
 geocode-glib
 geoedge
 geoip
