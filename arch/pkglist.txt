@@ -1954,6 +1954,7 @@ libvterm
 libwacom
 libwbclient
 libwebp
+libwebsockets
 libwmf
 libwpd
 libwpg
