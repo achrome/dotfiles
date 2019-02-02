@@ -138,6 +138,7 @@ let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
 Plug 'kien/ctrlp.vim'
+let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|.git'
 au FocusGained,BufWritePost * :CtrlPClearCache
 
 Plug 'airblade/vim-gitgutter'
