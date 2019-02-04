@@ -3386,6 +3386,7 @@ python2-elasticsearch
 python2-elfesteem
 python2-elixir
 python2-emailprotectionslib
+python2-entrypoints
 python2-enum
 python2-enum34
 python2-esmre

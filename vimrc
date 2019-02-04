@@ -131,11 +131,11 @@ Plug 'Xuyuanp/nerdtree-git-plugin'
 
 Plug 'tpope/vim-surround'
 
-Plug 'scrooloose/syntastic'
-let g:syntastic_always_populate_loc_list = 1
-let g:syntastic_auto_loc_list = 1
-let g:syntastic_check_on_open = 1
-let g:syntastic_check_on_wq = 0
+" Plug 'scrooloose/syntastic'
+" let g:syntastic_always_populate_loc_list = 1
+" let g:syntastic_auto_loc_list = 1
+" let g:syntastic_check_on_open = 1
+" let g:syntastic_check_on_wq = 0
 
 Plug 'kien/ctrlp.vim'
 let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|.git'
@@ -151,6 +151,8 @@ let g:NERDTrimTrailingWhitespace = 1
 
 Plug 'vim-airline/vim-airline'
 let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#ale#enabled = 1
+let g:airline#init#vim_async = 1
 let g:airline_powerline_fonts = 1
 
 Plug 'vim-airline/vim-airline-themes'
@@ -202,22 +204,31 @@ let g:fzf_colors =
 	\ 'pointer': ['fg', 'Exception'],
 	\ 'marker':  ['fg', 'Keyword'],
 	\ 'spinner': ['fg', 'Label'],
-	\ 'header':  ['fg', 'Comment'] }
+	\ 'header':  ['fg', 'Comment']
+	\ }
 
 Plug 'flazz/vim-colorschemes'
 
 Plug 'editorconfig/editorconfig-vim'
 let g:EditorConfig_exclude_patterns = ['fugitive://.*', 'scp://.*']
 
-Plug 'yggdroot/indentline'
-let g:indentLine_setColors = 0
-let g:indentLine_char = '|'
+" Plug 'yggdroot/indentline'
+" let g:indentLine_setColors = 0
+" let g:indentLine_char = '|'
 
 Plug 'tpope/vim-unimpaired'
 nmap <C-Up> [e
 nmap <C-Down> ]e
 vmap <C-Up> [egv
 vmap <C-Down> ]egv
+
+Plug 'w0rp/ale'
+let g:ale_fix_on_save = 1
+let g:ale_fixers = {
+	\	'*':  ['remove_trailing_lines', 'trim_whitespace'],
+	\ 'javascript': ['eslint', 'prettier'],
+	\ 'python': ['autopep8', 'yapf']
+	\	}
 
 if !empty(filter(copy(g:plugs), '!isdirectory(v:val.dir)'))
 	autocmd VimEnter * PlugInstall | q

@@ -13,7 +13,7 @@ export VISUAL=vim
 ### Font development kit
 export FDK_EXE="$HOME/bin/FDK/Tools/linux"
 export PATH="$PATH:$FDK_EXE"
-export ZSH_AUTOSUGGEST_STRATEGY=match_prev_cmd
+# export ZSH_AUTOSUGGEST_STRATEGY=match_prev_cmd
 export PROMPT_COMMAND='echo -ne "\033]0;${USER}@${HOSTNAME}: ${PWD/$HOME/~}\007"'
 
 ### FZF
