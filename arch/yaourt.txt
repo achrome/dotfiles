@@ -37,7 +37,6 @@ slack-desktop
 telegram-desktop-bin
 trizen
 xcursor-human
-xcursor-numix
 xcursor-openzone
 yaourt
 zookeeper

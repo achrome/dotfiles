@@ -131,12 +131,6 @@ Plug 'Xuyuanp/nerdtree-git-plugin'
 
 Plug 'tpope/vim-surround'
 
-" Plug 'scrooloose/syntastic'
-" let g:syntastic_always_populate_loc_list = 1
-" let g:syntastic_auto_loc_list = 1
-" let g:syntastic_check_on_open = 1
-" let g:syntastic_check_on_wq = 0
-
 Plug 'kien/ctrlp.vim'
 let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|.git'
 au FocusGained,BufWritePost * :CtrlPClearCache
@@ -211,10 +205,6 @@ Plug 'flazz/vim-colorschemes'
 
 Plug 'editorconfig/editorconfig-vim'
 let g:EditorConfig_exclude_patterns = ['fugitive://.*', 'scp://.*']
-
-" Plug 'yggdroot/indentline'
-" let g:indentLine_setColors = 0
-" let g:indentLine_char = '|'
 
 Plug 'tpope/vim-unimpaired'
 nmap <C-Up> [e
