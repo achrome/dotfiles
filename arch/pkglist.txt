@@ -1543,6 +1543,7 @@ kismet-earth
 kismet2earth
 kismon
 kitemviews
+kitty
 kitty-framework
 kjobwidgets
 klogger
@@ -2408,6 +2409,13 @@ osm-gps-map
 osrframework
 ostinato
 osueta
+otf-cormorant
+otf-fantasque-sans-mono
+otf-fira-code
+otf-fira-mono
+otf-fira-sans
+otf-font-awesome
+otf-overpass
 otori
 outguess
 outlook-webapp-brute
@@ -4396,6 +4404,8 @@ telepathy-glib
 termcap
 terminator
 termineter
+termite
+termite-terminfo
 tesseract
 testdisk
 testssl.sh
@@ -4479,7 +4489,15 @@ trusttrees
 tsh
 tsh-sctp
 tslib
+ttf-anonymous-pro
+ttf-cormorant
 ttf-dejavu
+ttf-fantasque-sans-mono
+ttf-fira-code
+ttf-fira-mono
+ttf-fira-sans
+ttf-font-awesome
+ttf-ionicons
 ttf-roboto
 tumbler
 tunna
