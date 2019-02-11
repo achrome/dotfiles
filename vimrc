@@ -170,10 +170,10 @@ map N <Plug>(easymotion-prev)
 
 Plug 'tpope/vim-repeat'
 
-Plug 'pangloss/vim-javascript'
-let g:javascript_plugin_jsdoc = 1
-let g:javascript_plugin_ngdoc = 1
-let g:javascript_plugin_flow = 1
+" Plug 'pangloss/vim-javascript'
+" let g:javascript_plugin_jsdoc = 1
+" let g:javascript_plugin_ngdoc = 1
+" let g:javascript_plugin_flow = 1
 
 Plug 'prettier/vim-prettier', {
 	\ 'do': 'yarn install',
@@ -222,6 +222,9 @@ let g:ale_fixers = {
 
 Plug 'mxw/vim-jsx'
 
+Plug 'sheerun/vim-polyglot'
+
+Plug 'jeetsukumaran/vim-buffergator'
 
 if !empty(filter(copy(g:plugs), '!isdirectory(v:val.dir)'))
 	autocmd VimEnter * PlugInstall | q
