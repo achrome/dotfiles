@@ -636,7 +636,6 @@ eigrp-tools
 eindeutig
 elasticsearch
 electron
-electron2
 elementary-icon-theme
 elettra
 elettra-gui
@@ -1917,7 +1916,6 @@ libstaroffice
 libstdc++5
 libstemmer
 libsynctex
-libsystemd
 libtasn1
 libteam
 libtermkey
@@ -4369,6 +4367,7 @@ sysdig
 sysfsutils
 sysinternals-suite
 systemd
+systemd-libs
 systemd-sysvcompat
 t1lib
 t50
