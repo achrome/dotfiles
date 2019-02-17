@@ -2216,7 +2216,6 @@ multimon-ng
 multiscanner
 multitun
 musescore
-mutagen
 mutator
 mutter
 mwebfp
@@ -3532,6 +3531,7 @@ python2-mr.bob
 python2-msgpack
 python2-mulpyplexer
 python2-multipartposthandler
+python2-mutagen
 python2-nassl
 python2-ndg-httpsclient
 python2-netaddr
@@ -3750,7 +3750,6 @@ python2-schema
 python2-scipy
 python2-scp
 python2-scrypt
-python2-selenium
 python2-service-identity
 python2-setproctitle
 python2-setuptools
