@@ -2763,6 +2763,7 @@ phpsploit
 phpstress
 phrasendrescher
 pidense
+pin
 pinentry
 pingcastle
 pintool
@@ -3245,7 +3246,6 @@ python-wtforms
 python-www-authenticate
 python-xdg
 python-xlrd
-python-xls-writer
 python-xlsxwriter
 python-xmltodict
 python-xpath-expressions
@@ -3750,6 +3750,7 @@ python2-schema
 python2-scipy
 python2-scp
 python2-scrypt
+python2-selenium
 python2-service-identity
 python2-setproctitle
 python2-setuptools
