@@ -1727,6 +1727,7 @@ libdaemon
 libdaq
 libdatrie
 libdazzle
+libdbusmenu-glib
 libdbusmenu-qt5
 libdc1394
 libdca
