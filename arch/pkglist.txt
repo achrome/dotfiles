@@ -2941,6 +2941,7 @@ python-capstone
 python-case
 python-cchardet
 python-celery
+python-cement
 python-certifi
 python-cffi
 python-chardet
@@ -3146,6 +3147,7 @@ python-pysigset
 python-pysmi
 python-pysnmp
 python-pysocks
+python-pystache
 python-pystrich
 python-pytanque
 python-pytest
@@ -3688,7 +3690,6 @@ python2-pysnmp
 python2-pysocks
 python2-pysqlite
 python2-pysqlite-legacy
-python2-pystache
 python2-pysvn
 python2-pyswf
 python2-pytesseract
@@ -4796,6 +4797,7 @@ xorg-twm
 xorg-xauth
 xorg-xclipboard
 xorg-xclock
+xorg-xcursorgen
 xorg-xdpyinfo
 xorg-xhost
 xorg-xinit
