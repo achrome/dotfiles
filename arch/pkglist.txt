@@ -3249,6 +3249,7 @@ python-wtforms
 python-www-authenticate
 python-xdg
 python-xlrd
+python-xls-writer
 python-xlsxwriter
 python-xmltodict
 python-xpath-expressions
@@ -4797,7 +4798,6 @@ xorg-twm
 xorg-xauth
 xorg-xclipboard
 xorg-xclock
-xorg-xcursorgen
 xorg-xdpyinfo
 xorg-xhost
 xorg-xinit
