@@ -34,6 +34,7 @@ reaper
 simplenote-electron-bin
 skypeforlinux-stable-bin
 slack-desktop
+spotify
 telegram-desktop-bin
 trizen
 xcursor-human

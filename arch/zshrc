@@ -9,7 +9,7 @@ source <(antibody init)
 antibody bundle < $ZSH/bundle.txt
 echo "\e[32mAntibody \u2714\e[0m"
 
-for file in $ZSH/*.zsh 
+for file in $ZSH/*.zsh
 do
   source "$file"
 done
@@ -32,7 +32,7 @@ echo "\e[32mFixed\e[0m \e[33mls colors\e[0m \e[32m\u2714\e[0m"
 
 ## Use default versions from different VMs
 nvm use default --silent
-pyenv shell 3.7.1
+pyenv shell 3.7.2
 pyenv virtualenvwrapper
 echo "\e[32mLanguage defaults \u2714\e[0m"
 
@@ -84,4 +84,3 @@ echo "\n\e[1;4;32mGreetings \e[0;1;4;33m$USER.\e[0m"
 
 [ -f ~/dotfiles/zsh/fzf.zsh ] && source ~/dotfiles/zsh/fzf.zsh
 [ -f /etc/profile.d/emscripten.sh ] && source /etc/profile.d/emscripten.sh
-
