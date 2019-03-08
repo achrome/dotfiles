@@ -1723,6 +1723,7 @@ libcryptui
 libcue
 libcups
 libcurl-compat
+libcurl-gnutls
 libdaemon
 libdaq
 libdatrie
@@ -2942,6 +2943,7 @@ python-case
 python-cchardet
 python-celery
 python-cement
+python-censys
 python-certifi
 python-cffi
 python-chardet
@@ -3112,6 +3114,7 @@ python-psycopg2
 python-ptrace
 python-ptyprocess
 python-py
+python-pyaml
 python-pyasn1
 python-pyasn1-modules
 python-pycares
@@ -3954,7 +3957,6 @@ replayproxy
 responder
 responder-multirelay
 rest
-rethinkdb
 reverseip
 revipd
 revsh
@@ -4787,7 +4789,6 @@ xorg-font-util
 xorg-font-utils
 xorg-fonts-encodings
 xorg-luit
-xorg-mkfontdir
 xorg-mkfontscale
 xorg-server
 xorg-server-common
