@@ -3137,6 +3137,7 @@ python-pynacl
 python-pyof
 python-pyopenssl
 python-pyparsing
+python-pypdf2
 python-pypdns
 python-pype32
 python-pyperclip
@@ -3252,7 +3253,6 @@ python-wtforms
 python-www-authenticate
 python-xdg
 python-xlrd
-python-xls-writer
 python-xlsxwriter
 python-xmltodict
 python-xpath-expressions
@@ -3586,6 +3586,7 @@ python2-pep517
 python2-pexpect
 python2-pgcli
 python2-pgspecial
+python2-phonenumbers
 python2-phply
 python2-pickleshare
 python2-pillow
