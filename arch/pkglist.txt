@@ -1017,6 +1017,7 @@ gtkmm
 gtkmm3
 gtksourceview2
 gtksourceview3
+gtksourceview4
 gtkspell
 gtkspell3
 gtp-scan
@@ -2667,6 +2668,7 @@ perl-net-telnet
 perl-net-tftp
 perl-net-whois-ip
 perl-net-write
+perl-net-write-fast
 perl-netaddr-ip
 perl-netpacket
 perl-number-bytes-human
@@ -3034,6 +3036,7 @@ python-ipykernel
 python-ipywidgets
 python-isort
 python-itsdangerous
+python-ivre
 python-jdcal
 python-jedi
 python-jinja
@@ -3058,6 +3061,7 @@ python-logbook
 python-lxml
 python-magic
 python-mako
+python-markdown
 python-markupsafe
 python-matplotlib
 python-mechanicalsoup
@@ -4800,6 +4804,7 @@ xorg-twm
 xorg-xauth
 xorg-xclipboard
 xorg-xclock
+xorg-xcursorgen
 xorg-xdpyinfo
 xorg-xhost
 xorg-xinit
