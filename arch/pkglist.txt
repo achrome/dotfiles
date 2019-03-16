@@ -18,6 +18,7 @@ adfind
 admid-pack
 adminpagefinder
 admsnmp
+adobe-source-code-pro-fonts
 adwaita-icon-theme
 aesfix
 aeskeyfind
@@ -84,7 +85,6 @@ apkstat
 apkstudio
 apnbf
 appmon
-appstream-glib
 apr
 apr-util
 apt2
@@ -1794,6 +1794,7 @@ libgudev
 libgusb
 libgweather
 libgxps
+libhandy
 libheif
 libibus
 libical
@@ -1983,6 +1984,7 @@ libxklavier
 libxml++
 libxml-perl
 libxml2
+libxmlb
 libxmu
 libxpm
 libxrandr
@@ -4804,7 +4806,6 @@ xorg-twm
 xorg-xauth
 xorg-xclipboard
 xorg-xclock
-xorg-xcursorgen
 xorg-xdpyinfo
 xorg-xhost
 xorg-xinit
