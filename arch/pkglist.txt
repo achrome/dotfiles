@@ -129,6 +129,7 @@ atscan
 atstaketools
 attica
 attr
+audiofile
 audit
 augeas
 auto-xor-decryptor
@@ -539,6 +540,7 @@ dleyna-connector-dbus
 dleyna-core
 dleyna-renderer
 dleyna-server
+dmenu
 dmidecode
 dmitry
 dmraid
@@ -859,6 +861,7 @@ ghettotooth
 ghost-phisher
 ghost-py
 ghostscript
+giblib
 giflib
 gimp
 gimp-help-en
@@ -1510,6 +1513,7 @@ jwt-cracker
 kacak
 kadimus
 kalibrate-rtl
+kamene
 karchive
 katana
 katsnoop
@@ -1819,12 +1823,14 @@ liblognorm
 liblouis
 liblphobos
 liblqr
+libmad
 libmagick
 libmagick6
 libmaxminddb
 libmcrypt
 libmediaart
 libmicrohttpd
+libmikmod
 libmm-glib
 libmms
 libmng
@@ -1834,6 +1840,7 @@ libmp4v2
 libmpack
 libmpc
 libmpcdec
+libmpdclient
 libmpeg2
 libmspub
 libmtp
@@ -1932,6 +1939,7 @@ libtool
 libuhd
 libunistring
 libunwind
+libupnp
 liburcu
 libusb
 libusb-compat
@@ -2200,6 +2208,8 @@ mousejack
 mousetweaks
 mozilla-common
 mp3nema
+mpc
+mpd
 mpfr
 mpg123
 mptcp
@@ -4102,6 +4112,7 @@ scrape-dns
 scrapy
 scratchabit
 screen
+scrot
 scrounge-ntfs
 sctpscan
 sdl
@@ -4189,6 +4200,7 @@ slang
 sleuthkit
 sleuthkit-java
 sleuthql
+slock
 sloth-fuzzer
 slowloris
 slowloris-py
@@ -4537,6 +4549,7 @@ ufonet
 uglify-js
 umap
 umit
+unclutter
 unhide
 unibilium
 unibrute
