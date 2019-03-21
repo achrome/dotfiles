@@ -177,6 +177,7 @@ bbqsql
 bbscan
 bbswitch
 bc
+bcg729
 bdfproxy
 bdlogparser
 bed
@@ -4726,8 +4727,7 @@ wiredtiger
 wireless-ids
 wireless_tools
 wireshark-cli
-wireshark-common
-wireshark-gtk
+wireshark-qt
 wirouter-keyrec
 witchxtool
 wkhtmltopdf
