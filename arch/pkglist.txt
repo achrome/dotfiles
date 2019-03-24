@@ -3882,6 +3882,7 @@ python2-whichcraft
 python2-whoosh
 python2-win_inet_pton
 python2-wrapt
+python2-wsaccel
 python2-wsgiref
 python2-wtforms
 python2-wxpython3
