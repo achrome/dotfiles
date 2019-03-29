@@ -816,7 +816,6 @@ fuzztalk
 fzf
 g72x++
 galleta
-gamin
 gasmask
 gatecrasher
 gavl
@@ -2484,6 +2483,7 @@ patator
 patch
 patchkit
 pathzuzu
+pavucontrol
 payloadmask
 pblind
 pcapfex
