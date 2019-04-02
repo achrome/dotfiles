@@ -161,7 +161,6 @@ epiphany
 erlang
 espeak
 etckeeper
-evilginx
 evince
 evolution
 evolution-data-server
@@ -594,7 +593,6 @@ iproute2
 ipset
 iptables
 ipython
-ipython2
 iso-codes
 iw
 jack
@@ -1275,7 +1273,6 @@ pygtk
 pyqt5-common
 python
 python-appdirs
-python-argparse
 python-asn1crypto
 python-atspi
 python-attrs
@@ -1307,7 +1304,6 @@ python-dnspython
 python-docutils
 python-entrypoints
 python-et-xmlfile
-python-future
 python-gobject
 python-h2
 python-hpack
@@ -1369,7 +1365,6 @@ python-pyparsing
 python-pyqt5
 python-pyserial
 python-pysmi
-python-pysnmp
 python-pysocks
 python-pytoml
 python-pytz
@@ -1540,7 +1535,6 @@ rfdump
 rhash
 ripgrep
 rlwrap
-routersploit
 rpcbind
 rsync
 rtkit
