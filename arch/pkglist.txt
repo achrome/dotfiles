@@ -1421,7 +1421,6 @@ python2-cssselect
 python2-cycler
 python2-dateutil
 python2-dbus
-python2-decorator
 python2-defusedxml
 python2-distlib
 python2-distro
@@ -1458,7 +1457,6 @@ python2-openpyxl
 python2-packaging
 python2-pandas
 python2-paramiko
-python2-pathlib
 python2-pep517
 python2-pillow
 python2-pip
@@ -1466,7 +1464,6 @@ python2-ply
 python2-progress
 python2-psutil
 python2-psycopg2
-python2-ptyprocess
 python2-pyasn1
 python2-pyasn1-modules
 python2-pycparser
@@ -1495,7 +1492,6 @@ python2-subprocess32
 python2-tornado
 python2-twisted
 python2-urllib3
-python2-wcwidth
 python2-webencodings
 python2-wxpython3
 python2-xlrd
