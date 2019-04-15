@@ -9,8 +9,6 @@ dudley
 edex-ui
 ffdec
 google-cloud-sdk
-grpc
-grpc-cli
 hyper
 i3-gnome
 insomnia
@@ -25,12 +23,10 @@ libc++abi
 libc++experimental
 minikube-bin
 morxtunnel
-nautilus-dropbox
 package-query
 pcmciautils
-php-grpc
-qca-qt4
 reaper
+rethinkdb
 simplenote-electron-bin
 skypeforlinux-stable-bin
 slack-desktop
