@@ -1041,7 +1041,6 @@ lldb
 llvm
 llvm-libs
 llvm6-libs
-llvm7-libs
 lm_sensors
 lmdb
 lmms
