@@ -584,7 +584,7 @@ iana-etc
 icu
 ijs
 ilmbase
-imagemagick6
+imagemagick
 imlib2
 inetutils
 iniparser
@@ -856,8 +856,8 @@ liblangtag
 libldap
 liblouis
 liblqr
+liblrdf
 libmad
-libmagick
 libmagick6
 libmaxminddb
 libmediaart
@@ -1499,7 +1499,6 @@ python2-xlwt
 python2-zope-interface
 qemu
 qrencode
-qt4
 qt5-base
 qt5-declarative
 qt5-location
