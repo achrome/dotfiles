@@ -1325,7 +1325,9 @@ python-jmespath
 python-jsonschema
 python-jupyter_client
 python-jupyter_core
+python-kaptan
 python-kiwisolver
+python-libtmux
 python-lockfile
 python-lxml
 python-mako
@@ -1629,6 +1631,8 @@ thunderbird
 tinycdb
 tinyxml
 tk
+tmux
+tmuxp
 tor
 tor-browser-en
 totem
