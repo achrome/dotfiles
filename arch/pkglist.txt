@@ -616,7 +616,6 @@ jre7-openjdk
 jre7-openjdk-headless
 jre8-openjdk
 jre8-openjdk-headless
-js52
 js60
 json-c
 json-glib
@@ -1213,6 +1212,7 @@ perl-http-daemon
 perl-http-date
 perl-http-message
 perl-http-negotiate
+perl-image-exiftool
 perl-io-html
 perl-io-socket-ssl
 perl-io-tty
@@ -1505,6 +1505,7 @@ qt5-base
 qt5-declarative
 qt5-location
 qt5-multimedia
+qt5-quickcontrols
 qt5-script
 qt5-sensors
 qt5-speech
