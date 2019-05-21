@@ -929,6 +929,7 @@ librevenge
 librsvg
 libsamplerate
 libsasl
+libsass
 libseccomp
 libsecret
 libshout
@@ -1124,6 +1125,7 @@ networkmanager
 networkmanager-openvpn
 nftables
 nginx
+ninja
 nitrogen
 nm-connection-editor
 nmap
