@@ -519,6 +519,7 @@ haskell-skylighting-core
 haskell-smallcheck
 haskell-socks
 haskell-split
+haskell-splitmix
 haskell-statevar
 haskell-stm-chans
 haskell-store
@@ -541,6 +542,7 @@ haskell-th-lift-instances
 haskell-th-orphans
 haskell-th-reify-many
 haskell-th-utilities
+haskell-time-compat
 haskell-time-locale-compat
 haskell-tls
 haskell-transformers-base
