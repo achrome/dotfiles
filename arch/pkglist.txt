@@ -593,7 +593,6 @@ inetutils
 iniparser
 inkscape
 intel-tbb
-intellij-idea-community-edition
 iproute2
 ipset
 iptables

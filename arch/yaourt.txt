@@ -4,9 +4,7 @@ cheetah-suite
 cmusfm
 discord
 docker-machine-driver-kvm2
-dropbox
 dudley
-edex-ui
 ffdec
 google-cloud-sdk
 hyper
