@@ -606,6 +606,7 @@ java-environment-common
 java-openjfx
 java-runtime-common
 jbig2dec
+jdk-openjdk
 jdk10-openjdk
 jdk8-openjdk
 jemalloc
@@ -907,6 +908,7 @@ libgpg-error
 libgphoto2
 libgrss
 libgsf
+libgssglue
 libgtop
 libgudev
 libgusb
@@ -1166,6 +1168,7 @@ mate-icon-theme
 mate-icon-theme-faenza
 materia-gtk-theme
 mathjax
+mbedtls
 mdadm
 media-player-info
 mediainfo
@@ -1460,6 +1463,7 @@ python-pynacl
 python-pyopenssl
 python-pyparsing
 python-pyqt5
+python-pyrsistent
 python-pyserial
 python-pysocks
 python-pytoml
