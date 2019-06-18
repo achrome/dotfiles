@@ -50,7 +50,6 @@ babl
 baobab
 bash
 bat
-bazel
 bbswitch
 bc
 bcg729
@@ -154,7 +153,6 @@ electron
 elementary-icon-theme
 elfutils
 elinks
-emscripten
 enchant
 eog
 epiphany
@@ -603,7 +601,6 @@ jack
 jansson
 jasper
 java-environment-common
-java-openjfx
 java-runtime-common
 jbig2dec
 jdk-openjdk
