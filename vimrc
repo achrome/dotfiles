@@ -226,6 +226,8 @@ Plug 'sheerun/vim-polyglot'
 
 Plug 'jeetsukumaran/vim-buffergator'
 
+Plug 'ryanoasis/vim-devicons'
+
 if !empty(filter(copy(g:plugs), '!isdirectory(v:val.dir)'))
 	autocmd VimEnter * PlugInstall | q
 endif
