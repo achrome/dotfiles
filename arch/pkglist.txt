@@ -96,7 +96,6 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
-cmake
 cmark-gfm
 cmus
 code
@@ -652,6 +651,7 @@ knotifications
 krb5
 kservice
 ktextwidgets
+kubectl
 kwallet
 kwidgetsaddons
 kwindowsystem
@@ -1876,6 +1876,7 @@ xz
 yajl
 yaml-cpp
 yarn
+yay
 yelp
 yelp-xsl
 zenity

@@ -1,18 +1,14 @@
 alsi
 brave-bin
-cheetah-suite
 cmusfm
 discord
 docker-machine-driver-kvm2
-dudley
 ffdec
 google-cloud-sdk
 hyper
 i3-gnome
 insomnia
-jsql
 kafka
-kubectl-bin
 kubernetes-helm
 lain-git
 leiningen
@@ -20,9 +16,7 @@ libc++
 libc++abi
 libc++experimental
 minikube-bin
-morxtunnel
 package-query
-pcmciautils
 reaper
 rethinkdb
 simplenote-electron-bin
@@ -33,6 +27,5 @@ telegram-desktop-bin
 trizen
 xcursor-human
 xcursor-openzone
-yaourt
 zookeeper
 zuki-themes
