@@ -16,7 +16,7 @@ done
 
 ### Version Managers
 # Groovy, grails and others goodies
-export SDKMAN_DIR="$HOME/.sdkman" && source "$HOME/.sdkman/bin/sdkman-init.sh"
+# export SDKMAN_DIR="$HOME/.sdkman" && source "$HOME/.sdkman/bin/sdkman-init.sh"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 [[ -s "/home/achrome/.gvm/scripts/gvm" ]] && source "/home/achrome/.gvm/scripts/gvm"
 eval "$(pyenv init -)"
