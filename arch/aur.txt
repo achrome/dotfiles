@@ -1,4 +1,5 @@
 alsi
+antibody
 brave-bin
 cmusfm
 discord
@@ -17,7 +18,7 @@ libc++abi
 libc++experimental
 minikube-bin
 package-query
-reaper
+reaper-bin
 rethinkdb
 simplenote-electron-bin
 skypeforlinux-stable-bin
