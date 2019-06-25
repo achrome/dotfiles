@@ -53,6 +53,7 @@ bat
 bbswitch
 bc
 bcg729
+bind-tools
 binutils
 bison
 blackarch-keyring
@@ -593,6 +594,7 @@ intel-tbb
 iproute2
 ipset
 iptables
+iputils
 ipython
 iso-codes
 iw
