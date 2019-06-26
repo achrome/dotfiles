@@ -620,7 +620,6 @@ jre8-openjdk-headless
 js60
 json-c
 json-glib
-jsoncpp
 julia
 jupyter
 jupyter-nbconvert
@@ -1622,7 +1621,6 @@ redland
 reiserfsprogs
 rest
 rfdump
-rhash
 ripgrep
 rlwrap
 rpcbind
