@@ -140,6 +140,7 @@ dmraid
 dnsmasq
 dnssec-anchors
 docker
+docker-compose
 docker-machine
 dosfstools
 dotconf
@@ -150,6 +151,7 @@ ebtables
 efibootmgr
 efivar
 electron
+electron4
 elementary-icon-theme
 elfutils
 elinks
@@ -435,6 +437,7 @@ haskell-hinotify
 haskell-hourglass
 haskell-hpack
 haskell-hslua
+haskell-hslua-module-system
 haskell-hslua-module-text
 haskell-hspec
 haskell-hspec-core
@@ -1380,6 +1383,7 @@ python-bleach
 python-botocore
 python-brotlipy
 python-cachecontrol
+python-cached-property
 python-cairo
 python-cffi
 python-chardet
@@ -1397,6 +1401,10 @@ python-defusedxml
 python-distlib
 python-distro
 python-dnspython
+python-docker
+python-docker-pycreds
+python-dockerpty
+python-docopt
 python-docutils
 python-entrypoints
 python-et-xmlfile
@@ -1482,12 +1490,14 @@ python-soupsieve
 python-sqlalchemy
 python-terminado
 python-testpath
+python-texttable
 python-tornado
 python-traitlets
 python-twisted
 python-urllib3
 python-wcwidth
 python-webencodings
+python-websocket-client
 python-xdg
 python-xlrd
 python-xlsxwriter
