@@ -242,8 +242,9 @@ augroup END " }
 au FocusLost,WinLeave * :silent! wa
 au FocusGained,BufEnter * :silent! !
 
-set background=dark
 colorscheme materialbox
+set background=dark
+highlight Normal ctermbg=None
 
 command! W w
 command! Wq wq
