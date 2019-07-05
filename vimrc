@@ -242,7 +242,8 @@ augroup END " }
 au FocusLost,WinLeave * :silent! wa
 au FocusGained,BufEnter * :silent! !
 
-colorscheme molokai
+set background=dark
+colorscheme materialbox
 
 command! W w
 command! Wq wq
