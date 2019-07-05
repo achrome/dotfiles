@@ -97,6 +97,7 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
+cmake
 cmark-gfm
 cmus
 code
@@ -167,6 +168,7 @@ evolution-data-server
 exempi
 exiv2
 expat
+extra-cmake-modules
 faac
 faad2
 faenza-icon-theme
@@ -623,6 +625,7 @@ jre8-openjdk-headless
 js60
 json-c
 json-glib
+jsoncpp
 julia
 jupyter
 jupyter-nbconvert
@@ -1631,6 +1634,7 @@ redland
 reiserfsprogs
 rest
 rfdump
+rhash
 ripgrep
 rlwrap
 rpcbind
