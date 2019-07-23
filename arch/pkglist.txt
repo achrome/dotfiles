@@ -10,12 +10,6 @@ alembic
 alsa-lib
 alsa-plugins
 alsa-utils
-android-apktool
-android-ndk
-android-sdk
-android-sdk-build-tools
-android-sdk-platform-tools
-android-udev-rules
 ansible
 aom
 apache
@@ -1221,6 +1215,7 @@ networkmanager
 networkmanager-openvpn
 nftables
 nginx
+ninja
 nitrogen
 nm-connection-editor
 nmap
