@@ -24,6 +24,7 @@ arduino
 arduino-builder
 arduino-ctags
 argon2
+asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -231,10 +232,7 @@ giflib
 gimp
 gimp-help-en
 git
-gitlab
 gitlab-gitaly
-gitlab-shell
-gitlab-workhorse
 gjs
 glew
 glew1.10
