@@ -606,6 +606,7 @@ jdk10-openjdk
 jdk8-openjdk
 jemalloc
 jfsutils
+jq
 jre-openjdk
 jre-openjdk-headless
 jre10-openjdk
@@ -1232,6 +1233,7 @@ ocaml
 ocaml-compiler-libs
 ocl-icd
 odt2txt
+oniguruma
 opam
 openal
 openblas
