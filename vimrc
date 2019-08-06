@@ -131,9 +131,9 @@ Plug 'Xuyuanp/nerdtree-git-plugin'
 
 Plug 'tpope/vim-surround'
 
-Plug 'kien/ctrlp.vim'
-let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|.git'
-au FocusGained,BufWritePost * :CtrlPClearCache
+" Plug 'kien/ctrlp.vim'
+" let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|.git'
+" au FocusGained,BufWritePost * :CtrlPClearCache
 
 Plug 'airblade/vim-gitgutter'
 
@@ -179,7 +179,7 @@ Plug 'prettier/vim-prettier', {
 	\ 'do': 'yarn install',
 	\ 'for': ['javascript', 'typescript', 'css', 'less', 'scss', 'json', 'graphql', 'markdown', 'vue'] }
 let g:prettier#autoformat = 0
-autocmd BufWritePre *.js,*.jsx,*.mjs,*.ts,*.tsx,*.css,*.less,*.scss,*.json,*.graphql,*.md,*.vue PrettierAsync
+" autocmd BufWritePre *.js,*.jsx,*.mjs,*.ts,*.tsx,*.css,*.less,*.scss,*.json,*.graphql,*.md,*.vue PrettierAsync
 let g:prettier#config#single_quote = 'true'
 
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
@@ -200,6 +200,22 @@ let g:fzf_colors =
 	\ 'spinner': ['fg', 'Label'],
 	\ 'header':  ['fg', 'Comment']
 	\ }
+
+Plug 'junegunn/fzf.vim'
+let g:fzf_action = {
+  \ 'ctrl-s': 'vsplit',
+  \ 'ctrl-v': 'split'
+  \ }
+
+nnoremap <c-p> :FZF<cr>
+
+augroup fzf
+  autocmd!
+  autocmd! FileType fzf
+  autocmd  FileType fzf set laststatus=0 noshowmode noruler
+    \| autocmd BufLeave <buffer> set laststatus=2 showmode ruler
+augroup END
+
 
 Plug 'flazz/vim-colorschemes'
 
