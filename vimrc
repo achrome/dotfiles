@@ -207,7 +207,8 @@ let g:fzf_action = {
   \ 'ctrl-v': 'split'
   \ }
 
-nnoremap <c-p> :FZF<cr>
+nnoremap <C-p> :FZF<cr>
+nnoremap <C-g> :Rg<cr>
 
 augroup fzf
   autocmd!
