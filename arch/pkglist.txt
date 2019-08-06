@@ -232,7 +232,6 @@ giflib
 gimp
 gimp-help-en
 git
-gitlab-gitaly
 gjs
 glew
 glew1.10
@@ -427,6 +426,7 @@ haskell-glob
 haskell-hackage-security
 haskell-haddock-library
 haskell-hashable
+haskell-hi-file-parser
 haskell-hinotify
 haskell-hourglass
 haskell-hpack
@@ -444,6 +444,7 @@ haskell-http-api-data
 haskell-http-client
 haskell-http-client-tls
 haskell-http-conduit
+haskell-http-download
 haskell-http-types
 haskell-hunit
 haskell-hxt
@@ -475,10 +476,13 @@ haskell-network
 haskell-network-uri
 haskell-old-locale
 haskell-old-time
+haskell-only
 haskell-open-browser
 haskell-optparse-applicative
+haskell-optparse-generic
 haskell-optparse-simple
 haskell-pandoc-types
+haskell-pantry
 haskell-parser-combinators
 haskell-path
 haskell-path-io
@@ -502,7 +506,10 @@ haskell-resource-pool
 haskell-resourcet
 haskell-retry
 haskell-rio
+haskell-rio-orphans
+haskell-rio-prettyprint
 haskell-safe
+haskell-safe-exceptions
 haskell-scientific
 haskell-semigroupoids
 haskell-setenv
@@ -526,7 +533,9 @@ haskell-system-filepath
 haskell-tagged
 haskell-tagsoup
 haskell-tar
+haskell-tar-conduit
 haskell-temporary
+haskell-terminal-size
 haskell-texmath
 haskell-text-metrics
 haskell-tf-random
@@ -587,6 +596,7 @@ imlib2
 inetutils
 iniparser
 inkscape
+inotify-tools
 intel-tbb
 iproute2
 ipset
@@ -1128,7 +1138,6 @@ linux-headers
 lldb
 llvm
 llvm-libs
-llvm6-libs
 lm_sensors
 lmdb
 lmms
