@@ -207,7 +207,7 @@ let g:fzf_action = {
   \ 'ctrl-v': 'split'
   \ }
 
-nnoremap <C-p> :FZF<cr>
+nnoremap <C-p> :Files<cr>
 nnoremap <C-g> :Rg<cr>
 
 augroup fzf
@@ -230,7 +230,7 @@ vmap <C-Up> [egv
 vmap <C-Down> ]egv
 
 Plug 'w0rp/ale'
-let g:ale_fix_on_save = 1
+let g:ale_fix_on_save = 0
 let g:ale_fixers = {
 	\	'*':  ['remove_trailing_lines', 'trim_whitespace'],
 	\ 'javascript': ['eslint', 'prettier'],
