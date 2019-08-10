@@ -1,3 +1,4 @@
+a52dec
 aalib
 accountsservice
 acl
@@ -24,6 +25,7 @@ arduino
 arduino-builder
 arduino-ctags
 argon2
+aribb24
 asar
 aspell
 at-spi2-atk
@@ -112,6 +114,7 @@ crystal
 ctags
 cups-pk-helper
 curl
+dav1d
 db
 dbus
 dbus-glib
@@ -124,6 +127,7 @@ dex
 dhclient
 dhcpcd
 diffutils
+discord
 djvulibre
 dkms
 dleyna-connector-dbus
@@ -299,7 +303,6 @@ gperftools
 gpgme
 gpm
 gptfdisk
-grafana
 graphene
 graphite
 graphviz
@@ -877,9 +880,11 @@ libdmapsharing
 libdmx
 libdrm
 libdv
+libdvbpsi
 libdvdnav
 libdvdread
 libe-book
+libebml
 libedit
 libelf
 libepoxy
@@ -950,6 +955,7 @@ liblqr
 liblrdf
 libmad
 libmagick6
+libmatroska
 libmaxminddb
 libmediaart
 libmediainfo
@@ -1043,6 +1049,7 @@ libssh2
 libstaroffice
 libstemmer
 libsynctex
+libtar
 libtasn1
 libteam
 libtermkey
@@ -1265,6 +1272,7 @@ opensubdiv
 openvas-libraries
 openvdb
 openvpn
+opera-ffmpeg-codecs
 opus
 opusfile
 orc
@@ -1806,6 +1814,7 @@ virt-install
 virtualbox
 virtualbox-guest-dkms
 virtualbox-host-dkms
+vlc
 volume_key
 vte-common
 vte3
