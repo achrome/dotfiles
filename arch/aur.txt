@@ -2,7 +2,6 @@ alsi
 antibody
 brave-bin
 cmusfm
-discord
 docker-machine-driver-kvm2
 ffdec
 google-cloud-sdk

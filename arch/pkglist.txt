@@ -243,6 +243,7 @@ glib-networking
 glib2
 glibc
 glibmm
+glslang
 glu
 glusterfs
 gmime3
@@ -353,6 +354,7 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
+gvm-libs
 gzip
 haproxy
 harfbuzz
@@ -655,12 +657,18 @@ kglobalaccel
 kguiaddons
 ki18n
 kiconthemes
+kinit
 kio
 kitemviews
 kitty
 kjobwidgets
 kmod
+knewstuff
 knotifications
+knotifyconfig
+konsole
+kparts
+kpty
 krb5
 kservice
 ktextwidgets
@@ -1009,6 +1017,7 @@ libpeas
 libpgm
 libphonenumber
 libpipeline
+libplacebo
 libplist
 libpng
 libpng12
@@ -1269,7 +1278,6 @@ openssh
 openssl
 openssl-1.0
 opensubdiv
-openvas-libraries
 openvdb
 openvpn
 opera-ffmpeg-codecs
@@ -1357,6 +1365,7 @@ pipewire
 pixman
 pkcs11-helper
 pkgconf
+playerctl
 plotutils
 polkit
 polkit-qt5
@@ -1574,7 +1583,6 @@ python2-numpy
 python2-olefile
 python2-openpyxl
 python2-packaging
-python2-pandas
 python2-paramiko
 python2-pep517
 python2-pillow
@@ -1681,6 +1689,7 @@ seabios
 sed
 semver
 serf
+shaderc
 shadow
 shards
 shared-color-targets
@@ -1707,6 +1716,7 @@ speexdsp
 spice
 spice-gtk
 spike
+spirv-tools
 sploitctl
 sqlcipher
 sqlite
@@ -1906,6 +1916,7 @@ yarn
 yay
 yelp
 yelp-xsl
+zbar
 zenity
 zeromq
 zip
