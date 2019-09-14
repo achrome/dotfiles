@@ -198,6 +198,7 @@ frei0r-plugins
 fribidi
 fuse-common
 fuse2
+fuse3
 fzf
 gavl
 gawk
@@ -285,7 +286,6 @@ gnome-software
 gnome-system-monitor
 gnome-terminal
 gnome-themes-extra
-gnome-todo
 gnome-tweaks
 gnome-user-docs
 gnome-user-share
@@ -1100,6 +1100,7 @@ libwebp
 libwmf
 libwnck3
 libwpd
+libwpe
 libwpg
 libwps
 libwrap
@@ -1188,6 +1189,7 @@ mate-icon-theme
 mate-icon-theme-faenza
 materia-gtk-theme
 mathjax
+mathjax2
 mbedtls
 mdadm
 media-player-info
@@ -1218,6 +1220,7 @@ mtools
 musescore
 mutter
 mypaint-brushes
+mypaint-brushes1
 nano
 nautilus
 nautilus-sendto
@@ -1436,6 +1439,7 @@ python-html5lib
 python-hyperframe
 python-hyperlink
 python-idna
+python-importlib-metadata
 python-incremental
 python-ipykernel
 python-ipywidgets
@@ -1456,6 +1460,7 @@ python-markdown
 python-markupsafe
 python-matplotlib
 python-mistune
+python-more-itertools
 python-msgpack
 python-netaddr
 python-nose
@@ -1484,6 +1489,7 @@ python-pyasn1
 python-pyasn1-modules
 python-pycparser
 python-pycryptodome
+python-pygit2
 python-pygments
 python-pyhamcrest
 python-pynacl
@@ -1509,6 +1515,7 @@ python-six
 python-slip
 python-soupsieve
 python-sqlalchemy
+python-termcolor
 python-terminado
 python-testpath
 python-texttable
@@ -1523,6 +1530,7 @@ python-xdg
 python-xlrd
 python-xlsxwriter
 python-yaml
+python-zipp
 python-zope-interface
 python2
 python2-appdirs
@@ -1540,7 +1548,9 @@ python2-cffi
 python2-chardet
 python2-click
 python2-colorama
+python2-configparser
 python2-constantly
+python2-contextlib2
 python2-cryptography
 python2-cssselect
 python2-cycler
@@ -1563,6 +1573,7 @@ python2-html5lib
 python2-hyperframe
 python2-hyperlink
 python2-idna
+python2-importlib-metadata
 python2-incremental
 python2-ipaddress
 python2-jdcal
@@ -1570,6 +1581,7 @@ python2-kiwisolver
 python2-lockfile
 python2-lxml
 python2-markupsafe
+python2-more-itertools
 python2-msgpack
 python2-ndg-httpsclient
 python2-nose
@@ -1577,6 +1589,7 @@ python2-numpy
 python2-olefile
 python2-packaging
 python2-paramiko
+python2-pathlib2
 python2-pep517
 python2-pillow
 python2-pip
@@ -1600,6 +1613,7 @@ python2-pytoml
 python2-pytz
 python2-requests
 python2-retrying
+python2-scandir
 python2-service-identity
 python2-setuptools
 python2-singledispatch
@@ -1612,6 +1626,7 @@ python2-twisted
 python2-urllib3
 python2-webencodings
 python2-wxpython3
+python2-zipp
 python2-zope-interface
 qemu
 qrencode
@@ -1833,6 +1848,7 @@ wireshark-cli
 wireshark-qt
 woff2
 wpa_supplicant
+wpebackend-fdo
 wxgtk-common
 wxgtk2
 wxgtk3
@@ -1857,6 +1873,7 @@ xcursor-simpleandsoft
 xcursor-themes
 xcursor-vanilla-dmz
 xcursor-vanilla-dmz-aa
+xdg-dbus-proxy
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
