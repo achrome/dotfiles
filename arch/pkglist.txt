@@ -333,10 +333,8 @@ gtk2
 gtk3
 gtkmm
 gtkmm3
-gtksourceview3
 gtksourceview4
 gtkspell
-gtkspell3
 gts
 guake
 guile
@@ -437,9 +435,6 @@ haskell-hpack
 haskell-hslua
 haskell-hslua-module-system
 haskell-hslua-module-text
-haskell-hspec-core
-haskell-hspec-discover
-haskell-hspec-expectations
 haskell-hsyaml
 haskell-http
 haskell-http-api-data
@@ -461,7 +456,6 @@ haskell-lexer
 haskell-libyaml
 haskell-lifted-async
 haskell-lifted-base
-haskell-logict
 haskell-megaparsec
 haskell-memory
 haskell-microlens
@@ -498,7 +492,6 @@ haskell-primitive
 haskell-profunctors
 haskell-project-template
 haskell-quickcheck
-haskell-quickcheck-io
 haskell-random
 haskell-regex-applicative
 haskell-regex-applicative-text
@@ -514,13 +507,11 @@ haskell-safe
 haskell-safe-exceptions
 haskell-scientific
 haskell-semigroupoids
-haskell-setenv
 haskell-sha
 haskell-shelly
 haskell-silently
 haskell-skylighting
 haskell-skylighting-core
-haskell-smallcheck
 haskell-socks
 haskell-split
 haskell-splitmix
@@ -538,7 +529,6 @@ haskell-temporary
 haskell-terminal-size
 haskell-texmath
 haskell-text-metrics
-haskell-tf-random
 haskell-th-abstraction
 haskell-th-expand-syns
 haskell-th-lift
@@ -656,6 +646,7 @@ kinit
 kio
 kitemviews
 kitty
+kitty-terminfo
 kjobwidgets
 kmod
 knewstuff
@@ -1533,7 +1524,6 @@ python2-asn1crypto
 python2-attrs
 python2-automat
 python2-backports
-python2-backports-abc
 python2-backports.functools_lru_cache
 python2-bcrypt
 python2-beautifulsoup4
@@ -1552,7 +1542,6 @@ python2-dbus
 python2-distlib
 python2-distro
 python2-enum34
-python2-futures
 python2-gevent
 python2-gobject
 python2-gobject2
@@ -1573,7 +1562,6 @@ python2-more-itertools
 python2-msgpack
 python2-ndg-httpsclient
 python2-numpy
-python2-olefile
 python2-packaging
 python2-paramiko
 python2-pathlib2
@@ -1585,13 +1573,11 @@ python2-psutil
 python2-pyasn1
 python2-pyasn1-modules
 python2-pycparser
-python2-pycurl
 python2-pygments
 python2-pyhamcrest
 python2-pynacl
 python2-pyopenssl
 python2-pyparsing
-python2-pyqt5
 python2-pyserial
 python2-pysocks
 python2-pytoml
@@ -1600,8 +1586,6 @@ python2-retrying
 python2-scandir
 python2-service-identity
 python2-setuptools
-python2-singledispatch
-python2-sip-pyqt5
 python2-six
 python2-soupsieve
 python2-twisted
