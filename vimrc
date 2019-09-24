@@ -175,6 +175,8 @@ aug omnicomplete
     au FileType xml setl omnifunc=xmlcomplete#CompleteTags
 aug END
 
+autocmd InsertLeave,CompleteDone * if pumvisible() == 0 | silent! pclose | endif
+
 Plug 'deoplete-plugins/deoplete-jedi'
 Plug 'deoplete-plugins/deoplete-go'
 Plug 'deoplete-plugins/deoplete-clang'
