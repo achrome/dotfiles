@@ -444,7 +444,6 @@ haskell-http-client-tls
 haskell-http-conduit
 haskell-http-download
 haskell-http-types
-haskell-hunit
 haskell-hxt
 haskell-hxt-charproperties
 haskell-hxt-regex-xmlschema
