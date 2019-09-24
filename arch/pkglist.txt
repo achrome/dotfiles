@@ -351,6 +351,7 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
+gvim
 gvm-libs
 gzip
 haproxy
@@ -1419,6 +1420,7 @@ python-docutils
 python-entrypoints
 python-et-xmlfile
 python-gobject
+python-greenlet
 python-h2
 python-hpack
 python-html5lib
@@ -1479,6 +1481,7 @@ python-pygit2
 python-pygments
 python-pyhamcrest
 python-pynacl
+python-pynvim
 python-pyopenssl
 python-pyparsing
 python-pyqt5
@@ -1783,7 +1786,6 @@ veracrypt
 vi
 vicious
 vid.stab
-vim
 vim-runtime
 vino
 virglrenderer

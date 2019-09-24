@@ -64,9 +64,6 @@ set paste
 " Force fileformats to unix like line endings
 set fileformats=unix
 
-" Set a global clipboard
-set clipboard=*
-
 " Set a colored line at column 100
 set colorcolumn=101
 
@@ -101,6 +98,8 @@ endif
 
 " Set the terminal title
 set title
+
+set pyxversion=3
 
 set wildmode=list:longest,list:full
 set wildmenu
@@ -152,8 +151,45 @@ let g:airline_powerline_fonts = 1
 Plug 'vim-airline/vim-airline-themes'
 let g:airline_theme = 'minimalist'
 
-Plug 'valloric/YouCompleteMe', { 'do': './install.py --all' }
-let g:ycm_autoclose_preview_window_after_completion = 1
+" Plug 'valloric/YouCompleteMe', { 'do': './install.py --all' }
+" let g:ycm_autoclose_preview_window_after_completion = 1
+
+if has('nvim')
+	Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
+else
+	Plug 'Shougo/deoplete.nvim'
+	Plug 'roxma/nvim-yarp'
+	Plug 'roxma/vim-hug-neovim-rpc'
+endif
+let g:python3_host_prog = '/usr/bin/python3'
+let g:deoplete#enable_at_startup = 1
+let g:deoplete#auto_completion_start_length = 1
+let g:deoplete#enable_smart_case = 1
+
+aug omnicomplete
+  au!
+    au FileType css,sass,scss,stylus,less setl omnifunc=csscomplete#CompleteCSS
+    au FileType html,htmldjango,jinja,markdown setl omnifunc=emmet#completeTag
+    au FileType javascript,jsx setl omnifunc=tern#Complete
+    au FileType python setl omnifunc=pythoncomplete#Complete
+    au FileType xml setl omnifunc=xmlcomplete#CompleteTags
+aug END
+
+Plug 'deoplete-plugins/deoplete-jedi'
+Plug 'deoplete-plugins/deoplete-go'
+Plug 'deoplete-plugins/deoplete-clang'
+Plug 'carlitux/deoplete-ternjs', { 'do': 'npm install -g tern' }
+let g:deoplete#sources#ternjs#timeout = 1
+let g:deoplete#sources#ternjs#types = 1
+let g:deoplete#sources#ternjs#depths = 1
+let g:deoplete#sources#ternjs#docs = 1
+let g:deoplete#sources#ternjs#filter = 0
+let g:deoplete#sources#ternjs#case_insensitive = 1
+let g:deoplete#sources#ternjs#guess = 0
+let g:deoplete#sources#ternjs#sort = 0
+let g:deoplete#sources#ternjs#expand_word_forward = 0
+let g:deoplete#sources#ternjs#omit_object_prototype = 0
+let g:deoplete#sources#ternjs#include_keywords = 1
 
 Plug 'easymotion/vim-easymotion'
 let g:EasyMotion_do_mapping = 0
