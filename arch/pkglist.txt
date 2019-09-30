@@ -1192,7 +1192,6 @@ mkinitcpio
 mkinitcpio-busybox
 mobile-broadband-provider-info
 mod_dnssd
-mongodb
 mono
 mosh
 mousetweaks
