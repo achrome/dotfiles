@@ -672,7 +672,6 @@ ldb
 ldns
 lensfun
 less
-leveldb
 lib32-acl
 lib32-alsa-lib
 lib32-alsa-plugins
@@ -1662,7 +1661,6 @@ shadow
 shards
 shared-color-targets
 shared-mime-info
-shodan
 simple-scan
 slang
 slock
@@ -1807,7 +1805,6 @@ wget
 which
 wildmidi
 wine
-wiredtiger
 wireless_tools
 wireshark-cli
 wireshark-qt

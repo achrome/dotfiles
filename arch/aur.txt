@@ -18,6 +18,7 @@ libc++experimental
 minikube-bin
 package-query
 reaper-bin
+shodan
 simplenote-electron-bin
 skypeforlinux-stable-bin
 slack-desktop
