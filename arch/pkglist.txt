@@ -299,7 +299,6 @@ gobject-introspection
 gobject-introspection-runtime
 gom
 gparted
-gperftools
 gpgme
 gpm
 gptfdisk
@@ -1140,6 +1139,7 @@ linux-headers
 lldb
 llvm
 llvm-libs
+llvm7-libs
 lm_sensors
 lmdb
 lmms
