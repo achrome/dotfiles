@@ -579,7 +579,6 @@ i3status
 iana-etc
 icu
 ijs
-ilmbase
 imagemagick
 imlib2
 inetutils
@@ -1139,7 +1138,6 @@ linux-headers
 lldb
 llvm
 llvm-libs
-llvm7-libs
 lm_sensors
 lmdb
 lmms
