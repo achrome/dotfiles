@@ -1,7 +1,6 @@
 alsi
 antibody
 brave-bin
-cmusfm
 docker-machine-driver-kvm2
 ffdec
 google-cloud-sdk
@@ -18,7 +17,6 @@ libc++experimental
 minikube-bin
 package-query
 reaper-bin
-shodan
 simplenote-electron-bin
 skypeforlinux-stable-bin
 slack-desktop
