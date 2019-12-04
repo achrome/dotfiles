@@ -728,7 +728,6 @@ lib32-libudev0-shim
 lib32-libunistring
 lib32-libusb
 lib32-libva
-lib32-libva1
 lib32-libvdpau
 lib32-libvorbis
 lib32-libvpx1.3
@@ -1182,6 +1181,7 @@ net-snmp
 net-tools
 netcf
 netctl
+netpbm
 nettle
 network-manager-applet
 networkmanager
@@ -1215,6 +1215,7 @@ opencollada
 opencolorio
 opencore-amr
 openexr
+openimagedenoise
 openimageio
 openjpeg
 openjpeg2
