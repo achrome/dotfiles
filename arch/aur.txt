@@ -3,6 +3,7 @@ antibody
 brave-bin
 docker-machine-driver-kvm2
 ffdec
+goland
 google-cloud-sdk
 hyper
 i3-gnome
