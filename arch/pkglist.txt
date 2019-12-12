@@ -516,6 +516,7 @@ haskell-time-locale-compat
 haskell-tls
 haskell-transformers-base
 haskell-transformers-compat
+haskell-type-equality
 haskell-typed-process
 haskell-unicode-transforms
 haskell-unix-compat
@@ -1219,6 +1220,7 @@ openimagedenoise
 openimageio
 openjpeg
 openjpeg2
+openlibm
 openmp
 openmpi
 openresolv
@@ -1626,7 +1628,6 @@ systemd-sysvcompat
 t1lib
 taglib
 talloc
-tangerine-icon-theme
 tar
 tcl
 tcpdump
