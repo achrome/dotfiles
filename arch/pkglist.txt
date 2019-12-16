@@ -1034,7 +1034,6 @@ libuv
 libva
 libva-mesa-driver
 libva-vdpau-driver
-libva1
 libvdpau
 libvirt
 libvirt-glib
@@ -1342,7 +1341,6 @@ pulseaudio-bluetooth
 pygmentize
 pygobject-devel
 pygtk
-pyqt5-common
 python
 python-appdirs
 python-asn1crypto
@@ -1427,7 +1425,6 @@ python-retrying
 python-rsa
 python-s3transfer
 python-setuptools
-python-sip-pyqt5
 python-six
 python-slip
 python-soupsieve
