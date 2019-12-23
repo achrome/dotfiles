@@ -61,6 +61,7 @@ blender
 blosc
 bluez
 bluez-libs
+bluez-utils
 bolt
 boost
 boost-libs
@@ -90,7 +91,9 @@ cheese
 chromaprint
 chromium
 cifs-utils
+clamav
 clang
+cln
 clucene
 clutter
 clutter-gst
@@ -115,6 +118,7 @@ crystal
 ctags
 cups-pk-helper
 curl
+cvc4
 dav1d
 db
 dbus
@@ -792,6 +796,7 @@ lib32-zstd
 libabw
 libaec
 libaio
+libantlr3c
 libao
 libappindicator-gtk2
 libarchive
@@ -837,7 +842,6 @@ libdca
 libde265
 libdiscid
 libdmapsharing
-libdmx
 libdrm
 libdv
 libdvbpsi
@@ -930,6 +934,7 @@ libmpc
 libmpcdec
 libmpdclient
 libmpeg2
+libmspack
 libmspub
 libmtp
 libmusicbrainz5
@@ -1088,7 +1093,6 @@ libxt
 libxtst
 libxv
 libxvmc
-libxxf86dga
 libxxf86vm
 libyaml
 libytnef
@@ -1800,6 +1804,7 @@ yarn
 yay
 yelp
 yelp-xsl
+z3
 zbar
 zenity
 zeromq
