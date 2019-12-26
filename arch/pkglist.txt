@@ -413,12 +413,14 @@ haskell-data-default-instances-old-locale
 haskell-digest
 haskell-distributive
 haskell-dlist
+haskell-doclayout
 haskell-doctemplates
 haskell-easy-file
 haskell-echo
 haskell-ed25519
 haskell-either
 haskell-enclosed-exceptions
+haskell-errors
 haskell-exceptions
 haskell-extra
 haskell-fast-logger
@@ -435,6 +437,7 @@ haskell-hi-file-parser
 haskell-hinotify
 haskell-hourglass
 haskell-hpack
+haskell-hsyaml
 haskell-http-api-data
 haskell-http-client
 haskell-http-client-tls
@@ -507,6 +510,7 @@ haskell-tar
 haskell-tar-conduit
 haskell-temporary
 haskell-terminal-size
+haskell-text-conversions
 haskell-text-metrics
 haskell-th-abstraction
 haskell-th-expand-syns
@@ -1144,6 +1148,7 @@ mate-icon-theme
 mate-icon-theme-faenza
 materia-gtk-theme
 mbedtls
+md4c
 mdadm
 media-player-info
 mediainfo
@@ -1197,7 +1202,6 @@ nm-connection-editor
 nmap
 nnn
 node-gyp
-nodejs-lts-carbon
 noto-fonts
 npm
 npth

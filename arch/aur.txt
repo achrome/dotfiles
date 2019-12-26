@@ -16,12 +16,14 @@ libc++
 libc++abi
 libc++experimental
 minikube-bin
+nodejs-lts-carbon
 package-query
 reaper-bin
 simplenote-electron-bin
 skypeforlinux-stable-bin
 slack-desktop
 spotify
+tangerine-icon-theme
 telegram-desktop-bin
 trizen
 xcursor-human
