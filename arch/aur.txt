@@ -16,7 +16,6 @@ libc++
 libc++abi
 libc++experimental
 minikube-bin
-nodejs-lts-carbon
 package-query
 reaper-bin
 simplenote-electron-bin
