@@ -216,7 +216,6 @@ gcc-fortran
 gcc-libs
 gcc-objc
 gconf
-gconf-editor
 gcr
 gd
 gdb
@@ -1202,6 +1201,7 @@ nm-connection-editor
 nmap
 nnn
 node-gyp
+nodejs
 noto-fonts
 npm
 npth
@@ -1685,6 +1685,7 @@ ttf-fira-mono
 ttf-fira-sans
 ttf-font-awesome
 ttf-ionicons
+ttf-liberation
 ttf-roboto
 tumbler
 twolame
