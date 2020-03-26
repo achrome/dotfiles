@@ -13,6 +13,7 @@ alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
 alsa-utils
+amtk
 ansible
 aom
 apache
@@ -28,6 +29,7 @@ arduino-builder
 arduino-ctags
 argon2
 aribb24
+asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -65,6 +67,7 @@ bluez-utils
 bolt
 boost
 boost-libs
+breezy
 bridge-utils
 brltty
 brotli
@@ -72,7 +75,6 @@ brotli06
 btrfs-progs
 bubblewrap
 bzip2
-bzr
 c-ares
 ca-certificates
 ca-certificates-mozilla
@@ -90,6 +92,7 @@ ceph-libs
 cheese
 chromaprint
 chromium
+chrpath
 cifs-utils
 clamav
 clang
@@ -157,9 +160,11 @@ efibootmgr
 efivar
 electron
 electron6
+electron7
 elementary-icon-theme
 elfutils
 elinks
+embree
 enchant
 eog
 epiphany
@@ -323,7 +328,9 @@ gsm
 gsound
 gspell
 gssdp
+gst-plugin-gtk
 gst-plugins-bad
+gst-plugins-bad-libs
 gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
@@ -374,6 +381,7 @@ haskell-attoparsec
 haskell-attoparsec-iso8601
 haskell-auto-update
 haskell-base-compat
+haskell-base-compat-batteries
 haskell-base-orphans
 haskell-base-prelude
 haskell-base16-bytestring
@@ -387,6 +395,8 @@ haskell-blaze-html
 haskell-blaze-markup
 haskell-byteable
 haskell-call-stack
+haskell-casa-client
+haskell-casa-types
 haskell-case-insensitive
 haskell-cereal
 haskell-clock
@@ -448,6 +458,7 @@ haskell-integer-logarithms
 haskell-libyaml
 haskell-lifted-async
 haskell-lifted-base
+haskell-lukko
 haskell-megaparsec
 haskell-memory
 haskell-microlens
@@ -567,6 +578,9 @@ inetutils
 iniparser
 inkscape
 inotify-tools
+intel-gmmlib
+intel-media-driver
+intel-media-sdk
 intel-tbb
 iproute2
 ipset
@@ -596,6 +610,7 @@ jre7-openjdk-headless
 jre8-openjdk
 jre8-openjdk-headless
 js60
+js68
 json-c
 json-glib
 jsoncpp
@@ -644,6 +659,7 @@ lapack
 lcms2
 ldb
 ldns
+leiningen
 lensfun
 less
 lib32-acl
@@ -906,11 +922,13 @@ libieee1284
 libimobiledevice
 libindicator-gtk2
 libinput
+libinstpatch
 libiptcdata
 libiscsi
 libixion
 libjpeg-turbo
 libjpeg6-turbo
+libkate
 libkeybinder3
 libksba
 liblangtag
@@ -925,6 +943,7 @@ libmatroska
 libmaxminddb
 libmediaart
 libmediainfo
+libmfx
 libmicrohttpd
 libmikmod
 libmm-glib
@@ -967,6 +986,7 @@ libogg
 libomxil-bellagio
 liborcus
 libosinfo
+libp11-kit
 libpackagekit-glib
 libpagemaker
 libpaper
@@ -1001,6 +1021,7 @@ libsecret
 libshout
 libsigc++
 libsigsegv
+libslirp
 libsm
 libsndfile
 libsodium
@@ -1104,6 +1125,7 @@ libzen
 libzip
 libzmf
 licenses
+lilv
 linux
 linux-api-headers
 linux-firmware
@@ -1346,7 +1368,6 @@ ptex
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
-pygmentize
 pygobject-devel
 pygtk
 python
@@ -1354,6 +1375,7 @@ python-appdirs
 python-asn1crypto
 python-atspi
 python-attrs
+python-backcall
 python-bcrypt
 python-beaker
 python-beautifulsoup4
@@ -1362,10 +1384,13 @@ python-brotlipy
 python-cachecontrol
 python-cached-property
 python-cairo
+python-certifi
 python-cffi
 python-chardet
 python-click
 python-colorama
+python-configobj
+python-contextlib2
 python-cryptography
 python-cssselect
 python-dateutil
@@ -1380,6 +1405,8 @@ python-docker-pycreds
 python-dockerpty
 python-docopt
 python-docutils
+python-dulwich
+python-fastimport
 python-gobject
 python-greenlet
 python-html5lib
@@ -1406,6 +1433,7 @@ python-packaging
 python-paramiko
 python-parso
 python-passlib
+python-patiencediff
 python-pbr
 python-pep517
 python-pexpect
@@ -1425,6 +1453,7 @@ python-pynvim
 python-pyopenssl
 python-pyparsing
 python-pyqt5
+python-pyqt5-sip
 python-pyrsistent
 python-pysocks
 python-pytoml
@@ -1438,6 +1467,7 @@ python-slip
 python-soupsieve
 python-termcolor
 python-texttable
+python-toml
 python-traitlets
 python-urllib3
 python-wcwidth
@@ -1517,6 +1547,7 @@ python2-service-identity
 python2-setuptools
 python2-six
 python2-soupsieve
+python2-toml
 python2-twisted
 python2-urllib3
 python2-webencodings
@@ -1584,6 +1615,7 @@ sdl_ttf
 seabios
 sed
 semver
+serd
 serf
 shadow
 shards
@@ -1601,8 +1633,10 @@ socat
 solid
 solidity
 sonnet
+sord
 sound-theme-freedesktop
 soundtouch
+source-highlight
 spandsp
 speech-dispatcher
 speex
@@ -1613,6 +1647,7 @@ spike
 sploitctl
 sqlcipher
 sqlite
+sratom
 srt
 sshpass
 stack
@@ -1638,6 +1673,7 @@ tcl
 tcpdump
 tdb
 telepathy-glib
+tepl
 terminator
 termite
 termite-terminfo
@@ -1690,6 +1726,7 @@ ttf-roboto
 tumbler
 twolame
 tzdata
+uchardet
 udisks2
 udp2raw-tunnel
 unclutter

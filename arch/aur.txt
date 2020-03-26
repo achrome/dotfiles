@@ -3,6 +3,7 @@ antibody
 brave-bin
 docker-machine-driver-kvm2
 ffdec
+gconf-editor
 goland
 google-cloud-sdk
 hyper
@@ -11,7 +12,6 @@ insomnia
 kafka
 kubernetes-helm
 lain-git
-leiningen
 libc++
 libc++abi
 libc++experimental
