@@ -195,6 +195,7 @@ findutils
 firefox
 firewalld
 flac
+flatpak
 flex
 fltk
 fluidsynth
@@ -1159,6 +1160,7 @@ lzo
 m4
 mailcap
 make
+malcontent
 man-db
 man-pages
 mariadb
@@ -1267,6 +1269,7 @@ orc
 orca
 os-prober
 osinfo-db
+ostree
 otf-cormorant
 otf-fantasque-sans-mono
 otf-fira-code
@@ -1457,6 +1460,7 @@ python-pyqt5-sip
 python-pyrsistent
 python-pysocks
 python-pytoml
+python-pyxdg
 python-requests
 python-retrying
 python-rsa
@@ -1473,7 +1477,6 @@ python-urllib3
 python-wcwidth
 python-webencodings
 python-websocket-client
-python-xdg
 python-yaml
 python-zipp
 python2
@@ -1592,6 +1595,8 @@ rtkit
 rtmpdump
 ruby
 ruby-bundler
+ruby-irb
+ruby-reline
 rubygems
 run-parts
 runc
@@ -1800,6 +1805,8 @@ xcursor-themes
 xcursor-vanilla-dmz
 xcursor-vanilla-dmz-aa
 xdg-dbus-proxy
+xdg-desktop-portal
+xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
