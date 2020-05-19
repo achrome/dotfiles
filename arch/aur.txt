@@ -1,6 +1,7 @@
 alsi
 antibody
 brave-bin
+deno-bin
 docker-machine-driver-kvm2
 ffdec
 gconf-editor
@@ -16,7 +17,11 @@ libc++
 libc++abi
 libc++experimental
 minikube-bin
+openjpeg
 package-query
+python2-h2
+python2-hpack
+python2-hyperframe
 reaper-bin
 simplenote-electron-bin
 skypeforlinux-stable-bin

@@ -228,6 +228,7 @@ gdb
 gdb-common
 gdbm
 gdk-pixbuf2
+gdl
 gdm
 gedit
 gegl
@@ -254,6 +255,7 @@ glib-networking
 glib2
 glibc
 glibmm
+glslang
 glu
 glusterfs
 gmime3
@@ -346,6 +348,7 @@ gtkmm
 gtkmm3
 gtksourceview4
 gtkspell
+gtkspell3
 gts
 guake
 guile
@@ -431,7 +434,6 @@ haskell-ed25519
 haskell-either
 haskell-enclosed-exceptions
 haskell-errors
-haskell-exceptions
 haskell-extra
 haskell-fast-logger
 haskell-file-embed
@@ -627,6 +629,7 @@ kconfigwidgets
 kcoreaddons
 kcrash
 kdbusaddons
+kded
 keyutils
 kglobalaccel
 kguiaddons
@@ -809,6 +812,8 @@ lib32-sqlite
 lib32-systemd
 lib32-tdb
 lib32-util-linux
+lib32-vulkan-icd-loader
+lib32-vulkan-radeon
 lib32-wayland
 lib32-xz
 lib32-zlib
@@ -997,6 +1002,7 @@ libpeas
 libpgm
 libphonenumber
 libpipeline
+libplacebo
 libplist
 libpng
 libpng12
@@ -1054,6 +1060,7 @@ libunistring
 libunwind
 libupnp
 liburcu
+liburing
 libusb
 libusb-compat
 libusbmuxd
@@ -1076,7 +1083,6 @@ libvpx
 libvpx1.3
 libvterm
 libwacom
-libwbclient
 libwebp
 libwmf
 libwnck3
@@ -1220,6 +1226,7 @@ networkmanager
 networkmanager-openvpn
 nftables
 nginx
+ninja
 nitrogen
 nm-connection-editor
 nmap
@@ -1249,7 +1256,6 @@ opencore-amr
 openexr
 openimagedenoise
 openimageio
-openjpeg
 openjpeg2
 openlibm
 openmp
@@ -1297,6 +1303,7 @@ pcre2
 pcsclite
 perf
 perl
+perl-clone
 perl-common-sense
 perl-data-dump
 perl-dbd-mysql
@@ -1445,6 +1452,7 @@ python-pip
 python-ply
 python-progress
 python-prompt_toolkit
+python-psutil
 python-ptyprocess
 python-pyasn1
 python-pycparser
@@ -1508,10 +1516,7 @@ python2-gobject
 python2-gobject2
 python2-greenlet
 python2-grequests
-python2-h2
-python2-hpack
 python2-html5lib
-python2-hyperframe
 python2-hyperlink
 python2-idna
 python2-importlib-metadata
@@ -1622,6 +1627,7 @@ sed
 semver
 serd
 serf
+shaderc
 shadow
 shards
 shared-color-targets
@@ -1649,6 +1655,7 @@ speexdsp
 spice
 spice-gtk
 spike
+spirv-tools
 sploitctl
 sqlcipher
 sqlite
@@ -1759,6 +1766,7 @@ virtualbox
 virtualbox-guest-dkms
 virtualbox-host-dkms
 vlc
+vmaf
 volume_key
 vte-common
 vte3
