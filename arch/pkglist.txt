@@ -29,7 +29,6 @@ arduino-builder
 arduino-ctags
 argon2
 aribb24
-asar
 aspell
 at-spi2-atk
 at-spi2-core
@@ -87,12 +86,10 @@ cblas
 cdparanoia
 cdrtools
 celt
-celt0.5.1
 ceph-libs
 cheese
 chromaprint
 chromium
-chrpath
 cifs-utils
 clamav
 clang
@@ -159,7 +156,6 @@ ebtables
 efibootmgr
 efivar
 electron
-electron6
 electron7
 elementary-icon-theme
 elfutils
@@ -347,7 +343,6 @@ gtk3
 gtkmm
 gtkmm3
 gtksourceview4
-gtkspell
 gtkspell3
 gts
 guake
@@ -380,6 +375,7 @@ haskell-ansi-wl-pprint
 haskell-asn1-encoding
 haskell-asn1-parse
 haskell-asn1-types
+haskell-assoc
 haskell-async
 haskell-attoparsec
 haskell-attoparsec-iso8601
@@ -522,7 +518,6 @@ haskell-tagged
 haskell-tar
 haskell-tar-conduit
 haskell-temporary
-haskell-terminal-size
 haskell-text-conversions
 haskell-text-metrics
 haskell-th-abstraction
@@ -531,7 +526,6 @@ haskell-th-lift
 haskell-th-lift-instances
 haskell-th-orphans
 haskell-th-reify-many
-haskell-th-utilities
 haskell-time-compat
 haskell-time-locale-compat
 haskell-tls
@@ -599,15 +593,12 @@ java-environment-common
 java-runtime-common
 jbig2dec
 jdk-openjdk
-jdk10-openjdk
 jdk8-openjdk
 jemalloc
 jfsutils
 jq
 jre-openjdk
 jre-openjdk-headless
-jre10-openjdk
-jre10-openjdk-headless
 jre7-openjdk
 jre7-openjdk-headless
 jre8-openjdk
@@ -1060,7 +1051,6 @@ libunistring
 libunwind
 libupnp
 liburcu
-liburing
 libusb
 libusb-compat
 libusbmuxd
@@ -1226,7 +1216,6 @@ networkmanager
 networkmanager-openvpn
 nftables
 nginx
-ninja
 nitrogen
 nm-connection-editor
 nmap
@@ -1379,7 +1368,6 @@ pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
 pygobject-devel
-pygtk
 python
 python-appdirs
 python-asn1crypto
@@ -1390,7 +1378,6 @@ python-bcrypt
 python-beaker
 python-beautifulsoup4
 python-botocore
-python-brotlipy
 python-cachecontrol
 python-cached-property
 python-cairo
@@ -1433,7 +1420,6 @@ python-lxml
 python-mako
 python-markdown
 python-markupsafe
-python-more-itertools
 python-msgpack
 python-netaddr
 python-nose
@@ -1507,12 +1493,10 @@ python2-constantly
 python2-contextlib2
 python2-cryptography
 python2-cssselect
-python2-dbus
 python2-distlib
 python2-distro
 python2-enum34
 python2-gevent
-python2-gobject
 python2-gobject2
 python2-greenlet
 python2-grequests
@@ -1524,19 +1508,16 @@ python2-incremental
 python2-ipaddress
 python2-lockfile
 python2-lxml
-python2-more-itertools
 python2-msgpack
 python2-ndg-httpsclient
 python2-numpy
 python2-ordered-set
 python2-packaging
-python2-paramiko
 python2-pathlib2
 python2-pep517
 python2-pip
 python2-ply
 python2-progress
-python2-psutil
 python2-pyasn1
 python2-pyasn1-modules
 python2-pycparser

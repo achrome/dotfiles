@@ -10,6 +10,9 @@ google-cloud-sdk
 hyper
 i3-gnome
 insomnia
+jdk10-openjdk
+jre10-openjdk
+jre10-openjdk-headless
 kafka
 kubernetes-helm
 lain-git
@@ -17,9 +20,7 @@ libc++
 libc++abi
 libc++experimental
 minikube-bin
-openjpeg
 package-query
-python2-h2
 python2-hpack
 python2-hyperframe
 reaper-bin
