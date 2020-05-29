@@ -526,6 +526,7 @@ haskell-th-lift
 haskell-th-lift-instances
 haskell-th-orphans
 haskell-th-reify-many
+haskell-these
 haskell-time-compat
 haskell-time-locale-compat
 haskell-tls
@@ -1542,6 +1543,7 @@ python2-urllib3
 python2-webencodings
 python2-wxpython3
 python2-zipp
+python2-zope-event
 python2-zope-interface
 qemu
 qrencode
