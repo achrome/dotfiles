@@ -70,7 +70,6 @@ breezy
 bridge-utils
 brltty
 brotli
-brotli06
 btrfs-progs
 bubblewrap
 bzip2
@@ -253,7 +252,6 @@ glibc
 glibmm
 glslang
 glu
-glusterfs
 gmime3
 gmp
 gnome-autoar
@@ -524,7 +522,6 @@ haskell-th-abstraction
 haskell-th-expand-syns
 haskell-th-lift
 haskell-th-lift-instances
-haskell-th-orphans
 haskell-th-reify-many
 haskell-these
 haskell-time-compat
@@ -816,6 +813,7 @@ libaio
 libantlr3c
 libao
 libappindicator-gtk2
+libappindicator-gtk3
 libarchive
 libass
 libassuan
@@ -853,6 +851,7 @@ libdatrie
 libdazzle
 libdbusmenu-glib
 libdbusmenu-gtk2
+libdbusmenu-gtk3
 libdbusmenu-qt5
 libdc1394
 libdca
@@ -919,10 +918,10 @@ libiec61883
 libieee1284
 libimobiledevice
 libindicator-gtk2
+libindicator-gtk3
 libinput
 libinstpatch
 libiptcdata
-libiscsi
 libixion
 libjpeg-turbo
 libjpeg6-turbo
@@ -1208,7 +1207,6 @@ neon
 neovim
 net-snmp
 net-tools
-netcf
 netctl
 netpbm
 nettle
@@ -1484,7 +1482,6 @@ python2-backports.functools_lru_cache
 python2-bcrypt
 python2-beautifulsoup4
 python2-cachecontrol
-python2-cairo
 python2-cffi
 python2-chardet
 python2-click
@@ -1498,7 +1495,6 @@ python2-distlib
 python2-distro
 python2-enum34
 python2-gevent
-python2-gobject2
 python2-greenlet
 python2-grequests
 python2-html5lib
@@ -1511,7 +1507,6 @@ python2-lockfile
 python2-lxml
 python2-msgpack
 python2-ndg-httpsclient
-python2-numpy
 python2-ordered-set
 python2-packaging
 python2-pathlib2
@@ -1524,7 +1519,6 @@ python2-pyasn1-modules
 python2-pycparser
 python2-pygments
 python2-pyhamcrest
-python2-pynacl
 python2-pyopenssl
 python2-pyparsing
 python2-pyserial
