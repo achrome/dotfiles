@@ -39,7 +39,6 @@ attica
 attr
 audiofile
 audit
-augeas
 autoconf
 automake
 avahi
@@ -459,6 +458,7 @@ haskell-lukko
 haskell-megaparsec
 haskell-memory
 haskell-microlens
+haskell-microlens-mtl
 haskell-microlens-th
 haskell-mime-types
 haskell-mintty
@@ -711,7 +711,6 @@ lib32-libgpg-error
 lib32-libgudev
 lib32-libice
 lib32-libid3tag
-lib32-libidn
 lib32-libidn11
 lib32-libidn2
 lib32-libindicator-gtk2
@@ -1050,7 +1049,7 @@ libudev0-shim
 libunistring
 libunwind
 libupnp
-liburcu
+liburing
 libusb
 libusb-compat
 libusbmuxd
@@ -1571,7 +1570,6 @@ rfdump
 rhash
 ripgrep
 rlwrap
-rpcbind
 rsync
 rtkit
 rtmpdump
