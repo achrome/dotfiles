@@ -576,7 +576,6 @@ inotify-tools
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
-intel-tbb
 iproute2
 ipset
 iptables
@@ -635,6 +634,7 @@ knewstuff
 knotifications
 knotifyconfig
 konsole
+kpackage
 kparts
 kpty
 krb5
@@ -742,6 +742,7 @@ lib32-libtiff4
 lib32-libtirpc
 lib32-libudev0-shim
 lib32-libunistring
+lib32-libunwind
 lib32-libusb
 lib32-libva
 lib32-libvdpau
@@ -1265,7 +1266,6 @@ osinfo-db
 ostree
 otf-cormorant
 otf-fantasque-sans-mono
-otf-fira-code
 otf-fira-mono
 otf-fira-sans
 otf-font-awesome
@@ -1452,9 +1452,9 @@ python-pyqt5
 python-pyqt5-sip
 python-pyrsistent
 python-pysocks
-python-pytoml
 python-pyxdg
 python-requests
+python-resolvelib
 python-retrying
 python-rsa
 python-s3transfer
@@ -1523,8 +1523,8 @@ python2-pyopenssl
 python2-pyparsing
 python2-pyserial
 python2-pysocks
-python2-pytoml
 python2-requests
+python2-resolvelib
 python2-retrying
 python2-scandir
 python2-service-identity
@@ -1657,6 +1657,7 @@ t1lib
 taglib
 talloc
 tar
+tbb
 tcl
 tcpdump
 tdb
@@ -1803,7 +1804,6 @@ xkeyboard-config
 xmlsec
 xorg-bdftopcf
 xorg-font-util
-xorg-font-utils
 xorg-fonts-encodings
 xorg-luit
 xorg-mkfontscale
@@ -1830,6 +1830,7 @@ xorgproto
 xsel
 xterm
 xvidcore
+xxhash
 xz
 yajl
 yaml-cpp

@@ -20,9 +20,8 @@ libc++
 libc++abi
 libc++experimental
 minikube-bin
+otf-fira-code
 package-query
-python2-hpack
-python2-hyperframe
 reaper-bin
 simplenote-electron-bin
 skypeforlinux-stable-bin
