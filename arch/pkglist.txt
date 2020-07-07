@@ -550,6 +550,7 @@ haskell-zip-archive
 haskell-zlib
 hdf5
 hicolor-icon-theme
+hidapi
 highlight
 hiredis
 hspell
@@ -1802,11 +1803,8 @@ xf86-video-intel
 xfsprogs
 xkeyboard-config
 xmlsec
-xorg-bdftopcf
-xorg-font-util
 xorg-fonts-encodings
 xorg-luit
-xorg-mkfontscale
 xorg-server
 xorg-server-common
 xorg-server-xwayland
