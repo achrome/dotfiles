@@ -9,7 +9,6 @@ goland
 google-cloud-sdk
 hyper
 i3-gnome
-insomnia
 jdk10-openjdk
 jre10-openjdk
 jre10-openjdk-headless
