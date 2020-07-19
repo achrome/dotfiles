@@ -32,7 +32,7 @@ echo "\e[32mFixed\e[0m \e[33mls colors\e[0m \e[32m\u2714\e[0m"
 
 ## Use default versions from different VMs
 nvm use default --silent
-pyenv shell 3.8.1
+pyenv shell 3.8.4
 pyenv virtualenvwrapper
 echo "\e[32mLanguage defaults \u2714\e[0m"
 
