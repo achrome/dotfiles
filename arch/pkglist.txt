@@ -1563,6 +1563,7 @@ r
 ranger
 raptor
 rasqal
+rav1e
 re2
 readline
 redis
