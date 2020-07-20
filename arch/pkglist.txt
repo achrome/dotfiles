@@ -52,7 +52,7 @@ bbswitch
 bc
 bcg729
 benchmark
-bind-tools
+bind
 binutils
 bison
 blackarch-keyring
