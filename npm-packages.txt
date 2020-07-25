@@ -1,19 +1,20 @@
-/home/achrome/.nvm/versions/node/v12.7.0/lib
-├── @angular/cli@8.1.2
-├── @nestjs/cli@6.6.3
-├── @vue/cli@3.9.3
-├── bs-platform@5.0.6
-├── degit@2.1.3
-├── elm@0.19.0-no-deps
-├── elm-format@0.8.1
+/home/achrome/.nvm/versions/node/v14.6.0/lib
+├── @angular/cli@9.1.11
+├── @nestjs/cli@7.4.1
+├── @vue/cli@3.12.1
+├── bs-platform@7.3.2
+├── degit@2.8.0
+├── elm@0.19.1-3
+├── elm-format@0.8.3
 ├── emma-cli@2.1.0
-├── gatsby-cli@2.7.21
+├── gatsby-cli@2.12.63
 ├── gitbook@2.6.9
-├── node-gyp@5.0.3
-├── npm@6.10.2
-├── purescript@0.13.2
-├── splash-cli@3.4.0
-├── surge@0.21.3
+├── node-gyp@6.1.0
+├── npm@6.14.6
+├── purescript@0.13.8
+├── splash-cli@3.4.12
+├── surge@0.21.6
 ├── taskbook@0.3.0
-└── wscat@2.2.1
+├── tern@0.24.3
+└── wscat@4.0.1
 
