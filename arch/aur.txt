@@ -21,6 +21,7 @@ libc++experimental
 minikube-bin
 otf-fira-code
 package-query
+polybar
 reaper-bin
 simplenote-electron-bin
 skypeforlinux-stable-bin
@@ -29,6 +30,7 @@ spotify
 tangerine-icon-theme
 telegram-desktop-bin
 trizen
+ttf-ms-fonts
 xcursor-human
 xcursor-openzone
 zookeeper
