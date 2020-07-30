@@ -1807,6 +1807,7 @@ xkeyboard-config
 xmlsec
 xorg-fonts-encodings
 xorg-luit
+xorg-mkfontscale
 xorg-server
 xorg-server-common
 xorg-server-xwayland
