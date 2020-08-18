@@ -325,6 +325,7 @@ gsm
 gsound
 gspell
 gssdp
+gst-libav
 gst-plugin-gtk
 gst-plugins-bad
 gst-plugins-bad-libs
@@ -417,6 +418,7 @@ haskell-data-default-class
 haskell-data-default-instances-containers
 haskell-data-default-instances-dlist
 haskell-data-default-instances-old-locale
+haskell-data-fix
 haskell-digest
 haskell-distributive
 haskell-dlist
@@ -432,6 +434,7 @@ haskell-extra
 haskell-fast-logger
 haskell-file-embed
 haskell-filelock
+haskell-filtrable
 haskell-free
 haskell-fsnotify
 haskell-generic-deriving
@@ -510,6 +513,7 @@ haskell-split
 haskell-statevar
 haskell-stm-chans
 haskell-streaming-commons
+haskell-strict
 haskell-syb
 haskell-system-fileio
 haskell-system-filepath
@@ -1141,7 +1145,6 @@ lpsolve
 lsb-release
 lsof
 lua
-lua-lgi
 lua51
 lua52
 lua52-bitop
@@ -1149,6 +1152,8 @@ lua52-expat
 lua52-lpeg
 lua52-luajson
 lua52-socket
+lua53
+lua53-lgi
 luajit
 lvm2
 lxde-icon-theme
@@ -1535,6 +1540,7 @@ python2-six
 python2-soupsieve
 python2-toml
 python2-twisted
+python2-typing
 python2-urllib3
 python2-webencodings
 python2-wxpython3
@@ -1618,6 +1624,7 @@ slurp
 smbclient
 smpeg
 snappy
+sndio
 soapui
 socat
 solid
