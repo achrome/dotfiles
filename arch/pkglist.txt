@@ -43,6 +43,7 @@ autoconf
 automake
 avahi
 awesome
+awesome-terminal-fonts
 aws-cli
 babl
 baobab
@@ -510,6 +511,7 @@ haskell-shelly
 haskell-silently
 haskell-socks
 haskell-split
+haskell-splitmix
 haskell-statevar
 haskell-stm-chans
 haskell-streaming-commons
@@ -759,6 +761,7 @@ lib32-libx11
 lib32-libxau
 lib32-libxcb
 lib32-libxcomposite
+lib32-libxcrypt
 lib32-libxcursor
 lib32-libxdamage
 lib32-libxdmcp
@@ -1143,6 +1146,7 @@ log4cplus
 logrotate
 lpsolve
 lsb-release
+lsd
 lsof
 lua
 lua51

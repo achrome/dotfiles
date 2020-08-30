@@ -23,6 +23,7 @@ otf-fira-code
 package-query
 polybar
 reaper-bin
+siji-git
 simplenote-electron-bin
 skypeforlinux-stable-bin
 slack-desktop
