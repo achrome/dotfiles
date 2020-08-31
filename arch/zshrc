@@ -18,9 +18,12 @@ done
 # Groovy, grails and others goodies
 # export SDKMAN_DIR="$HOME/.sdkman" && source "$HOME/.sdkman/bin/sdkman-init.sh"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
+nvm use default --silent
 [[ -s "/home/achrome/.gvm/scripts/gvm" ]] && source "/home/achrome/.gvm/scripts/gvm"
 eval "$(pyenv init -)"
+pyenv shell 3.8.5
 eval "$(pyenv virtualenv-init -)"
+pyenv virtualenvwrapper
 
 ### OPAM
 . $HOME/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
@@ -31,9 +34,6 @@ eval `dircolors $HOME/.dircolors`
 echo "\e[32mFixed\e[0m \e[33mls colors\e[0m \e[32m\u2714\e[0m"
 
 ## Use default versions from different VMs
-nvm use default --silent
-pyenv shell 3.8.5
-pyenv virtualenvwrapper
 echo "\e[32mLanguage defaults \u2714\e[0m"
 
 ### System information
