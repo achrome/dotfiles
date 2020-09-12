@@ -156,7 +156,6 @@ ebtables
 efibootmgr
 efivar
 electron
-electron7
 elementary-icon-theme
 elfutils
 elinks
@@ -195,6 +194,7 @@ flatpak
 flex
 fltk
 fluidsynth
+fmt
 folks
 fontconfig
 freealut
@@ -1025,6 +1025,7 @@ libsasl
 libseccomp
 libsecret
 libshout
+libsidplayfp
 libsigc++
 libsigsegv
 libslirp
@@ -1064,7 +1065,6 @@ libusb-compat
 libusbmuxd
 libutempter
 libutf8proc
-libutil-linux
 libuv
 libva
 libva-mesa-driver
@@ -1373,9 +1373,11 @@ protobuf
 psmisc
 pstoedit
 ptex
+pugixml
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
+pybind11
 pygobject-devel
 python
 python-appdirs
@@ -1741,6 +1743,7 @@ usbmuxd
 usbredir
 usbutils
 util-linux
+util-linux-libs
 v4l-utils
 vagrant
 valgrind
