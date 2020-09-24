@@ -15,6 +15,7 @@ alsa-ucm-conf
 alsa-utils
 amtk
 ansible
+ansible-base
 aom
 apache
 appstream-glib
@@ -829,6 +830,7 @@ libasyncns
 libatasmart
 libatomic_ops
 libavc1394
+libavtp
 libblockdev
 libbluray
 libbs2b
@@ -949,6 +951,7 @@ libmaxminddb
 libmediaart
 libmediainfo
 libmfx
+libmicrodns
 libmicrohttpd
 libmikmod
 libmm-glib
@@ -1664,6 +1667,7 @@ subversion
 sudo
 suitesparse
 sushi
+svt-hevc
 swig
 sysfsutils
 systemd
@@ -1864,4 +1868,5 @@ zlib
 zsh
 zstd
 zvbi
+zxing-cpp
 zziplib
