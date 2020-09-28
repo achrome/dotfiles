@@ -610,6 +610,7 @@ jre7-openjdk-headless
 jre8-openjdk
 jre8-openjdk-headless
 js68
+js78
 json-c
 json-glib
 jsoncpp
