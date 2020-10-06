@@ -8,6 +8,7 @@ adapta-gtk-theme
 adobe-source-code-pro-fonts
 adwaita-icon-theme
 alembic
+alsa-card-profiles
 alsa-lib
 alsa-plugins
 alsa-topology-conf
@@ -327,6 +328,7 @@ gsm
 gsound
 gspell
 gssdp
+gst-editing-services
 gst-libav
 gst-plugin-gtk
 gst-plugins-bad
@@ -609,7 +611,6 @@ jre7-openjdk
 jre7-openjdk-headless
 jre8-openjdk
 jre8-openjdk-headless
-js68
 js78
 json-c
 json-glib
@@ -849,6 +850,7 @@ libcdio-paranoia
 libcdr
 libcerf
 libchamplain
+libcloudproviders
 libcmis
 libconfig
 libcroco
@@ -917,6 +919,7 @@ libgusb
 libgweather
 libgxps
 libhandy
+libhandy0
 libheif
 libibus
 libical
@@ -1009,6 +1012,7 @@ libplacebo
 libplist
 libpng
 libpng12
+libportal
 libproxy
 libpsl
 libpst
@@ -1382,7 +1386,6 @@ pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
 pybind11
-pygobject-devel
 python
 python-appdirs
 python-asn1crypto
@@ -1718,6 +1721,8 @@ toxic
 traceroute
 tracker
 tracker-miners
+tracker3
+tracker3-miners
 transmission-cli
 tre
 truecrypt
