@@ -1167,6 +1167,7 @@ lua52-socket
 lua53
 lua53-lgi
 luajit
+luit
 lvm2
 lxde-icon-theme
 lynx
@@ -1312,7 +1313,6 @@ perl
 perl-clone
 perl-common-sense
 perl-data-dump
-perl-dbd-mysql
 perl-dbi
 perl-encode-locale
 perl-error
@@ -1830,7 +1830,6 @@ xfsprogs
 xkeyboard-config
 xmlsec
 xorg-fonts-encodings
-xorg-luit
 xorg-mkfontscale
 xorg-server
 xorg-server-common
