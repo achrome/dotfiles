@@ -1313,7 +1313,6 @@ perl
 perl-clone
 perl-common-sense
 perl-data-dump
-perl-dbi
 perl-encode-locale
 perl-error
 perl-file-listing
