@@ -54,7 +54,6 @@ bat
 bbswitch
 bc
 bcg729
-benchmark
 bind
 binutils
 bison
@@ -158,6 +157,7 @@ ebtables
 efibootmgr
 efivar
 electron
+electron9
 elementary-icon-theme
 elfutils
 elinks
@@ -1735,6 +1735,7 @@ ttf-fira-mono
 ttf-fira-sans
 ttf-font-awesome
 ttf-ionicons
+ttf-joypixels
 ttf-liberation
 ttf-roboto
 tumbler
