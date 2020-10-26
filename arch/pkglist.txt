@@ -166,7 +166,6 @@ enchant
 eog
 epiphany
 erlang
-espeak
 etckeeper
 evince
 evolution
@@ -1276,7 +1275,6 @@ openssl-1.0
 opensubdiv
 openvdb
 openvpn
-opera-ffmpeg-codecs
 opus
 opusfile
 orc
