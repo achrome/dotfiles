@@ -483,7 +483,6 @@ haskell-old-time
 haskell-only
 haskell-open-browser
 haskell-optparse-applicative
-haskell-optparse-applicative0.15
 haskell-optparse-generic
 haskell-optparse-simple
 haskell-pantry
