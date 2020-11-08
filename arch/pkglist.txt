@@ -350,7 +350,6 @@ gtkspell3
 gts
 guake
 guile
-guile2.0
 gupnp
 gupnp-av
 gupnp-dlna
