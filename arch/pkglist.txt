@@ -1145,6 +1145,7 @@ linux-headers
 lldb
 llvm
 llvm-libs
+llvm10-libs
 lm_sensors
 lmdb
 lmms
