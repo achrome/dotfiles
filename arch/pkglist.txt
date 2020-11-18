@@ -793,6 +793,7 @@ lib32-openal
 lib32-openssl
 lib32-openssl-1.0
 lib32-p11-kit
+lib32-pam
 lib32-pango
 lib32-pcre
 lib32-pixman
