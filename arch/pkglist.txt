@@ -68,6 +68,7 @@ bluez-utils
 bolt
 boost
 boost-libs
+botan
 breezy
 bridge-utils
 brltty
@@ -1276,6 +1277,7 @@ openssl-1.0
 opensubdiv
 openvdb
 openvpn
+openxr
 opus
 opusfile
 orc
