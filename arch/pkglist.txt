@@ -238,7 +238,6 @@ geoip-database
 geoip-database-extra
 gettext
 gfbgraph
-gflags
 ghc
 ghc-libs
 ghostscript
