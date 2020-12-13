@@ -153,6 +153,7 @@ dosfstools
 dotconf
 double-conversion
 doxygen
+dtc
 e2fsprogs
 ebtables
 edk2-ovmf
@@ -838,6 +839,9 @@ libbluray
 libbs2b
 libbsd
 libbytesize
+libc++
+libc++abi
+libc++experimental
 libcaca
 libcacard
 libcanberra
@@ -1573,6 +1577,7 @@ qt5-sensors
 qt5-speech
 qt5-svg
 qt5-tools
+qt5-wayland
 qt5-webchannel
 qt5-webengine
 qt5-webkit
@@ -1835,7 +1840,6 @@ xorg-fonts-encodings
 xorg-mkfontscale
 xorg-server
 xorg-server-common
-xorg-server-xwayland
 xorg-setxkbmap
 xorg-twm
 xorg-xauth
@@ -1851,6 +1855,7 @@ xorg-xprop
 xorg-xrandr
 xorg-xrdb
 xorg-xset
+xorg-xwayland
 xorg-xwininfo
 xorgproto
 xsel
