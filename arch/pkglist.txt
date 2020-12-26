@@ -458,6 +458,7 @@ haskell-http-client-tls
 haskell-http-conduit
 haskell-http-download
 haskell-http-types
+haskell-indexed-traversable
 haskell-infer-license
 haskell-integer-logarithms
 haskell-libyaml
