@@ -91,6 +91,7 @@ celt
 ceph-libs
 cheese
 chromaprint
+chrome-gnome-shell
 chromium
 cifs-utils
 clamav
