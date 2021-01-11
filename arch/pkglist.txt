@@ -43,6 +43,7 @@ audiofile
 audit
 autoconf
 automake
+autovpn
 avahi
 awesome
 awesome-terminal-fonts
