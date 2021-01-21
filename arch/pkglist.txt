@@ -939,6 +939,7 @@ libieee1284
 libimobiledevice
 libindicator-gtk2
 libindicator-gtk3
+libinih
 libinput
 libinstpatch
 libiptcdata
