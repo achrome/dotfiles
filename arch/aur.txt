@@ -15,9 +15,6 @@ jre10-openjdk-headless
 kafka
 kubernetes-helm
 lain-git
-libc++
-libc++abi
-libc++experimental
 minikube-bin
 otf-fira-code
 package-query

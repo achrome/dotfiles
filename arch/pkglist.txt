@@ -70,6 +70,7 @@ bolt
 boost
 boost-libs
 botan
+box2d
 breezy
 bridge-utils
 brltty
@@ -315,6 +316,7 @@ gpgme
 gpm
 gptfdisk
 graphene
+graphicsmagick
 graphite
 graphviz
 grep
@@ -957,7 +959,6 @@ liblqr
 liblrdf
 libluv
 libmad
-libmagick6
 libmatroska
 libmaxminddb
 libmediaart
@@ -1269,7 +1270,7 @@ openal
 openblas
 openbsd-netcat
 opencollada
-opencolorio
+opencolorio1
 opencore-amr
 openexr
 openimagedenoise
@@ -1649,6 +1650,7 @@ smbclient
 smpeg
 snappy
 sndio
+snorenotify
 soapui
 socat
 solid
