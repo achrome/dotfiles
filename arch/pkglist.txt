@@ -163,7 +163,6 @@ edk2-ovmf
 efibootmgr
 efivar
 electron
-electron9
 elementary-icon-theme
 elfutils
 elinks
@@ -534,6 +533,7 @@ haskell-temporary
 haskell-text-conversions
 haskell-text-metrics
 haskell-th-abstraction
+haskell-th-compat
 haskell-th-expand-syns
 haskell-th-lift
 haskell-th-lift-instances
@@ -798,6 +798,7 @@ lib32-nss
 lib32-openal
 lib32-openssl
 lib32-openssl-1.0
+lib32-opus
 lib32-p11-kit
 lib32-pam
 lib32-pango
