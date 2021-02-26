@@ -1308,6 +1308,7 @@ pacman
 pacman-contrib
 pacman-mirrorlist
 pacutils
+pahole
 pam
 pambase
 pango
@@ -1399,7 +1400,6 @@ pulseaudio-bluetooth
 pybind11
 python
 python-appdirs
-python-asn1crypto
 python-atspi
 python-attrs
 python-backcall
