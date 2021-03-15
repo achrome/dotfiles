@@ -838,6 +838,7 @@ libasyncns
 libatasmart
 libatomic_ops
 libavc1394
+libavif
 libavtp
 libblockdev
 libbluray
@@ -1145,6 +1146,7 @@ libxvmc
 libxxf86vm
 libyaml
 libytnef
+libyuv
 libzapojit
 libzen
 libzip
@@ -1369,6 +1371,7 @@ php
 php-grpc
 pinentry
 pipewire
+pipewire-media-session
 pixman
 pkcs11-helper
 pkgconf
@@ -1402,6 +1405,7 @@ python
 python-appdirs
 python-atspi
 python-attrs
+python-babel
 python-backcall
 python-bcrypt
 python-beaker
@@ -1483,6 +1487,7 @@ python-pyqt5
 python-pyqt5-sip
 python-pyrsistent
 python-pysocks
+python-pytz
 python-pyxdg
 python-requests
 python-resolvelib
@@ -1685,6 +1690,7 @@ subversion
 sudo
 suitesparse
 sushi
+svt-av1
 svt-hevc
 swig
 sysfsutils
@@ -1721,7 +1727,6 @@ the_silver_searcher
 thin-provisioning-tools
 thrift
 thunderbird
-tinycdb
 tinyxml
 tk
 tmux
