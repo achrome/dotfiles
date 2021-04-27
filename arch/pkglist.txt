@@ -1442,7 +1442,6 @@ python-gobject
 python-greenlet
 python-html5lib
 python-idna
-python-imagesize
 python-importlib-metadata
 python-jedi
 python-jinja
@@ -1498,15 +1497,7 @@ python-s3transfer
 python-setuptools
 python-six
 python-slip
-python-snowballstemmer
 python-soupsieve
-python-sphinx-alabaster-theme
-python-sphinxcontrib-applehelp
-python-sphinxcontrib-devhelp
-python-sphinxcontrib-htmlhelp
-python-sphinxcontrib-jsmath
-python-sphinxcontrib-qthelp
-python-sphinxcontrib-serializinghtml
 python-termcolor
 python-texttable
 python-toml
