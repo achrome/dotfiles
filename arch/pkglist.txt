@@ -61,7 +61,6 @@ bison
 blackarch-keyring
 blackarch-menus
 blackarch-mirrorlist
-blosc
 bluez
 bluez-libs
 bluez-utils
@@ -563,7 +562,6 @@ haskell-x509-validation
 haskell-yaml
 haskell-zip-archive
 haskell-zlib
-hdf5
 hicolor-icon-theme
 hidapi
 highlight
@@ -1163,7 +1161,6 @@ llvm10-libs
 lm_sensors
 lmdb
 lmms
-log4cplus
 logrotate
 lpsolve
 lsb-release
@@ -1273,7 +1270,6 @@ openbsd-netcat
 opencolorio1
 opencore-amr
 openexr
-openimageio
 openjpeg2
 openlibm
 openmp
@@ -1388,7 +1384,6 @@ prometheus
 protobuf
 psmisc
 pstoedit
-ptex
 pugixml
 pulseaudio
 pulseaudio-alsa
