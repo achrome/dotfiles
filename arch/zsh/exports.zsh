@@ -1,5 +1,5 @@
 export PATH="$PATH:$HOME/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:$HOME/.local/bin:$HOME/.govm/bin:$HOME/.cargo/bin"
-export PATH="$HOME/.pyenv/bin:$HOME/.govm/versions/current/bin:$PATH:$HOME/.gem/ruby/2.7.1/bin"
+export PATH="$HOME/.pyenv/bin:$HOME/.govm/versions/current/bin:$PATH:$HOME/.gem/ruby/3.0.0/bin"
 export LANG=en_IN.UTF-8
 export GOPATH=$HOME/code/go
 export GHCVERSION=head
