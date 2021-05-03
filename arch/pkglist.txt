@@ -824,7 +824,6 @@ lib32-xz
 lib32-zlib
 lib32-zstd
 libabw
-libaec
 libaio
 libantlr3c
 libao
@@ -1267,7 +1266,6 @@ opam
 openal
 openblas
 openbsd-netcat
-opencolorio1
 opencore-amr
 openexr
 openjpeg2
@@ -1384,11 +1382,9 @@ prometheus
 protobuf
 psmisc
 pstoedit
-pugixml
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
-pybind11
 python
 python-appdirs
 python-atspi
