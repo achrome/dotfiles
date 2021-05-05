@@ -1436,6 +1436,7 @@ python-lxml
 python-mako
 python-markdown
 python-markupsafe
+python-matplotlib-inline
 python-msgpack
 python-netaddr
 python-nose
@@ -1691,7 +1692,6 @@ the_silver_searcher
 thin-provisioning-tools
 thrift
 thunderbird
-tinyxml
 tk
 tmux
 tmuxp
@@ -1842,7 +1842,6 @@ xvidcore
 xxhash
 xz
 yajl
-yaml-cpp
 yarn
 yay
 yelp
