@@ -91,7 +91,6 @@ celt
 ceph-libs
 cheese
 chromaprint
-chrome-gnome-shell
 chromium
 cifs-utils
 clamav
@@ -1673,8 +1672,6 @@ tdb
 telepathy-glib
 tepl
 terminator
-termite
-termite-terminfo
 tevent
 texinfo
 texlive-bibtexextra
