@@ -7,11 +7,11 @@
 ├── elm-format@0.8.5
 ├── elm@0.19.1-5
 ├── emma-cli@2.1.0
-├── gatsby-cli@3.4.1
+├── gatsby-cli@3.5.0
 ├── gitbook@2.6.9
 ├── neovim@4.10.0
 ├── node-gyp@8.0.0
-├── npm@7.11.2
+├── npm@7.12.1
 ├── purescript@0.14.1
 ├── surge@0.23.0
 ├── taskbook@0.3.0
