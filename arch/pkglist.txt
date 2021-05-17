@@ -160,7 +160,6 @@ edk2-ovmf
 efibootmgr
 efivar
 electron
-electron11
 elementary-icon-theme
 elfutils
 elinks
