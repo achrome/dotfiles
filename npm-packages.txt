@@ -11,7 +11,7 @@
 ├── gitbook@2.6.9
 ├── neovim@4.10.0
 ├── node-gyp@8.1.0
-├── npm@7.13.0
+├── npm@7.15.0
 ├── purescript@0.14.1
 ├── surge@0.23.0
 ├── taskbook@0.3.0
