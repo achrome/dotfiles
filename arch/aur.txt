@@ -1,10 +1,12 @@
 alsi
 antibody
 brave-bin
-deno-bin
+chrome-gnome-shell
 docker-machine-driver-kvm2
+ebtables
 ffdec
 gconf-editor
+gnome-getting-started-docs
 goland
 google-cloud-sdk
 hyper

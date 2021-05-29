@@ -129,6 +129,7 @@ dbus-python
 dconf
 deepin-gtk-theme
 deepin-icon-theme
+deno
 desktop-file-utils
 device-mapper
 dex
