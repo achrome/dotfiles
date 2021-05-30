@@ -337,6 +337,7 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
+gtest
 gtk-engine-murrine
 gtk-engines
 gtk-update-icon-cache
@@ -464,6 +465,7 @@ haskell-infer-license
 haskell-integer-logarithms
 haskell-iproute
 haskell-libyaml
+haskell-lift-type
 haskell-lifted-async
 haskell-lifted-base
 haskell-lukko
@@ -668,6 +670,7 @@ ldns
 leiningen
 lensfun
 less
+lib2geom
 lib32-acl
 lib32-alsa-lib
 lib32-alsa-plugins
@@ -801,6 +804,7 @@ lib32-p11-kit
 lib32-pam
 lib32-pango
 lib32-pcre
+lib32-pipewire
 lib32-pixman
 lib32-readline
 lib32-sdl
@@ -1560,6 +1564,7 @@ qt5-x11extras
 qt5-xmlpatterns
 qtox
 r
+ragel
 ranger
 raptor
 rasqal
