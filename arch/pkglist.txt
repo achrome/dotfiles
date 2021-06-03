@@ -1,5 +1,6 @@
 a52dec
 aalib
+abseil-cpp
 accountsservice
 acl
 acme-tiny
@@ -226,7 +227,6 @@ gdb
 gdb-common
 gdbm
 gdk-pixbuf2
-gdl
 gdm
 gedit
 gegl
@@ -348,7 +348,6 @@ gtk4
 gtkmm
 gtkmm3
 gtksourceview4
-gtkspell3
 gts
 guake
 guile
@@ -1440,6 +1439,7 @@ python-mako
 python-markdown
 python-markupsafe
 python-matplotlib-inline
+python-more-itertools
 python-msgpack
 python-netaddr
 python-nose
