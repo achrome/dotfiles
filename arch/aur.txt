@@ -6,10 +6,8 @@ docker-machine-driver-kvm2
 ebtables
 ffdec
 gconf-editor
-goland
 google-cloud-sdk
 i3-gnome
-kafka
 lain-git
 otf-fira-code
 package-query
@@ -20,11 +18,9 @@ simplenote-electron-bin
 skypeforlinux-stable-bin
 slack-desktop
 spotify
-tangerine-icon-theme
 telegram-desktop-bin
 trizen
 ttf-ms-fonts
 xcursor-human
 xcursor-openzone
-zookeeper
 zuki-themes

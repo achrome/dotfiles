@@ -27,7 +27,6 @@ arc-gtk-theme
 arc-icon-theme
 arc-solid-gtk-theme
 archlinux-keyring
-arduino-ctags
 argon2
 aribb24
 aspell
