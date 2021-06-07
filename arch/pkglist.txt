@@ -843,7 +843,6 @@ libc++experimental
 libcaca
 libcacard
 libcanberra
-libcanberra-pulse
 libcap
 libcap-ng
 libcddb
@@ -854,6 +853,7 @@ libcerf
 libchamplain
 libcloudproviders
 libcmis
+libcolord
 libconfig
 libcroco
 libcryptui
