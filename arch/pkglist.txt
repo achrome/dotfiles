@@ -728,7 +728,7 @@ lib32-libltdl
 lib32-libmikmod
 lib32-libmodplug
 lib32-libnl
-lib32-libnm-glib
+lib32-libnm
 lib32-libnsl
 lib32-libogg
 lib32-libpcap
@@ -988,7 +988,6 @@ libnghttp2
 libnice
 libnl
 libnm
-libnm-glib
 libnma
 libnotify
 libnsl
