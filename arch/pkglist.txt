@@ -715,7 +715,6 @@ lib32-libgcrypt
 lib32-libgcrypt15
 lib32-libglvnd
 lib32-libgpg-error
-lib32-libgudev
 lib32-libice
 lib32-libid3tag
 lib32-libidn11
