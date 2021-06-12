@@ -1241,6 +1241,7 @@ nmap
 nnn
 node-gyp
 nodejs
+nodejs-nopt
 noto-fonts
 npm
 npth
