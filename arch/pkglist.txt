@@ -1652,6 +1652,7 @@ sushi
 svt-av1
 svt-hevc
 swig
+syndication
 sysfsutils
 systemd
 systemd-libs
