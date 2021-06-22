@@ -1685,6 +1685,7 @@ the_silver_searcher
 thin-provisioning-tools
 thrift
 thunderbird
+tinyxml2
 tk
 tmux
 tmuxp
