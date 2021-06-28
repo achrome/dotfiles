@@ -1,5 +1,5 @@
 /home/achrome/.nvm/versions/node/v16.4.0/lib
-├── @angular/cli@12.0.5
+├── @angular/cli@12.1.0
 ├── @nestjs/cli@7.6.0
 ├── @vue/cli@4.5.13
 ├── bs-platform@9.0.2
@@ -11,7 +11,7 @@
 ├── gitbook@2.6.9
 ├── neovim@4.10.0
 ├── node-gyp@8.1.0
-├── npm@7.18.1
+├── npm@7.19.0
 ├── purescript@0.14.2
 ├── surge@0.23.0
 ├── taskbook@0.3.0
