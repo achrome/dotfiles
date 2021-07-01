@@ -1019,7 +1019,6 @@ libpsl
 libpst
 libpulse
 libpwquality
-libquvi
 libquvi-scripts
 libqxp
 libraqm
