@@ -1158,10 +1158,7 @@ lsof
 lua
 lua51
 lua52
-lua52-bitop
-lua52-expat
 lua52-lpeg
-lua52-luajson
 lua52-socket
 lua53
 lua53-lgi
