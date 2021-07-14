@@ -1,4 +1,4 @@
-/home/achrome/.nvm/versions/node/v16.4.2/lib
+/home/achrome/.nvm/versions/node/v16.5.0/lib
 ├── @angular/cli@12.1.1
 ├── @nestjs/cli@8.0.2
 ├── @vue/cli@4.5.13
