@@ -1472,6 +1472,7 @@ python-soupsieve
 python-termcolor
 python-texttable
 python-toml
+python-tomli
 python-traitlets
 python-urllib3
 python-wcwidth
