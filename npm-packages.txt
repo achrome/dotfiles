@@ -7,7 +7,7 @@
 ├── elm-format@0.8.5
 ├── elm@0.19.1-5
 ├── emma-cli@2.1.0
-├── gatsby-cli@3.9.0
+├── gatsby-cli@3.10.0
 ├── gitbook-cli@2.3.2
 ├── neovim@4.10.0
 ├── node-gyp@8.1.0
