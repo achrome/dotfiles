@@ -595,7 +595,6 @@ iputils
 ipython
 iso-codes
 iw
-jack
 jansson
 jasper
 java-environment-common
