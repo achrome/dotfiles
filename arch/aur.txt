@@ -8,7 +8,6 @@ ffdec
 gconf-editor
 google-cloud-sdk
 i3-gnome
-jack
 lain-git
 otf-fira-code
 package-query
