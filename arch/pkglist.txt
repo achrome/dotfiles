@@ -893,6 +893,7 @@ libfbclient
 libfdk-aac
 libffi
 libfontenc
+libfreeaptx
 libfreehand
 libgcrypt
 libgcrypt15
@@ -996,7 +997,6 @@ libodfgen
 libofa
 libogg
 libomxil-bellagio
-libopenaptx
 liborcus
 libosinfo
 libp11-kit
