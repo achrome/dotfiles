@@ -627,7 +627,6 @@ kglobalaccel
 kguiaddons
 ki18n
 kiconthemes
-kinit
 kio
 kitemviews
 kitty
