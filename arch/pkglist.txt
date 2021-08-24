@@ -848,7 +848,6 @@ libcdr
 libcerf
 libchamplain
 libcloudproviders
-libcmis
 libcolord
 libconfig
 libcroco
@@ -1745,7 +1744,6 @@ vmaf
 volume_key
 vte-common
 vte3
-vulkan-headers
 vulkan-icd-loader
 vulkan-radeon
 w3m
