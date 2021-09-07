@@ -588,7 +588,7 @@ intel-gmmlib
 intel-media-driver
 intel-media-sdk
 iproute2
-iptables
+iptables-nft
 iputils
 ipython
 iso-codes
@@ -664,6 +664,7 @@ lib32-alsa-lib
 lib32-alsa-plugins
 lib32-atk
 lib32-attr
+lib32-brotli
 lib32-bzip2
 lib32-cairo
 lib32-curl
