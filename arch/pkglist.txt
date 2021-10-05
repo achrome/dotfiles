@@ -1375,7 +1375,6 @@ pulseaudio-bluetooth
 python
 python-appdirs
 python-atspi
-python-attrs
 python-babel
 python-backcall
 python-bcrypt
@@ -1399,7 +1398,6 @@ python-decorator
 python-distlib
 python-distro
 python-dnspython
-python-docker
 python-docker-pycreds
 python-docutils
 python-dulwich
@@ -1408,8 +1406,6 @@ python-gobject
 python-greenlet
 python-html5lib
 python-idna
-python-imagesize
-python-importlib-metadata
 python-jedi
 python-jinja
 python-jmespath
@@ -1452,7 +1448,6 @@ python-pyopenssl
 python-pyparsing
 python-pyqt5
 python-pyqt5-sip
-python-pyrsistent
 python-pysocks
 python-pytz
 python-pyxdg
@@ -1463,15 +1458,7 @@ python-rsa
 python-s3transfer
 python-setuptools
 python-six
-python-snowballstemmer
 python-soupsieve
-python-sphinx-alabaster-theme
-python-sphinxcontrib-applehelp
-python-sphinxcontrib-devhelp
-python-sphinxcontrib-htmlhelp
-python-sphinxcontrib-jsmath
-python-sphinxcontrib-qthelp
-python-sphinxcontrib-serializinghtml
 python-termcolor
 python-toml
 python-tomli
