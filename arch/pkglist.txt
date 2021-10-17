@@ -541,6 +541,7 @@ haskell-transformers-base
 haskell-transformers-compat
 haskell-type-equality
 haskell-typed-process
+haskell-unicode-data
 haskell-unicode-transforms
 haskell-unix-compat
 haskell-unix-time
@@ -834,6 +835,7 @@ libbluray
 libbpf
 libbs2b
 libbsd
+libburn
 libbytesize
 libc++
 libc++abi
@@ -935,6 +937,8 @@ libinih
 libinput
 libinstpatch
 libiptcdata
+libisoburn
+libisofs
 libixion
 libjpeg-turbo
 libjpeg6-turbo
@@ -996,6 +1000,7 @@ libodfgen
 libofa
 libogg
 libomxil-bellagio
+libopenmpt
 liborcus
 libosinfo
 libp11-kit
@@ -1146,7 +1151,6 @@ linux-headers
 lldb
 llvm
 llvm-libs
-llvm10-libs
 lm_sensors
 lmdb
 lmms
@@ -1398,7 +1402,6 @@ python-decorator
 python-distlib
 python-distro
 python-dnspython
-python-docker-pycreds
 python-docutils
 python-dulwich
 python-fastimport
@@ -1466,9 +1469,7 @@ python-traitlets
 python-urllib3
 python-wcwidth
 python-webencodings
-python-websocket-client
 python-yaml
-python-zipp
 python2
 python2-appdirs
 python2-asn1crypto
