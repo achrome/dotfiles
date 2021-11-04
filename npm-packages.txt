@@ -1,19 +1,19 @@
-/home/achrome/.nvm/versions/node/v16.11.1/lib
-├── @angular/cli@12.2.10
-├── @nestjs/cli@8.1.2
-├── @vue/cli@4.5.14
+/home/achrome/.nvm/versions/node/v17.0.1/lib
+├── @angular/cli@13.0.1
+├── @nestjs/cli@8.1.4
+├── @vue/cli@4.5.15
 ├── bs-platform@9.0.2
 ├── corepack@0.10.0
 ├── degit@2.8.4
 ├── elm-format@0.8.5
 ├── elm@0.19.1-5
 ├── emma-cli@2.1.0
-├── gatsby-cli@3.14.2
+├── gatsby-cli@4.1.0
 ├── gitbook-cli@2.3.2
 ├── neovim@4.10.0
-├── node-gyp@8.2.0
-├── npm@8.0.0
-├── purescript@0.14.4
+├── node-gyp@8.3.0
+├── npm@8.1.2
+├── purescript@0.14.5
 ├── surge@0.23.0
 ├── taskbook@0.3.0
 ├── tern@0.24.3

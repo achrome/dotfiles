@@ -1107,6 +1107,7 @@ libxcb
 libxcomposite
 libxcrypt
 libxcursor
+libxcvt
 libxdamage
 libxdg-basedir
 libxdmcp
@@ -1491,7 +1492,6 @@ python2-html5lib
 python2-idna
 python2-importlib-metadata
 python2-ipaddress
-python2-lockfile
 python2-msgpack
 python2-ndg-httpsclient
 python2-ordered-set
