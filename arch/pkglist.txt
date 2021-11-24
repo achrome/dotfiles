@@ -851,6 +851,7 @@ libcdio-paranoia
 libcdr
 libcerf
 libchamplain
+libcheese
 libcloudproviders
 libcolord
 libconfig
@@ -976,7 +977,6 @@ libmpeg2
 libmspack
 libmspub
 libmtp
-libmusicbrainz5
 libmwaw
 libmypaint
 libnautilus-extension
@@ -1161,13 +1161,13 @@ lsb-release
 lsd
 lsof
 lua
-lua51
 lua52
 lua52-socket
 lua53
 lua53-lgi
 luajit
 luit
+lv2
 lvm2
 lxde-icon-theme
 lynx
@@ -1368,6 +1368,7 @@ postfix
 postgresql
 postgresql-libs
 potrace
+power-profiles-daemon
 ppp
 procps-ng
 prometheus
@@ -1410,6 +1411,7 @@ python-gobject
 python-greenlet
 python-html5lib
 python-idna
+python-importlib-metadata
 python-jedi
 python-jinja
 python-jmespath
@@ -1471,6 +1473,7 @@ python-urllib3
 python-wcwidth
 python-webencodings
 python-yaml
+python-zipp
 python2
 python2-appdirs
 python2-asn1crypto
@@ -1646,7 +1649,6 @@ t1lib
 taglib
 talloc
 tar
-tbb
 tcl
 tcpdump
 tdb
@@ -1745,6 +1747,7 @@ wavpack
 wayland
 wayland-protocols
 webkit2gtk
+webkit2gtk-4.1
 webrtc-audio-processing
 wget
 which
@@ -1782,6 +1785,7 @@ xcursor-vanilla-dmz
 xcursor-vanilla-dmz-aa
 xdg-dbus-proxy
 xdg-desktop-portal
+xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-user-dirs-gtk
