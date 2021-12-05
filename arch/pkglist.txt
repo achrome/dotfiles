@@ -830,6 +830,7 @@ libatomic_ops
 libavc1394
 libavif
 libavtp
+libblastrampoline
 libblockdev
 libbluray
 libbpf
@@ -1489,7 +1490,6 @@ python2-cryptography
 python2-distlib
 python2-distro
 python2-enum34
-python2-gevent
 python2-greenlet
 python2-html5lib
 python2-idna
