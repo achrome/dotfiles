@@ -168,7 +168,6 @@ epiphany
 erlang
 etckeeper
 evince
-evolution
 evolution-data-server
 exempi
 exiv2
@@ -1490,7 +1489,6 @@ python2-cryptography
 python2-distlib
 python2-distro
 python2-enum34
-python2-greenlet
 python2-html5lib
 python2-idna
 python2-importlib-metadata
@@ -1519,8 +1517,6 @@ python2-urllib3
 python2-webencodings
 python2-wxpython3
 python2-zipp
-python2-zope-event
-python2-zope-interface
 qemu
 qrencode
 qt5-base
