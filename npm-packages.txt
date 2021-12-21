@@ -1,5 +1,5 @@
-/home/achrome/.nvm/versions/node/v17.2.0/lib
-├── @angular/cli@13.1.1
+/home/achrome/.nvm/versions/node/v17.3.0/lib
+├── @angular/cli@13.1.2
 ├── @nestjs/cli@8.1.6
 ├── @vue/cli@4.5.15
 ├── bs-platform@9.0.2
@@ -8,7 +8,7 @@
 ├── elm-format@0.8.5
 ├── elm@0.19.1-5
 ├── emma-cli@2.1.0
-├── gatsby-cli@4.3.0
+├── gatsby-cli@4.4.0
 ├── gitbook-cli@2.3.2
 ├── neovim@4.10.1
 ├── node-gyp@8.4.1

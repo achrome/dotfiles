@@ -856,7 +856,6 @@ libcloudproviders
 libcolord
 libconfig
 libcroco
-libcryptui
 libcue
 libcups
 libcurl-compat
@@ -1020,7 +1019,6 @@ libpng12
 libportal
 libproxy
 libpsl
-libpst
 libpulse
 libpwquality
 libqxp
@@ -1138,7 +1136,6 @@ libxv
 libxvmc
 libxxf86vm
 libyaml
-libytnef
 libyuv
 libzapojit
 libzen
@@ -1493,6 +1490,7 @@ python2-html5lib
 python2-idna
 python2-importlib-metadata
 python2-ipaddress
+python2-more-itertools
 python2-msgpack
 python2-ordered-set
 python2-packaging
@@ -1530,6 +1528,7 @@ qt5-sensors
 qt5-speech
 qt5-svg
 qt5-tools
+qt5-translations
 qt5-wayland
 qt5-webchannel
 qt5-webengine
