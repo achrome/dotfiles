@@ -1017,6 +1017,7 @@ libplist
 libpng
 libpng12
 libportal
+libportal-gtk3
 libproxy
 libpsl
 libpulse
@@ -1053,6 +1054,7 @@ libssh2
 libstaroffice
 libstemmer
 libsynctex
+libsysprof-capture
 libtar
 libtasn1
 libteam
@@ -1424,7 +1426,6 @@ python-matplotlib-inline
 python-more-itertools
 python-msgpack
 python-netaddr
-python-nose
 python-numpy
 python-ordered-set
 python-packaging
@@ -1598,7 +1599,6 @@ smpeg
 snappy
 sndio
 snorenotify
-soapui
 socat
 solid
 solidity
