@@ -568,7 +568,7 @@ http-parser
 hugo
 hunspell
 hunspell-en_us
-hwids
+hwdata
 hwloc
 hyphen
 i3-wm
@@ -630,6 +630,7 @@ kiconthemes
 kio
 kitemviews
 kitty
+kitty-shell-integration
 kitty-terminfo
 kjobwidgets
 kmod
