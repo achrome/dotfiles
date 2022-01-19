@@ -85,7 +85,6 @@ catimg
 cblas
 cdparanoia
 cdrtools
-celt
 ceph-libs
 cheese
 chromaprint
@@ -439,6 +438,7 @@ haskell-filtrable
 haskell-free
 haskell-fsnotify
 haskell-generic-deriving
+haskell-ghc-bignum-orphans
 haskell-githash
 haskell-glob
 haskell-hackage-security
@@ -1831,8 +1831,6 @@ zenity
 zeromq
 zimg
 zip
-zita-alsa-pcmi
-zita-resampler
 zlib
 zsh
 zstd
