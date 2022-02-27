@@ -103,6 +103,7 @@ code
 cogl
 colord
 colord-gtk
+colord-gtk-common
 colord-sane
 compiler-rt
 composer
@@ -179,6 +180,7 @@ faudio
 fd
 feh
 ffmpeg
+ffmpeg4.4
 ffmpegthumbnailer
 fftw
 file
@@ -830,6 +832,7 @@ libatomic_ops
 libavc1394
 libavif
 libavtp
+libb64
 libblastrampoline
 libblockdev
 libbluray
@@ -980,6 +983,7 @@ libmspub
 libmtp
 libmwaw
 libmypaint
+libnatpmp
 libnautilus-extension
 libndp
 libnet
@@ -1033,6 +1037,7 @@ librsvg
 librtmp0
 libsamplerate
 libsasl
+libsass
 libseccomp
 libsecret
 libshout
@@ -1198,6 +1203,7 @@ mesa
 mesa-demos
 metasploit
 metis
+miniupnpc
 minizip
 mjpegtools
 mkinitcpio
@@ -1236,6 +1242,7 @@ networkmanager
 networkmanager-openvpn
 nftables
 nginx
+ninja
 nitrogen
 nm-connection-editor
 nmap
@@ -1658,7 +1665,6 @@ tcl
 tcpdump
 tdb
 telepathy-glib
-tepl
 terminator
 tevent
 texinfo
@@ -1687,6 +1693,7 @@ totem
 totem-pl-parser
 toxcore
 toxic
+tpm2-tss
 traceroute
 tracker
 tracker-miners
