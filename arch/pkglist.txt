@@ -14,7 +14,6 @@ alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
 alsa-utils
-amtk
 ansible
 ansible-core
 aom
@@ -179,6 +178,7 @@ fakeroot
 faudio
 fd
 feh
+ffcall
 ffmpeg
 ffmpeg4.4
 ffmpegthumbnailer
@@ -429,6 +429,7 @@ haskell-easy-file
 haskell-echo
 haskell-ed25519
 haskell-either
+haskell-emojis
 haskell-enclosed-exceptions
 haskell-errors
 haskell-extra
@@ -499,7 +500,6 @@ haskell-profunctors
 haskell-project-template
 haskell-random
 haskell-regex-applicative
-haskell-regex-applicative-text
 haskell-resource-pool
 haskell-resourcet
 haskell-retry
@@ -859,7 +859,6 @@ libcheese
 libcloudproviders
 libcolord
 libconfig
-libcroco
 libcue
 libcups
 libcurl-compat
@@ -941,6 +940,7 @@ libinih
 libinput
 libinstpatch
 libiptcdata
+libisl
 libisoburn
 libisofs
 libixion
@@ -1037,7 +1037,6 @@ librsvg
 librtmp0
 libsamplerate
 libsasl
-libsass
 libseccomp
 libsecret
 libshout
@@ -1242,7 +1241,6 @@ networkmanager
 networkmanager-openvpn
 nftables
 nginx
-ninja
 nitrogen
 nm-connection-editor
 nmap
@@ -1719,7 +1717,6 @@ ttf-roboto
 tumbler
 twolame
 tzdata
-uchardet
 udisks2
 udp2raw-tunnel
 unclutter
