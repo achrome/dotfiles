@@ -156,7 +156,7 @@ e2fsprogs
 edk2-ovmf
 efibootmgr
 efivar
-electron13
+electron17
 elementary-icon-theme
 elfutils
 elinks
@@ -173,7 +173,6 @@ expat
 extra-cmake-modules
 faac
 faad2
-faenza-icon-theme
 fakeroot
 faudio
 fd
@@ -265,12 +264,9 @@ gnome-control-center
 gnome-desktop
 gnome-dictionary
 gnome-disk-utility
-gnome-documents
 gnome-epub-thumbnailer
 gnome-font-viewer
-gnome-icon-theme
 gnome-icon-theme-extras
-gnome-icon-theme-symbolic
 gnome-keyring
 gnome-logs
 gnome-maps
@@ -499,7 +495,6 @@ haskell-primitive
 haskell-profunctors
 haskell-project-template
 haskell-random
-haskell-regex-applicative
 haskell-resource-pool
 haskell-resourcet
 haskell-retry
@@ -997,6 +992,7 @@ libnice
 libnl
 libnm
 libnma
+libnma-common
 libnotify
 libnsl
 libnumbertext
