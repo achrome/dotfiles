@@ -154,6 +154,7 @@ dotconf
 double-conversion
 doxygen
 dtc
+duktape
 e2fsprogs
 edk2-ovmf
 efibootmgr
@@ -242,7 +243,6 @@ gimp
 gimp-help-en
 git
 gjs
-glew
 glew1.10
 glib-networking
 glib2
@@ -1092,6 +1092,7 @@ libva
 libva-mesa-driver
 libva-vdpau-driver
 libvdpau
+libverto
 libvirt
 libvirt-glib
 libvirt-python
@@ -1277,6 +1278,7 @@ openjpeg2
 openlibm
 openmp
 openmpi
+openpmix
 openresolv
 openssh
 openssl
@@ -1344,6 +1346,7 @@ perl-log-message-simple
 perl-lwp-mediatypes
 perl-lwp-protocol-https
 perl-mailtools
+perl-mozilla-ca
 perl-net-http
 perl-net-ssleay
 perl-parse-yapp
@@ -1357,8 +1360,6 @@ perl-types-serialiser
 perl-uri
 perl-www-robotrules
 phodav
-phonon-qt5
-phonon-qt5-gstreamer
 php
 php-grpc
 pinentry
@@ -1411,8 +1412,8 @@ python-cffi
 python-chardet
 python-click
 python-colorama
+python-commonmark
 python-configobj
-python-contextlib2
 python-cryptography
 python-cssselect
 python-dateutil
@@ -1423,12 +1424,17 @@ python-dnspython
 python-docutils
 python-dulwich
 python-executing
+python-fastbencode
 python-fastimport
+python-future
 python-gobject
 python-greenlet
 python-html5lib
 python-idna
 python-importlib-metadata
+python-jaraco.context
+python-jaraco.functools
+python-jaraco.text
 python-jedi
 python-jinja
 python-jmespath
@@ -1444,6 +1450,7 @@ python-more-itertools
 python-msgpack
 python-mypy_extensions
 python-netaddr
+python-nspektr
 python-numpy
 python-ordered-set
 python-packaging
@@ -1459,7 +1466,6 @@ python-pickleshare
 python-pip
 python-platformdirs
 python-ply
-python-progress
 python-prompt_toolkit
 python-psutil
 python-ptyprocess
@@ -1479,19 +1485,21 @@ python-pytz
 python-pyxdg
 python-requests
 python-resolvelib
-python-retrying
+python-rich
 python-rsa
 python-s3transfer
 python-setuptools
 python-six
 python-soupsieve
 python-stack-data
+python-tenacity
 python-termcolor
-python-toml
 python-tomli
 python-traitlets
+python-trove-classifiers
 python-typing_extensions
 python-urllib3
+python-validate-pyproject
 python-wcwidth
 python-webencodings
 python-yaml
@@ -1618,6 +1626,7 @@ rsync
 rtkit
 rtmpdump
 ruby
+ruby-bundler
 ruby-irb
 ruby-reline
 ruby2.7
