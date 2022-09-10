@@ -268,7 +268,6 @@ gnome-desktop-4
 gnome-desktop-common
 gnome-dictionary
 gnome-disk-utility
-gnome-epub-thumbnailer
 gnome-font-viewer
 gnome-icon-theme-extras
 gnome-keyring
@@ -277,7 +276,6 @@ gnome-maps
 gnome-menus
 gnome-music
 gnome-online-accounts
-gnome-online-miners
 gnome-photos
 gnome-screenshot
 gnome-session
@@ -1421,7 +1419,6 @@ python-dulwich
 python-executing
 python-fastbencode
 python-fastimport
-python-future
 python-gobject
 python-greenlet
 python-html5lib
