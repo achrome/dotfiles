@@ -28,7 +28,7 @@ done
 nvm use default --silent
 [[ -s "/home/achrome/.gvm/scripts/gvm" ]] && source "/home/achrome/.gvm/scripts/gvm"
 eval "$(pyenv init -)"
-pyenv shell 3.10.6
+pyenv shell 3.10.7
 eval "$(pyenv virtualenv-init -)"
 pyenv virtualenvwrapper
 
