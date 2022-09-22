@@ -98,7 +98,6 @@ clutter-gtk
 cmake
 cmark-gfm
 cmus
-code
 cogl
 colord
 colord-gtk-common
@@ -159,7 +158,6 @@ e2fsprogs
 edk2-ovmf
 efibootmgr
 efivar
-electron19
 elementary-icon-theme
 elfutils
 elinks
@@ -560,6 +558,7 @@ haskell-zlib
 hicolor-icon-theme
 hidapi
 highlight
+highway
 hiredis
 hspell
 htop
@@ -1148,7 +1147,6 @@ libxvmc
 libxxf86vm
 libyaml
 libyuv
-libzapojit
 libzen
 libzip
 libzmf
@@ -1204,7 +1202,6 @@ mediainfo
 mercurial
 mesa
 mesa-demos
-metasploit
 metis
 miniupnpc
 minizip
@@ -1509,7 +1506,6 @@ python2-distlib
 python2-distro
 python2-enum34
 python2-html5lib
-python2-idna
 python2-importlib-metadata
 python2-ipaddress
 python2-more-itertools
@@ -1529,7 +1525,6 @@ python2-requests
 python2-resolvelib
 python2-retrying
 python2-scandir
-python2-setuptools
 python2-six
 python2-toml
 python2-urllib3

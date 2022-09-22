@@ -1,22 +1,5 @@
 /home/achrome/.nvm/versions/node/v18.9.0/lib
-├── @angular/cli@14.2.2
-├── @nestjs/cli@9.1.2
-├── @vue/cli@5.0.8
-├── bs-platform@9.0.2
-├── corepack@0.14.0
-├── degit@2.8.4
-├── elm-format@0.8.5
-├── elm@0.19.1-5
-├── emma-cli@2.1.0
-├── gatsby-cli@4.22.1
-├── gitbook-cli@2.3.2
 ├── neovim@4.10.1
 ├── node-gyp@9.1.0
-├── npm@8.19.1
-├── purescript@0.15.4
-├── surge@0.23.1
-├── taskbook@0.3.0
-├── tern@0.24.3
-├── vercel@28.2.4
-└── wscat@5.2.0
+└── npm@8.19.2
 
