@@ -13,7 +13,6 @@ package-query
 siji-git
 simplenote-electron-bin
 skypeforlinux-stable-bin
-slack-desktop
 spotify
 telegram-desktop-bin
 trizen
