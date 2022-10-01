@@ -895,7 +895,7 @@ libvoikko
 libvorbis
 libvpx
 libvpx1.3
-libvterm01
+libvterm
 libwacom
 libwebp
 libwmf

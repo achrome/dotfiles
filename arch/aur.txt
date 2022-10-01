@@ -17,6 +17,7 @@ spotify
 telegram-desktop-bin
 trizen
 ttf-ms-fonts
+vscodium-bin
 xcursor-human
 xcursor-openzone
 zuki-themes
