@@ -416,6 +416,7 @@ haskell-file-embed
 haskell-filelock
 haskell-fsnotify
 haskell-generic-deriving
+haskell-generically
 haskell-ghc-bignum-orphans
 haskell-githash
 haskell-glob
@@ -1369,6 +1370,7 @@ python
 python-appdirs
 python-asttokens
 python-atspi
+python-attrs
 python-autocommand
 python-babel
 python-backcall
@@ -1466,6 +1468,7 @@ python-urllib3
 python-validate-pyproject
 python-wcwidth
 python-webencodings
+python-wheel
 python-yaml
 python-zipp
 python2
@@ -1725,6 +1728,7 @@ tcpdump
 tdb
 telepathy-glib
 terminator
+terraform
 tevent
 texinfo
 texlive-bibtexextra
