@@ -28,7 +28,7 @@ done
 nvm use default --silent
 [[ -s "/home/achrome/.gvm/scripts/gvm" ]] && source "/home/achrome/.gvm/scripts/gvm"
 eval "$(pyenv init -)"
-pyenv shell 3.10.7
+pyenv shell 3.10.8
 eval "$(pyenv virtualenv-init -)"
 pyenv virtualenvwrapper
 
@@ -102,3 +102,5 @@ echo "\n\e[1;4;32mGreetings \e[0;1;4;33m$USER.\e[0m"
 export BUN_INSTALL="/home/achrome/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
