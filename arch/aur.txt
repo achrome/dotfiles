@@ -12,11 +12,12 @@ lain-git
 package-query
 siji-git
 simplenote-electron-bin
-skypeforlinux-stable-bin
 spotify
-telegram-desktop-bin
+tracker
+tracker-miners
 trizen
 ttf-ms-fonts
+vino
 vscodium-bin
 xcursor-human
 xcursor-openzone

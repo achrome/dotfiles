@@ -132,10 +132,7 @@ diffutils
 discord
 djvulibre
 dkms
-dleyna-connector-dbus
-dleyna-core
-dleyna-renderer
-dleyna-server
+dleyna
 dmenu
 dmidecode
 dmraid
@@ -214,6 +211,7 @@ gcc-libs
 gcc-objc
 gconf
 gcr
+gcr-4
 gd
 gdb
 gdb-common
@@ -223,12 +221,12 @@ gdm
 gedit
 gegl
 geoclue
-geocode-glib
+geocode-glib-2
+geocode-glib-common
 geoip
 geoip-database
 geoip-database-extra
 gettext
-gfbgraph
 ghc
 ghc-libs
 ghostscript
@@ -328,7 +326,6 @@ gstreamer
 gtk-engine-murrine
 gtk-engines
 gtk-update-icon-cache
-gtk-vnc
 gtk2
 gtk3
 gtk4
@@ -587,7 +584,7 @@ jfsutils
 jq
 jre-openjdk
 jre-openjdk-headless
-js91
+js102
 json-c
 json-glib
 jsoncpp
@@ -764,7 +761,7 @@ lib32-nspr
 lib32-nss
 lib32-openal
 lib32-openssl
-lib32-openssl-1.0
+lib32-openssl-1.1
 lib32-opus
 lib32-p11-kit
 lib32-pam
@@ -796,7 +793,6 @@ libadwaita
 libaio
 libantlr3c
 libao
-libappindicator-gtk2
 libappindicator-gtk3
 libarchive
 libass
@@ -821,6 +817,7 @@ libc++abi
 libc++experimental
 libcaca
 libcacard
+libcamera
 libcanberra
 libcap
 libcap-ng
@@ -828,7 +825,6 @@ libcdio
 libcdio-paranoia
 libcdr
 libcerf
-libchamplain
 libcheese
 libcloudproviders
 libcolord
@@ -932,6 +928,7 @@ liblqr
 liblrdf
 libltc
 libluv
+liblzf
 libmad
 libmalcontent
 libmanette
@@ -1001,6 +998,7 @@ libpng
 libpng12
 libportal
 libportal-gtk3
+libportal-gtk4
 libproxy
 libpsl
 libpulse
@@ -1010,6 +1008,7 @@ libraqm
 libraw
 libraw1394
 libreoffice-fresh
+librest
 librevenge
 librsvg
 librsync
@@ -1019,6 +1018,7 @@ libsasl
 libseccomp
 libsecret
 libshout
+libshumate
 libsidplayfp
 libsigc++
 libsigsegv
@@ -1050,6 +1050,7 @@ libtiff4
 libtirpc
 libtommath
 libtool
+libtpms
 libudev0-shim
 libunistring
 libunwind
@@ -1179,7 +1180,6 @@ mediainfo
 mercurial
 mesa
 mesa-demos
-metis
 miniupnpc
 minizip
 mjpegtools
@@ -1255,7 +1255,7 @@ openpmix
 openresolv
 openssh
 openssl
-openssl-1.0
+openssl-1.1
 openvpn
 opus
 opusfile
@@ -1380,6 +1380,7 @@ python-black
 python-botocore
 python-cached-property
 python-cairo
+python-certifi
 python-cffi
 python-chardet
 python-click
@@ -1455,6 +1456,7 @@ python-requests
 python-resolvelib
 python-rsa
 python-s3transfer
+python-setproctitle
 python-setuptools
 python-six
 python-soupsieve
@@ -1569,7 +1571,6 @@ qt5-tools
 qt5-translations
 qt5-wayland
 qt5-webchannel
-qt5-webkit
 qt5-x11extras
 qt5-xmlpatterns
 qtox
@@ -1584,7 +1585,6 @@ readline
 redis
 redland
 reiserfsprogs
-rest
 rfdump
 rhash
 ripgrep
@@ -1758,8 +1758,6 @@ toxcore
 toxic
 tpm2-tss
 traceroute
-tracker
-tracker-miners
 tracker3
 tracker3-miners
 transmission-cli
@@ -1802,7 +1800,6 @@ vi
 vicious
 vid.stab
 vim-runtime
-vino
 virglrenderer
 virt-install
 virtualbox
@@ -1821,6 +1818,8 @@ wayland
 wayland-protocols
 webkit2gtk
 webkit2gtk-4.1
+webkit2gtk-5.0
+webp-pixbuf-loader
 webrtc-audio-processing
 wget
 which
