@@ -234,6 +234,7 @@ giflib
 gimp
 gimp-help-en
 git
+github-cli
 gjs
 glew1.10
 glib-networking
