@@ -13,6 +13,7 @@ alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
 alsa-utils
+amtk
 ansible
 ansible-core
 aom
@@ -1294,6 +1295,7 @@ pcre2
 pcsclite
 perf
 perl
+perl-clone
 perl-common-sense
 perl-data-dump
 perl-encode-locale
@@ -1669,7 +1671,6 @@ serf
 shaderc
 shadow
 shards
-shared-color-targets
 shared-mime-info
 simple-scan
 slang
@@ -1728,6 +1729,7 @@ tcl
 tcpdump
 tdb
 telepathy-glib
+tepl
 terminator
 terraform
 tevent
@@ -1780,6 +1782,7 @@ ttf-roboto
 tumbler
 twolame
 tzdata
+uchardet
 udisks2
 udp2raw-tunnel
 unclutter
