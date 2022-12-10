@@ -7,6 +7,7 @@ acme-tiny
 acpi
 adapta-gtk-theme
 adobe-source-code-pro-fonts
+adwaita-cursors
 adwaita-icon-theme
 alsa-lib
 alsa-plugins
@@ -123,6 +124,7 @@ dconf
 debuginfod
 deepin-gtk-theme
 deepin-icon-theme
+default-cursors
 deno
 desktop-file-utils
 device-mapper
@@ -779,7 +781,6 @@ lib32-sdl2_ttf
 lib32-sdl_image
 lib32-sdl_mixer
 lib32-sdl_ttf
-lib32-smpeg
 lib32-sqlite
 lib32-systemd
 lib32-tdb
@@ -1819,7 +1820,6 @@ vulkan-radeon
 w3m
 wavpack
 wayland
-wayland-protocols
 webkit2gtk
 webkit2gtk-4.1
 webkit2gtk-5.0
