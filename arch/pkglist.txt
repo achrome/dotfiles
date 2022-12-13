@@ -1678,7 +1678,6 @@ slang
 slock
 slurp
 smbclient
-smpeg
 snappy
 sndio
 snorenotify
