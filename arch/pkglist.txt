@@ -117,6 +117,7 @@ cvc4
 cython
 dav1d
 db
+db5.3
 dbus
 dbus-glib
 dbus-python
@@ -1102,6 +1103,7 @@ libxdamage
 libxdg-basedir
 libxdmcp
 libxext
+libxfce4util
 libxfixes
 libxfont2
 libxft
@@ -1355,7 +1357,6 @@ poppler-data
 poppler-glib
 popt
 portaudio
-portmidi
 postfix
 postgresql
 postgresql-libs
@@ -1566,7 +1567,7 @@ qt5-declarative
 qt5-graphicaleffects
 qt5-location
 qt5-multimedia
-qt5-quickcontrols
+qt5-networkauth
 qt5-quickcontrols2
 qt5-sensors
 qt5-speech
