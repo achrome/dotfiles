@@ -13,6 +13,7 @@ package-query
 siji-git
 simplenote-electron-bin
 spotify
+tor-browser-en
 tracker
 tracker-miners
 trizen

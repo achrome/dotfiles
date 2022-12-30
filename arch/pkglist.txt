@@ -26,8 +26,12 @@ apr-util
 arc-gtk-theme
 arc-icon-theme
 arc-solid-gtk-theme
+archlinux-keyring
 argon2
 aribb24
+arm-none-eabi-binutils
+arm-none-eabi-gcc
+arm-none-eabi-newlib
 aspell
 at-spi2-core
 atkmm
@@ -40,6 +44,10 @@ autoconf
 automake
 autovpn
 avahi
+avr-binutils
+avr-gcc
+avr-libc
+avrdude
 awesome
 awesome-terminal-fonts
 aws-cli
@@ -122,6 +130,7 @@ dbus
 dbus-glib
 dbus-python
 dconf
+debugedit
 debuginfod
 deepin-gtk-theme
 deepin-icon-theme
@@ -130,6 +139,8 @@ deno
 desktop-file-utils
 device-mapper
 dex
+dfu-programmer
+dfu-util
 dhclient
 dhcpcd
 diffutils
@@ -872,6 +883,7 @@ libffi
 libfontenc
 libfreeaptx
 libfreehand
+libftdi
 libgcrypt
 libgcrypt15
 libgdata
@@ -1595,6 +1607,9 @@ reiserfsprogs
 rfdump
 rhash
 ripgrep
+riscv64-elf-binutils
+riscv64-elf-gcc
+riscv64-elf-newlib
 rlwrap
 rsync
 rtkit
@@ -1757,7 +1772,6 @@ tk
 tmux
 tmuxp
 tor
-tor-browser-en
 totem
 totem-pl-parser
 toxcore
@@ -1887,6 +1901,7 @@ xorg-xclock
 xorg-xdpyinfo
 xorg-xhost
 xorg-xinit
+xorg-xinput
 xorg-xkbcomp
 xorg-xmessage
 xorg-xmodmap
