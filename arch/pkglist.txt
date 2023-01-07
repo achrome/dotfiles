@@ -166,7 +166,7 @@ e2fsprogs
 edk2-ovmf
 efibootmgr
 efivar
-electron18
+electron
 elementary-icon-theme
 elfutils
 elinks
@@ -413,6 +413,7 @@ haskell-cookie
 haskell-cryptohash-sha256
 haskell-cryptonite
 haskell-cryptonite-conduit
+haskell-data-array-byte
 haskell-data-default-class
 haskell-data-fix
 haskell-digest
@@ -1088,7 +1089,6 @@ libvirt
 libvirt-glib
 libvirt-python
 libvisio
-libvisual
 libvoikko
 libvorbis
 libvpx
