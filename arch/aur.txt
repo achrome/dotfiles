@@ -9,6 +9,7 @@ gnome-icon-theme-symbolic
 google-cloud-sdk
 i3-gnome
 lain-git
+nerd-fonts-complete-starship
 package-query
 siji-git
 simplenote-electron-bin

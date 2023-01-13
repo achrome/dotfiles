@@ -166,7 +166,7 @@ e2fsprogs
 edk2-ovmf
 efibootmgr
 efivar
-electron
+electron21
 elementary-icon-theme
 elfutils
 elinks
@@ -1722,6 +1722,7 @@ sratom
 srt
 sshpass
 stack
+starship
 startup-notification
 steam
 steam-native-runtime
