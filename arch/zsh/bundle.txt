@@ -26,4 +26,4 @@ git@github.com:jreese/zsh-titles.git
 git@github.com:felixr/docker-zsh-completion.git
 # Theme
 # git@github.com:bhilburn/powerlevel9k.git
-git@github.com:romkatv/powerlevel10k.git
+# git@github.com:romkatv/powerlevel10k.git
