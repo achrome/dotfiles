@@ -828,9 +828,7 @@ libbs2b
 libbsd
 libburn
 libbytesize
-libc++
 libc++abi
-libc++experimental
 libcaca
 libcacard
 libcamera
@@ -1156,6 +1154,7 @@ linux-headers
 lldb
 llvm
 llvm-libs
+llvm14-libs
 lm_sensors
 lmdb
 lmms
