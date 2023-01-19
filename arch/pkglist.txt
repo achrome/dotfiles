@@ -828,7 +828,6 @@ libbs2b
 libbsd
 libburn
 libbytesize
-libc++abi
 libcaca
 libcacard
 libcamera
