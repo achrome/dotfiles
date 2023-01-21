@@ -1153,6 +1153,7 @@ linux-headers
 lldb
 llvm
 llvm-libs
+llvm14
 llvm14-libs
 lm_sensors
 lmdb
