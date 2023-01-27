@@ -1413,6 +1413,7 @@ python-dulwich
 python-executing
 python-fastbencode
 python-fastimport
+python-fastjsonschema
 python-gobject
 python-greenlet
 python-html5lib
