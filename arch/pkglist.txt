@@ -1169,6 +1169,7 @@ lua52-socket
 lua53
 lua53-lgi
 luajit
+luarocks
 luit
 lv2
 lvm2
@@ -1426,7 +1427,6 @@ python-jaraco.text
 python-jedi
 python-jinja
 python-jmespath
-python-kaptan
 python-libtmux
 python-lxml
 python-mako
