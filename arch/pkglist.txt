@@ -89,6 +89,7 @@ cantarell-fonts
 capstone
 catimg
 cblas
+cblas64
 cdparanoia
 cdrtools
 cheese
@@ -649,6 +650,7 @@ l-smash
 ladspa
 lame
 lapack
+lapack64
 lcms2
 ldb
 ldns
@@ -1262,6 +1264,7 @@ oniguruma
 opam
 openal
 openblas
+openblas64
 openbsd-netcat
 opencore-amr
 openexr
@@ -1385,7 +1388,6 @@ pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
 python
-python-appdirs
 python-asttokens
 python-atspi
 python-attrs
@@ -1730,7 +1732,7 @@ stk
 strace
 subversion
 sudo
-suitesparse
+suitesparse64
 sushi
 svt-av1
 svt-hevc
