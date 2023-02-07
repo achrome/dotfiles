@@ -429,7 +429,7 @@ haskell-extra
 haskell-fast-logger
 haskell-file-embed
 haskell-filelock
-haskell-fsnotify
+haskell-fsnotify0.3
 haskell-generic-deriving
 haskell-generically
 haskell-ghc-bignum-orphans
