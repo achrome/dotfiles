@@ -723,6 +723,7 @@ lib32-libnm
 lib32-libnsl
 lib32-libogg
 lib32-libpciaccess
+lib32-libpipewire
 lib32-libpng
 lib32-libpng12
 lib32-libpsl
@@ -1008,6 +1009,7 @@ libpeas
 libpgm
 libphonenumber
 libpipeline
+libpipewire
 libplacebo
 libplist
 libpng
