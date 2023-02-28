@@ -859,6 +859,7 @@ libdbusmenu-qt5
 libdc1394
 libdca
 libde265
+libdeflate
 libdiscid
 libdmapsharing
 libdrm
@@ -1402,6 +1403,7 @@ python-black
 python-botocore
 python-cached-property
 python-cairo
+python-capng
 python-certifi
 python-cffi
 python-chardet
