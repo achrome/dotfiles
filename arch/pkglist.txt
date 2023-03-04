@@ -167,7 +167,7 @@ e2fsprogs
 edk2-ovmf
 efibootmgr
 efivar
-electron21
+electron
 elementary-icon-theme
 elfutils
 elinks
@@ -748,7 +748,6 @@ lib32-libvdpau
 lib32-libvorbis
 lib32-libvpx1.3
 lib32-libwebp
-lib32-libwrap
 lib32-libx11
 lib32-libxau
 lib32-libxcb
@@ -1105,7 +1104,6 @@ libwpd
 libwpe
 libwpg
 libwps
-libwrap
 libx11
 libxau
 libxaw
