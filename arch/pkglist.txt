@@ -87,6 +87,7 @@ cairo
 cairomm
 cantarell-fonts
 capstone
+cargo-zigbuild
 catimg
 cblas
 cblas64
@@ -720,7 +721,6 @@ lib32-libltdl
 lib32-libmikmod
 lib32-libmodplug
 lib32-libnm
-lib32-libnsl
 lib32-libogg
 lib32-libpciaccess
 lib32-libpipewire
@@ -1153,6 +1153,7 @@ linux-api-headers
 linux-firmware
 linux-firmware-whence
 linux-headers
+lld
 lldb
 llvm
 llvm-libs
@@ -1717,6 +1718,7 @@ speex
 speexdsp
 spice
 spice-gtk
+spice-protocol
 spike
 spirv-tools
 sploitctl
@@ -1841,6 +1843,7 @@ vulkan-radeon
 w3m
 wavpack
 wayland
+wayland-protocols
 webkit2gtk
 webkit2gtk-4.1
 webkit2gtk-5.0
@@ -1931,9 +1934,11 @@ z3
 zbar
 zenity
 zeromq
+zig
 zimg
 zip
 zlib
+zls
 zsh
 zstd
 zvbi
