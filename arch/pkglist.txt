@@ -1295,7 +1295,6 @@ otf-font-awesome
 otf-overpass
 p11-kit
 p7zip
-pacgraph
 pacman
 pacman-contrib
 pacman-mirrorlist
@@ -1808,7 +1807,7 @@ twolame
 tzdata
 uchardet
 udisks2
-udp2raw-tunnel
+udp2raw
 unclutter
 unibilium
 unixodbc
