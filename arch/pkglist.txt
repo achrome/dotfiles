@@ -220,7 +220,6 @@ fzf
 gavl
 gawk
 gc
-gcab
 gcc
 gcc-ada
 gcc-fortran
@@ -260,7 +259,6 @@ glibc
 glibmm
 glslang
 glu
-gmime3
 gmp
 gnome-autoar
 gnome-backgrounds
@@ -894,6 +892,7 @@ libgee
 libgepub
 libgexiv2
 libgig
+libgirepository
 libgit2
 libglade
 libglvnd
@@ -1345,7 +1344,6 @@ perl-mailtools
 perl-mozilla-ca
 perl-net-http
 perl-net-ssleay
-perl-parse-yapp
 perl-term-readkey
 perl-term-readline-gnu
 perl-term-ui
