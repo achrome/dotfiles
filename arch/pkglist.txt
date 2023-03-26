@@ -831,6 +831,7 @@ libbytesize
 libcaca
 libcacard
 libcamera
+libcamera-ipa
 libcanberra
 libcap
 libcap-ng
@@ -856,6 +857,7 @@ libdbusmenu-qt5
 libdc1394
 libdca
 libde265
+libdecor
 libdeflate
 libdiscid
 libdmapsharing
@@ -1068,6 +1070,8 @@ libtirpc
 libtommath
 libtool
 libtpms
+libtraceevent
+libtracefs
 libudev0-shim
 libunistring
 libunwind
