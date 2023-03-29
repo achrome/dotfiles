@@ -124,7 +124,6 @@ ctags
 cups-pk-helper
 curl
 cvc4
-cython
 dav1d
 db
 db5.3
