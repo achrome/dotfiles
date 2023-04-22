@@ -595,11 +595,14 @@ java-environment-common
 java-runtime-common
 jbig2dec
 jdk-openjdk
+jdk8-openjdk
 jemalloc
 jfsutils
 jq
 jre-openjdk
 jre-openjdk-headless
+jre8-openjdk
+jre8-openjdk-headless
 js102
 json-c
 json-glib
@@ -1677,7 +1680,6 @@ samba
 sane
 sbc
 sbt
-scala
 scrot
 sdl12-compat
 sdl2
@@ -1706,7 +1708,6 @@ sndio
 snorenotify
 socat
 solid
-solidity
 sonnet
 sord
 sound-theme-freedesktop
@@ -1806,7 +1807,6 @@ ttf-roboto
 tumbler
 twolame
 tzdata
-uchardet
 udisks2
 udp2raw
 unclutter
@@ -1872,13 +1872,7 @@ xcb-util-keysyms
 xcb-util-renderutil
 xcb-util-wm
 xcb-util-xrm
-xcursor-bluecurve
 xcursor-comix
-xcursor-flatbed
-xcursor-neutral
-xcursor-pinux
-xcursor-premium
-xcursor-simpleandsoft
 xcursor-themes
 xcursor-vanilla-dmz
 xcursor-vanilla-dmz-aa
