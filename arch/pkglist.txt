@@ -1581,7 +1581,6 @@ qemu-ui-sdl
 qemu-ui-spice-app
 qemu-ui-spice-core
 qemu-vhost-user-gpu
-qemu-virtiofsd
 qrencode
 qt5-base
 qt5-declarative
@@ -1830,6 +1829,7 @@ vid.stab
 vim-runtime
 virglrenderer
 virt-install
+virtiofsd
 virtualbox
 virtualbox-guest-utils
 virtualbox-host-dkms
