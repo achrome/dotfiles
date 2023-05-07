@@ -20,7 +20,6 @@ ansible-core
 aom
 apache
 appstream
-appstream-glib
 apr
 apr-util
 arc-gtk-theme
@@ -71,6 +70,7 @@ bolt
 boost
 boost-libs
 botan
+botan2
 box2d
 breezy
 bridge-utils
@@ -870,6 +870,7 @@ libdvdnav
 libdvdread
 libe-book
 libebml
+libedataserverui4
 libedit
 libelf
 libepoxy
@@ -903,6 +904,7 @@ libglvnd
 libgme
 libgnome-keyring
 libgnomekbd
+libgoa
 libgpg-error
 libgphoto2
 libgrss
@@ -1003,7 +1005,6 @@ libopenmpt
 liborcus
 libosinfo
 libp11-kit
-libpackagekit-glib
 libpagemaker
 libpaper
 libpcap
@@ -1846,7 +1847,7 @@ wayland
 wayland-protocols
 webkit2gtk
 webkit2gtk-4.1
-webkit2gtk-5.0
+webkitgtk-6.0
 webp-pixbuf-loader
 webrtc-audio-processing
 wget
