@@ -163,6 +163,7 @@ double-conversion
 doxygen
 dtc
 duktape
+dvisvgm
 e2fsprogs
 edk2-ovmf
 efibootmgr
@@ -1327,7 +1328,6 @@ perl-data-dump
 perl-encode-locale
 perl-error
 perl-file-listing
-perl-file-which
 perl-html-parser
 perl-html-tagset
 perl-http-cookies
