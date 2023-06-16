@@ -40,5 +40,5 @@ export BUN_INSTALL="/home/achrome/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
 eval "$($HOME/.cargo/bin/rtx activate zsh)"
-rtx use node
-rtx use python
+rtx use --global node
+rtx use --global python
