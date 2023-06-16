@@ -60,6 +60,8 @@ bcg729
 bind
 binutils
 bison
+blas
+blas64-openblas
 bluez
 bluez-libs
 bluez-utils
@@ -86,8 +88,6 @@ cantarell-fonts
 capstone
 cargo-zigbuild
 catimg
-cblas
-cblas64
 cdparanoia
 cdrtools
 cheese
@@ -165,6 +165,7 @@ edk2-ovmf
 efibootmgr
 efivar
 electron
+electron25
 elementary-icon-theme
 elfutils
 elinks
@@ -306,7 +307,6 @@ gpgme
 gpm
 gptfdisk
 graphene
-graphicsmagick
 graphite
 graphviz
 grep
@@ -318,7 +318,6 @@ grpc-cli
 grub
 gsettings-desktop-schemas
 gsfonts
-gsl
 gsm
 gsound
 gspell
@@ -569,7 +568,6 @@ imath
 imlib2
 inetutils
 iniparser
-inkscape
 inotify-tools
 intel-gmmlib
 intel-media-driver
@@ -643,7 +641,6 @@ l-smash
 ladspa
 lame
 lapack
-lapack64
 lazygit
 lcms2
 ldb
@@ -651,7 +648,6 @@ ldns
 leiningen
 lensfun
 less
-lib2geom
 lib32-alsa-lib
 lib32-alsa-plugins
 lib32-at-spi2-core
@@ -1261,7 +1257,6 @@ odt2txt
 oniguruma
 opam
 openal
-openblas
 openblas64
 openbsd-netcat
 opencore-amr
@@ -1433,7 +1428,6 @@ python-more-itertools
 python-msgpack
 python-mypy_extensions
 python-netaddr
-python-numpy
 python-ordered-set
 python-packaging
 python-paramiko
@@ -1544,7 +1538,6 @@ qt5-x11extras
 qt5-xmlpatterns
 qtox
 r
-ragel
 ranger
 raptor
 rasqal
