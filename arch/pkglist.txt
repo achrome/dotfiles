@@ -1186,7 +1186,7 @@ masscan
 mate-icon-theme
 mate-icon-theme-faenza
 materia-gtk-theme
-mbedtls
+mbedtls2
 md4c
 mdadm
 media-player-info
