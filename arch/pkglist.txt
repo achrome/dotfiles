@@ -114,6 +114,7 @@ confuse
 containerd
 coreutils
 cpio
+cppdap
 cracklib
 cryptsetup
 crystal
@@ -562,6 +563,7 @@ i3lock
 i3status
 iana-etc
 icu
+iio-sensor-proxy
 ijs
 imagemagick
 imath
@@ -572,6 +574,7 @@ inotify-tools
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
+intellij-idea-community-edition
 iproute2
 iptables-nft
 iputils
@@ -591,6 +594,8 @@ jfsutils
 jq
 jre-openjdk
 jre-openjdk-headless
+jre17-openjdk
+jre17-openjdk-headless
 jre8-openjdk
 jre8-openjdk-headless
 js102
@@ -1486,6 +1491,7 @@ qemu-audio-oss
 qemu-audio-pa
 qemu-audio-sdl
 qemu-audio-spice
+qemu-base
 qemu-block-curl
 qemu-block-dmg
 qemu-block-nfs
@@ -1668,7 +1674,7 @@ stk
 strace
 subversion
 sudo
-suitesparse64
+suitesparse
 sushi
 svt-av1
 svt-hevc
