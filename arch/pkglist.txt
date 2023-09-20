@@ -49,6 +49,7 @@ avrdude
 awesome
 awesome-terminal-fonts
 aws-cli
+ayatana-ido
 babl
 baobab
 base-devel
@@ -116,6 +117,7 @@ coreutils
 cpio
 cppdap
 cracklib
+cronie
 cryptsetup
 crystal
 ctags
@@ -152,6 +154,7 @@ dmidecode
 dnsmasq
 dnssec-anchors
 docker
+docker-buildx
 docker-compose
 docker-machine
 dosfstools
@@ -306,7 +309,6 @@ gparted
 gperftools
 gpgme
 gpm
-gptfdisk
 graphene
 graphite
 graphviz
@@ -403,13 +405,13 @@ haskell-contravariant
 haskell-cookie
 haskell-cryptohash-sha256
 haskell-crypton
+haskell-crypton-conduit
 haskell-crypton-connection
 haskell-crypton-x509
 haskell-crypton-x509-store
 haskell-crypton-x509-system
 haskell-crypton-x509-validation
 haskell-cryptonite
-haskell-cryptonite-conduit
 haskell-data-array-byte
 haskell-data-default-class
 haskell-data-fix
@@ -425,6 +427,7 @@ haskell-extra
 haskell-fast-logger
 haskell-file-embed
 haskell-filelock
+haskell-foldable1-classes-compat
 haskell-fsnotify0.3
 haskell-generic-deriving
 haskell-generically
@@ -587,6 +590,7 @@ jasper
 java-environment-common
 java-runtime-common
 jbig2dec
+jbigkit
 jdk-openjdk
 jdk8-openjdk
 jemalloc
@@ -814,6 +818,8 @@ libatomic_ops
 libavc1394
 libavif
 libavtp
+libayatana-appindicator
+libayatana-indicator
 libb64
 libblastrampoline
 libblockdev
@@ -856,6 +862,7 @@ libdecor
 libdeflate
 libdiscid
 libdmapsharing
+libdovi
 libdrm
 libdv
 libdvbpsi
@@ -988,6 +995,7 @@ libnma-gtk4
 libnotify
 libnsl
 libnumbertext
+libnvme
 liboauth
 libodfgen
 libogg
@@ -1156,6 +1164,7 @@ llvm
 llvm-libs
 llvm14
 llvm14-libs
+llvm15-libs
 lm_sensors
 lmdb
 lmms
@@ -1166,7 +1175,6 @@ lsd
 lsof
 lua
 lua52
-lua52-socket
 lua53
 lua53-lgi
 luajit
@@ -1259,6 +1267,7 @@ ocaml
 ocaml-compiler-libs
 ocl-icd
 odt2txt
+onevpl
 oniguruma
 opam
 openal
@@ -1381,6 +1390,7 @@ pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
 python
+python-annotated-types
 python-asttokens
 python-atspi
 python-attrs
@@ -1453,6 +1463,7 @@ python-pure-eval
 python-pyasn1
 python-pycparser
 python-pydantic
+python-pydantic-core
 python-pygments
 python-pynacl
 python-pynvim
@@ -1489,6 +1500,7 @@ qemu-audio-dbus
 qemu-audio-jack
 qemu-audio-oss
 qemu-audio-pa
+qemu-audio-pipewire
 qemu-audio-sdl
 qemu-audio-spice
 qemu-base
