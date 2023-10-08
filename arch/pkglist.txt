@@ -14,7 +14,6 @@ alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
 alsa-utils
-amtk
 ansible
 ansible-core
 aom
@@ -57,7 +56,6 @@ bash
 bat
 bbswitch
 bc
-bcg729
 bind
 binutils
 bison
@@ -70,7 +68,6 @@ bolt
 boost
 boost-libs
 botan
-botan2
 box2d
 breezy
 bridge-utils
@@ -895,6 +892,8 @@ libgcrypt15
 libgdata
 libgdiplus
 libgdm
+libgedit-amtk
+libgedit-gtksourceview
 libgee
 libgepub
 libgexiv2
@@ -1177,7 +1176,6 @@ lsb-release
 lsd
 lsof
 lua
-lua52
 lua53
 lua53-lgi
 luajit
@@ -1349,7 +1347,6 @@ perl-log-message-simple
 perl-lwp-mediatypes
 perl-lwp-protocol-https
 perl-mailtools
-perl-mozilla-ca
 perl-net-http
 perl-net-ssleay
 perl-term-readkey
@@ -1730,7 +1727,6 @@ texlive-publishers
 the_silver_searcher
 thin-provisioning-tools
 thrift
-thunderbird
 tinyxml2
 tk
 tmux
@@ -1810,8 +1806,6 @@ wget
 which
 wildmidi
 wireless_tools
-wireshark-cli
-wireshark-qt
 woff2
 wolfssl
 wpa_supplicant
