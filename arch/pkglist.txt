@@ -90,7 +90,6 @@ cdparanoia
 cdrtools
 cheese
 chromaprint
-chromium
 cifs-utils
 clamav
 clang
@@ -142,7 +141,6 @@ dfu-util
 dhclient
 dhcpcd
 diffutils
-discord
 djvulibre
 dkms
 dleyna
@@ -195,7 +193,6 @@ file
 file-roller
 filesystem
 findutils
-firefox
 firewalld
 flac
 flatpak
@@ -554,7 +551,6 @@ htop
 http-parser
 hugo
 hunspell
-hunspell-en_us
 hwdata
 hwloc
 hyphen
@@ -599,7 +595,7 @@ jre17-openjdk
 jre17-openjdk-headless
 jre8-openjdk
 jre8-openjdk-headless
-js102
+js115
 json-c
 json-glib
 jsoncpp
@@ -860,6 +856,7 @@ libde265
 libdecor
 libdeflate
 libdiscid
+libdisplay-info
 libdmapsharing
 libdovi
 libdrm
@@ -871,6 +868,7 @@ libe-book
 libebml
 libedataserverui4
 libedit
+libei
 libelf
 libepoxy
 libepubgen
@@ -1459,7 +1457,6 @@ python-pip
 python-platformdirs
 python-ply
 python-prompt_toolkit
-python-psutil
 python-ptyprocess
 python-pure-eval
 python-pyasn1
@@ -1705,9 +1702,9 @@ tar
 tcl
 tcpdump
 tdb
+tecla
 telepathy-glib
 tepl
-terminator
 terraform
 tevent
 texinfo
