@@ -340,7 +340,6 @@ gtkmm3
 gtksourceview4
 gtksourceview5
 gts
-guake
 guile
 gupnp
 gupnp-av
@@ -937,7 +936,6 @@ libjpeg-turbo
 libjpeg6-turbo
 libjxl
 libkate
-libkeybinder3
 libksba
 liblangtag
 libldac
@@ -1424,7 +1422,6 @@ python-gobject
 python-greenlet
 python-html5lib
 python-idna
-python-importlib-metadata
 python-inflect
 python-jaraco.context
 python-jaraco.functools
@@ -1450,7 +1447,6 @@ python-parso
 python-passlib
 python-pathspec
 python-patiencediff
-python-pbr
 python-pexpect
 python-pickleshare
 python-pip
@@ -1631,6 +1627,7 @@ samba
 sane
 sbc
 sbt
+screen
 scrot
 sdl12-compat
 sdl2
