@@ -1488,7 +1488,6 @@ python-wcwidth
 python-webencodings
 python-wheel
 python-yaml
-python-zipp
 qca-qt5
 qemu-audio-alsa
 qemu-audio-dbus
