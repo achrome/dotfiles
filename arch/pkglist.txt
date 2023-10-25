@@ -16,6 +16,7 @@ alsa-ucm-conf
 alsa-utils
 ansible
 ansible-core
+ant
 aom
 apache
 appstream
@@ -900,7 +901,6 @@ libgit2
 libglvnd
 libgme
 libgnome-keyring
-libgnomekbd
 libgoa
 libgpg-error
 libgphoto2
@@ -1404,6 +1404,7 @@ python-capng
 python-certifi
 python-cffi
 python-chardet
+python-charset-normalizer
 python-click
 python-colorama
 python-configobj
@@ -1745,7 +1746,6 @@ ttf-fira-code
 ttf-fira-mono
 ttf-fira-sans
 ttf-font-awesome
-ttf-ionicons
 ttf-joypixels
 ttf-liberation
 ttf-roboto
