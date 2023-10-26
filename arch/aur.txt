@@ -17,11 +17,11 @@ python2
 python2-setuptools
 scala
 siji-git
-solidity
 spotify
 tracker
 tracker-miners
 trizen
+ttf-ionicons
 ttf-ms-fonts
 vino
 xcursor-flatbed
