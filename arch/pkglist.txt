@@ -120,7 +120,6 @@ crystal
 ctags
 cups-pk-helper
 curl
-cvc4
 dav1d
 db
 db5.3
@@ -1128,7 +1127,6 @@ libxinerama
 libxkbcommon
 libxkbcommon-x11
 libxkbfile
-libxklavier
 libxml2
 libxmlb
 libxmu
@@ -1867,7 +1865,6 @@ yajl
 yarn
 yelp
 yelp-xsl
-z3
 zbar
 zenity
 zeromq
