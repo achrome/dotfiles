@@ -94,7 +94,6 @@ chromaprint
 cifs-utils
 clamav
 clang
-cln
 clucene
 clutter
 clutter-gst
@@ -800,7 +799,6 @@ lib32-zstd
 libabw
 libadwaita
 libaio
-libantlr3c
 libao
 libappindicator-gtk3
 libarchive
