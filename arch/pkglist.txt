@@ -972,6 +972,7 @@ libmwaw
 libmypaint
 libnatpmp
 libnautilus-extension
+libnbd
 libndp
 libnet
 libnetfilter_conntrack
@@ -1390,7 +1391,6 @@ python-atspi
 python-attrs
 python-autocommand
 python-babel
-python-backcall
 python-bcrypt
 python-beautifulsoup4
 python-black
