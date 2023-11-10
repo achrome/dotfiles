@@ -1871,6 +1871,7 @@ zimg
 zip
 zlib
 zls
+zoxide
 zsh
 zstd
 zvbi
