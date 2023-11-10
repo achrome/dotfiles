@@ -1,7 +1,8 @@
 [user]
 	name = Ashwin Mukhija
-	email = achromatic.rainbow@gmail.com
+	email = 4629882+achrome@users.noreply.github.com
 	username = achrome
+	signingKey = 13AF803BB5CDF809!
 
 [push]
 	default = simple

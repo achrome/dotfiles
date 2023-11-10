@@ -42,3 +42,5 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 eval "$($HOME/.cargo/bin/rtx activate zsh)"
 rtx use --global node
 rtx use --global python
+
+eval "$(zoxide init zsh)"
