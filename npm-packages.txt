@@ -1,6 +1,0 @@
-/home/achrome/.nvm/versions/node/v19.1.0/lib
-├── corepack@0.15.1
-├── neovim@4.10.1
-├── node-gyp@9.3.0
-└── npm@9.1.1
-
