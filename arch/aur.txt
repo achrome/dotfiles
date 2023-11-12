@@ -25,7 +25,6 @@ ttf-ionicons
 ttf-ms-fonts
 vino
 xcursor-flatbed
-xcursor-human
 xcursor-openzone
 xcursor-pinux
 yay-bin
