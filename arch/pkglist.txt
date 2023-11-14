@@ -370,6 +370,7 @@ haskell-asn1-types
 haskell-assoc
 haskell-async
 haskell-attoparsec
+haskell-attoparsec-aeson
 haskell-attoparsec-iso8601
 haskell-auto-update
 haskell-base-compat
@@ -1785,7 +1786,6 @@ vulkan-radeon
 w3m
 wavpack
 wayland
-wayland-protocols
 webkit2gtk
 webkit2gtk-4.1
 webkitgtk-6.0
