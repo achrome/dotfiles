@@ -835,6 +835,7 @@ libcdr
 libcerf
 libcheese
 libcloudproviders
+libcmis
 libcolord
 libconfig
 libcue
@@ -1071,6 +1072,7 @@ libtpms
 libtraceevent
 libtracefs
 libudev0-shim
+libunibreak
 libunistring
 libunwind
 libupnp
@@ -1869,6 +1871,7 @@ zeromq
 zig
 zimg
 zip
+zix
 zlib
 zls
 zoxide
