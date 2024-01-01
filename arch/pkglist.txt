@@ -839,6 +839,7 @@ libcloudproviders
 libcmis
 libcolord
 libconfig
+libcss
 libcue
 libcups
 libcurl-compat
@@ -858,6 +859,7 @@ libdeflate
 libdiscid
 libdisplay-info
 libdmapsharing
+libdom
 libdovi
 libdrm
 libdv
@@ -913,6 +915,7 @@ libgweather-4
 libgxps
 libhandy
 libheif
+libhubbub
 libibus
 libical
 libice
@@ -1004,6 +1007,7 @@ libosinfo
 libp11-kit
 libpagemaker
 libpaper
+libparserutils
 libpcap
 libpciaccess
 libpeas
@@ -1100,6 +1104,7 @@ libvpx
 libvpx1.3
 libvterm
 libwacom
+libwapcaplet
 libwbclient
 libwebp
 libwmf
@@ -1160,10 +1165,10 @@ linux-headers
 lld
 lldb
 llvm
+llvm-julia-libs
 llvm-libs
 llvm14
 llvm14-libs
-llvm15-libs
 lm_sensors
 lmdb
 lmms
