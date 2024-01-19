@@ -32,8 +32,8 @@ echo "\e[32mFixed\e[0m \e[33mls colors\e[0m \e[32m\u2714\e[0m"
 export BUN_INSTALL="/home/achrome/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
-eval "$($HOME/.cargo/bin/rtx activate zsh)"
-rtx use --global node
-rtx use --global python
+eval "$(~/.local/bin/mise activate zsh)"
+mise use --global node
+mise use --global python
 
 eval "$(zoxide init zsh)"

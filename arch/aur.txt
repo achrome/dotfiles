@@ -13,8 +13,6 @@ lain-git
 nerd-fonts-complete-starship
 pacgraph
 package-query
-python2
-python2-setuptools
 scala
 siji-git
 spotify

@@ -124,6 +124,8 @@ dav1d
 db
 db5.3
 dbus
+dbus-broker
+dbus-broker-units
 dbus-glib
 dbus-python
 dconf
@@ -163,7 +165,6 @@ e2fsprogs
 edk2-ovmf
 efibootmgr
 efivar
-electron
 electron25
 elementary-icon-theme
 elfutils
@@ -814,6 +815,7 @@ libavif
 libavtp
 libayatana-appindicator
 libayatana-indicator
+libb2
 libb64
 libblastrampoline
 libblockdev
@@ -987,6 +989,8 @@ libnfnetlink
 libnfs
 libnftnl
 libnghttp2
+libnghttp3
+libngtcp2
 libnice
 libnl
 libnm
@@ -1100,6 +1104,7 @@ libvirt-python
 libvisio
 libvoikko
 libvorbis
+libvpl
 libvpx
 libvpx1.3
 libvterm
@@ -1125,6 +1130,7 @@ libxcvt
 libxdamage
 libxdg-basedir
 libxdmcp
+libxdp
 libxext
 libxfce4util
 libxfixes
@@ -1270,7 +1276,6 @@ ocaml
 ocaml-compiler-libs
 ocl-icd
 odt2txt
-onevpl
 oniguruma
 opam
 openal
@@ -1554,6 +1559,10 @@ qt5-wayland
 qt5-webchannel
 qt5-x11extras
 qt5-xmlpatterns
+qt6-5compat
+qt6-base
+qt6-svg
+qt6-translations
 qtox
 r
 ranger
@@ -1790,6 +1799,7 @@ vmaf
 volume_key
 vte-common
 vte3
+vulkan-headers
 vulkan-icd-loader
 vulkan-radeon
 w3m
@@ -1800,6 +1810,7 @@ webkit2gtk-4.1
 webkitgtk-6.0
 webp-pixbuf-loader
 webrtc-audio-processing
+webrtc-audio-processing-1
 wget
 which
 wildmidi
