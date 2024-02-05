@@ -711,6 +711,8 @@ lib32-libldap
 lib32-libltdl
 lib32-libmikmod
 lib32-libmodplug
+lib32-libnghttp2
+lib32-libnghttp3
 lib32-libnm
 lib32-libogg
 lib32-libpciaccess
