@@ -884,6 +884,7 @@ libevdev
 libevent
 libexif
 libexttextcat
+libfabric
 libfbclient
 libfdk-aac
 libffi
@@ -1394,6 +1395,7 @@ power-profiles-daemon
 ppp
 procps-ng
 protobuf
+prrte
 psmisc
 pstoedit
 pulseaudio
@@ -1696,6 +1698,7 @@ startup-notification
 steam
 steam-native-runtime
 stk
+stow
 strace
 subversion
 sudo
@@ -1784,6 +1787,7 @@ util-linux-libs
 v4l-utils
 vagrant
 valgrind
+vapoursynth
 vde2
 veracrypt
 vi
