@@ -165,7 +165,7 @@ e2fsprogs
 edk2-ovmf
 efibootmgr
 efivar
-electron25
+electron28
 elementary-icon-theme
 elfutils
 elinks
