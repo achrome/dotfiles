@@ -827,7 +827,6 @@ libblockdev-mdraid
 libblockdev-nvme
 libblockdev-part
 libblockdev-swap
-libblockdev-utils
 libbluray
 libbpf
 libbs2b
@@ -1218,6 +1217,7 @@ masscan
 mate-icon-theme
 mate-icon-theme-faenza
 materia-gtk-theme
+maven
 mbedtls2
 md4c
 mdadm
@@ -1498,9 +1498,11 @@ python-rsa
 python-s3transfer
 python-setproctitle
 python-setuptools
+python-shtab
 python-six
 python-soupsieve
 python-stack-data
+python-termcolor
 python-tomli
 python-traitlets
 python-trove-classifiers
@@ -1751,6 +1753,7 @@ thin-provisioning-tools
 thrift
 tinyxml2
 tk
+tldr
 tmux
 tmuxp
 tor
