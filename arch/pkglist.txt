@@ -36,7 +36,6 @@ at-spi2-core
 atkmm
 atool
 attica
-attica5
 attr
 audiofile
 audit
@@ -96,6 +95,7 @@ chromaprint
 cifs-utils
 clamav
 clang
+clang16
 clucene
 clutter
 clutter-gst
@@ -108,6 +108,7 @@ colord-gtk-common
 colord-gtk4
 colord-sane
 compiler-rt
+compiler-rt16
 composer
 confuse
 containerd
@@ -472,7 +473,6 @@ haskell-network-uri
 haskell-old-locale
 haskell-old-time
 haskell-onetuple
-haskell-only
 haskell-open-browser
 haskell-optparse-applicative
 haskell-optparse-simple
@@ -540,7 +540,6 @@ haskell-vault
 haskell-vector
 haskell-vector-algorithms
 haskell-vector-stream
-haskell-void
 haskell-witherable
 haskell-yaml
 haskell-zip-archive
@@ -634,7 +633,6 @@ ki18n5
 kiconthemes
 kiconthemes5
 kio
-kio5
 kitemviews
 kitemviews5
 kitty
@@ -649,7 +647,6 @@ knotifications5
 knotifyconfig
 konsole
 kpackage
-kpackage5
 kparts
 kpty
 krb5
@@ -978,6 +975,7 @@ libjxl
 libkate
 libksba
 liblangtag
+liblc3
 libldac
 libldap
 liblouis
@@ -1204,11 +1202,12 @@ linux-firmware
 linux-firmware-whence
 linux-headers
 lld
+lld16
 lldb
 llvm
 llvm-julia-libs
 llvm-libs
-llvm14-libs
+llvm16-libs
 lm_sensors
 lmdb
 lmms
@@ -1605,6 +1604,7 @@ qt6-base
 qt6-declarative
 qt6-multimedia
 qt6-multimedia-ffmpeg
+qt6-shadertools
 qt6-speech
 qt6-svg
 qt6-translations
@@ -1752,7 +1752,6 @@ svt-av1
 svt-hevc
 swig
 syndication
-syndication5
 sysfsutils
 systemd
 systemd-libs
@@ -1861,7 +1860,6 @@ webkit2gtk
 webkit2gtk-4.1
 webkitgtk-6.0
 webp-pixbuf-loader
-webrtc-audio-processing
 webrtc-audio-processing-1
 wget
 which
