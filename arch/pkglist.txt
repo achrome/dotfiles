@@ -276,7 +276,6 @@ gnome-desktop-common
 gnome-dictionary
 gnome-disk-utility
 gnome-font-viewer
-gnome-icon-theme-extras
 gnome-keyring
 gnome-logs
 gnome-maps
@@ -606,7 +605,6 @@ kauth
 kauth5
 kbd
 kbookmarks
-kbookmarks5
 kcodecs
 kcodecs5
 kcolorscheme
@@ -622,7 +620,6 @@ kcrash
 kcrash5
 kdbusaddons
 kdbusaddons5
-kded5
 keyutils
 kglobalaccel
 kglobalaccel5
@@ -639,7 +636,6 @@ kitty
 kitty-shell-integration
 kitty-terminfo
 kjobwidgets
-kjobwidgets5
 kmod
 knewstuff
 knotifications
@@ -653,7 +649,6 @@ krb5
 kservice
 kservice5
 ktextwidgets
-ktextwidgets5
 kubectl
 kwallet
 kwallet5
@@ -1435,6 +1430,7 @@ pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
 python
+python-absl
 python-annotated-types
 python-argcomplete
 python-asttokens
@@ -1716,7 +1712,6 @@ sndio
 snorenotify
 socat
 solid
-solid5
 sonnet
 sonnet5
 sord
@@ -1756,7 +1751,6 @@ sysfsutils
 systemd
 systemd-libs
 systemd-sysvcompat
-t1lib
 taglib
 talloc
 tar
