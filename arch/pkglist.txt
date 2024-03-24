@@ -84,6 +84,7 @@ ca-certificates-mozilla
 ca-certificates-utils
 cairo
 cairomm
+cairomm-1.16
 cantarell-fonts
 capstone
 cargo-zigbuild
@@ -255,6 +256,7 @@ glib-networking
 glib2
 glibc
 glibmm
+glibmm-2.68
 glslang
 glu
 gmp
@@ -340,6 +342,7 @@ gtk2
 gtk3
 gtk4
 gtkmm
+gtkmm-4.0
 gtkmm3
 gtksourceview4
 gtksourceview5
@@ -609,7 +612,6 @@ kcodecs
 kcodecs5
 kcolorscheme
 kcompletion
-kcompletion5
 kconfig
 kconfig5
 kconfigwidgets
@@ -617,7 +619,6 @@ kconfigwidgets5
 kcoreaddons
 kcoreaddons5
 kcrash
-kcrash5
 kdbusaddons
 kdbusaddons5
 keyutils
@@ -657,7 +658,6 @@ kwidgetsaddons5
 kwindowsystem
 kwindowsystem5
 kxmlgui
-kxmlgui5
 l-smash
 ladspa
 lame
@@ -1076,6 +1076,7 @@ libshout
 libshumate
 libsidplayfp
 libsigc++
+libsigc++-3.0
 libsigsegv
 libslirp
 libsm
@@ -1347,6 +1348,7 @@ pam
 pambase
 pango
 pangomm
+pangomm-2.48
 papirus-icon-theme
 parted
 patch
@@ -1423,6 +1425,7 @@ power-profiles-daemon
 ppp
 procps-ng
 protobuf
+protobuf-c
 prrte
 psmisc
 pstoedit
@@ -1434,7 +1437,6 @@ python-absl
 python-annotated-types
 python-argcomplete
 python-asttokens
-python-atspi
 python-attrs
 python-autocommand
 python-babel
@@ -1497,6 +1499,7 @@ python-pip
 python-platformdirs
 python-ply
 python-prompt_toolkit
+python-psutil
 python-ptyprocess
 python-pure-eval
 python-pyasn1
