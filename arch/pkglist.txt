@@ -747,7 +747,6 @@ lib32-libtiff4
 lib32-libtirpc
 lib32-libudev0-shim
 lib32-libunistring
-lib32-libunwind
 lib32-libusb
 lib32-libva
 lib32-libvdpau
@@ -951,6 +950,7 @@ libidn2
 libiec61883
 libieee1284
 libimobiledevice
+libimobiledevice-glue
 libindicator-gtk2
 libinih
 libinput
@@ -1430,7 +1430,6 @@ pulseaudio-alsa
 pulseaudio-bluetooth
 python
 python-absl
-python-annotated-types
 python-argcomplete
 python-asttokens
 python-attrs
@@ -1500,8 +1499,6 @@ python-ptyprocess
 python-pure-eval
 python-pyasn1
 python-pycparser
-python-pydantic
-python-pydantic-core
 python-pygments
 python-pynacl
 python-pynvim
@@ -1526,6 +1523,7 @@ python-termcolor
 python-tomli
 python-traitlets
 python-trove-classifiers
+python-typeguard
 python-typing_extensions
 python-urllib3
 python-validate-pyproject
@@ -1800,6 +1798,7 @@ tree-sitter-c
 tree-sitter-lua
 tree-sitter-markdown
 tree-sitter-python
+tree-sitter-query
 tree-sitter-vimdoc
 tslib
 ttf-anonymous-pro
