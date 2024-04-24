@@ -589,12 +589,11 @@ java-runtime-common
 jbig2dec
 jbigkit
 jdk-openjdk
+jdk17-openjdk
 jdk8-openjdk
 jemalloc
 jfsutils
 jq
-jre17-openjdk
-jre17-openjdk-headless
 jre8-openjdk
 jre8-openjdk-headless
 js115
@@ -1414,6 +1413,7 @@ poppler-glib
 popt
 portaudio
 postfix
+postfix-lmdb
 postgresql
 postgresql-libs
 potrace
@@ -1492,7 +1492,6 @@ python-pexpect
 python-pickleshare
 python-pip
 python-platformdirs
-python-ply
 python-prompt_toolkit
 python-psutil
 python-ptyprocess
