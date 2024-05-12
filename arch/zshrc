@@ -32,6 +32,10 @@ echo "\e[32mFixed\e[0m \e[33mls colors\e[0m \e[32m\u2714\e[0m"
 export BUN_INSTALL="/home/achrome/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
+# Gloud cli
+[ -s "/opt/google-cloud-cli/completion.zsh.inc" ] && source "/opt/google-cloud-cli/completion.zsh.inc"
+[ -s "/opt/google-cloud-cli/path.zsh.inc" ] && source "/opt/google-cloud-cli/path.zsh.inc"
+
 eval "$(~/.local/bin/mise activate zsh)"
 mise use --global node
 mise use --global python
