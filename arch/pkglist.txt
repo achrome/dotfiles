@@ -108,6 +108,7 @@ colord-gtk-common
 colord-gtk4
 colord-sane
 compiler-rt
+composefs
 composer
 confuse
 containerd
@@ -128,7 +129,6 @@ dbus
 dbus-broker
 dbus-broker-units
 dbus-glib
-dbus-python
 dconf
 debugedit
 debuginfod
@@ -1096,7 +1096,6 @@ libsysprof-capture
 libtar
 libtasn1
 libteam
-libtermkey
 libthai
 libtheora
 libtiff
@@ -1209,6 +1208,7 @@ lsb-release
 lsd
 lsof
 lua
+lua51-lpeg
 lua53
 lua53-lgi
 luajit
@@ -1453,6 +1453,7 @@ python-configobj
 python-cryptography
 python-cssselect
 python-dateutil
+python-dbus
 python-decorator
 python-dnspython
 python-docutils
@@ -1718,6 +1719,7 @@ sound-theme-freedesktop
 soundtouch
 source-highlight
 spandsp
+spdlog
 speech-dispatcher
 speex
 speexdsp
