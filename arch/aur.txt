@@ -1,7 +1,5 @@
 alsi
-antibody
-blackarch-keyring
-blackarch-menus
+antibody-bin
 brave-bin
 faenza-icon-theme
 ffdec
@@ -12,18 +10,14 @@ gnome-icon-theme-symbolic
 google-cloud-sdk
 i3-gnome
 lain-git
-nerd-fonts-complete-starship
 pacgraph
 package-query
 scala
 siji-git
 spotify
-tracker
-tracker-miners
 trizen
 ttf-ionicons
 ttf-ms-fonts
-vino
 xcursor-flatbed
 xcursor-openzone
 xcursor-pinux

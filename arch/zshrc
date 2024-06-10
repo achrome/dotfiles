@@ -23,7 +23,7 @@ done
 eval `dircolors $HOME/.dircolors`
 echo "\e[32mFixed\e[0m \e[33mls colors\e[0m \e[32m\u2714\e[0m"
 
-[ -f ~/dotfiles/zsh/fzf.zsh ] && source ~/dotfiles/zsh/fzf.zsh
+source <(fzf --zsh)
 
 # bun completions
 [ -s "/home/achrome/.bun/_bun" ] && source "/home/achrome/.bun/_bun"
