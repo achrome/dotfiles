@@ -9,6 +9,7 @@ adapta-gtk-theme
 adobe-source-code-pro-fonts
 adwaita-cursors
 adwaita-icon-theme
+adwaita-icon-theme-legacy
 alsa-lib
 alsa-plugins
 alsa-topology-conf
@@ -70,6 +71,7 @@ boost
 boost-libs
 botan
 box2d
+breeze-icons
 breezy
 bridge-utils
 brltty
@@ -276,6 +278,7 @@ gnome-desktop-common
 gnome-dictionary
 gnome-disk-utility
 gnome-font-viewer
+gnome-keybindings
 gnome-keyring
 gnome-logs
 gnome-maps
@@ -335,6 +338,7 @@ gst-plugins-base-libs
 gst-plugins-good
 gst-python
 gstreamer
+gtest
 gtk-engine-murrine
 gtk-engines
 gtk-update-icon-cache
@@ -1266,7 +1270,6 @@ mutter
 mypaint-brushes1
 nano
 nautilus
-nautilus-sendto
 nautilus-share
 ncurses
 ndctl
@@ -1605,7 +1608,6 @@ qt6-speech
 qt6-svg
 qt6-translations
 qt6-wayland
-qtox
 r
 ranger
 raptor
@@ -1618,9 +1620,6 @@ redland
 reiserfsprogs
 rhash
 ripgrep
-riscv64-elf-binutils
-riscv64-elf-gcc
-riscv64-elf-newlib
 rlwrap
 rsync
 rtkit
@@ -1818,6 +1817,7 @@ ttf-roboto
 tumbler
 twolame
 tzdata
+uchardet
 udisks2
 udp2raw
 unclutter
