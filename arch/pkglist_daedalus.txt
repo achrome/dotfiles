@@ -1194,6 +1194,7 @@ util-linux-libs
 v4l-utils
 vapoursynth
 verdict
+vi
 vicious
 vid.stab
 vim
