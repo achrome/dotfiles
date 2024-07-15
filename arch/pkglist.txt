@@ -168,7 +168,7 @@ e2fsprogs
 edk2-ovmf
 efibootmgr
 efivar
-electron28
+electron30
 elementary-icon-theme
 elfutils
 elinks
@@ -1509,7 +1509,6 @@ python-pynacl
 python-pynvim
 python-pyopenssl
 python-pyparsing
-python-pyqt5
 python-pyqt5-sip
 python-pysocks
 python-pytz
