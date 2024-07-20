@@ -1,4 +1,5 @@
 a52dec
+aalib
 abseil-cpp
 accounts-qml-module
 accountsservice
@@ -85,6 +86,7 @@ cairo-perl
 cantarell-fonts
 cblas
 cdparanoia
+chezmoi
 cifs-utils
 clamav
 clamtk
@@ -165,6 +167,7 @@ fmt
 fontconfig
 fprintd
 frameworkintegration
+freeglut
 freetype2
 fribidi
 fuse-common
@@ -207,6 +210,7 @@ gperftools
 gpgme
 gpm
 gradle
+granite
 graphene
 graphite
 grep
@@ -222,6 +226,7 @@ gst-plugin-pipewire
 gst-plugins-bad-libs
 gst-plugins-base
 gst-plugins-base-libs
+gst-plugins-good
 gstreamer
 gtest
 gtk-update-icon-cache
@@ -454,6 +459,7 @@ json-c
 json-glib
 jsoncpp
 julia
+just
 kaccounts-integration
 kactivitymanagerd
 karchive
@@ -575,6 +581,7 @@ libbpf
 libbs2b
 libbsd
 libbytesize
+libcaca
 libcamera
 libcamera-ipa
 libcanberra
@@ -601,6 +608,7 @@ libdisplay-info
 libdmtx
 libdovi
 libdrm
+libdv
 libdvbpsi
 libdvdnav
 libdvdread
@@ -619,6 +627,7 @@ libfontenc
 libfprint
 libfreeaptx
 libgcrypt
+libgee
 libgirepository
 libgit2
 libglvnd
@@ -626,6 +635,7 @@ libgpg-error
 libgphoto2
 libgudev
 libgusb
+libhandy
 libheif
 libice
 libidn
@@ -710,6 +720,7 @@ libsamplerate
 libsasl
 libseccomp
 libsecret
+libshout
 libsigc++-3.0
 libsm
 libsndfile
@@ -891,8 +902,10 @@ pahole
 pam
 pambase
 pango
+pantheon-camera
 parted
 partitionmanager
+pass
 patch
 pciutils
 pcre
@@ -1171,6 +1184,7 @@ tmux
 tmuxp
 tpm2-tss
 tracker3
+tree
 tree-sitter
 tree-sitter-bash
 tree-sitter-c
@@ -1184,6 +1198,7 @@ ttf-0xproto-nerd
 ttf-fira-code
 ttf-fira-mono
 ttf-hack
+twolame
 tzdata
 udisks2
 unibilium
@@ -1206,6 +1221,7 @@ vulkan-headers
 vulkan-icd-loader
 vulkan-tools
 wacomtablet
+wavpack
 wayland
 wayland-utils
 webkit2gtk
