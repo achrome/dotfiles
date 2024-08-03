@@ -149,6 +149,7 @@ enchant
 erlang
 exiv2
 expat
+eza
 faad2
 fakeroot
 fd
@@ -218,6 +219,7 @@ groff
 groovy
 grub
 gsettings-desktop-schemas
+gsettings-system-schemas
 gsl
 gsm
 gssdp
@@ -745,6 +747,7 @@ libunibreak
 libunistring
 libunwind
 libupnp
+liburcu
 liburing
 libusb
 libusbmuxd
@@ -816,6 +819,7 @@ lmdb
 lowdown
 lsof
 lua
+lua51
 lua51-lpeg
 lua53
 lua53-lgi
@@ -1021,7 +1025,6 @@ python-s3transfer
 python-sentry_sdk
 python-shtab
 python-six
-python-termcolor
 python-typing_extensions
 python-urllib3
 python-yaml
@@ -1174,23 +1177,21 @@ talloc
 tar
 tcl
 tdb
+tealdeer
 terraform
 tevent
 texinfo
 thrift
 tk
-tldr
 tmux
 tmuxp
 tpm2-tss
 tracker3
 tree
 tree-sitter
-tree-sitter-bash
 tree-sitter-c
 tree-sitter-lua
 tree-sitter-markdown
-tree-sitter-python
 tree-sitter-query
 tree-sitter-vimdoc
 tslib
