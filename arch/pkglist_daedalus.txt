@@ -46,8 +46,6 @@ aws-c-s3
 aws-c-sdkutils
 aws-checksums
 aws-cli
-aws-crt-cpp
-aws-sdk-cpp
 ayatana-ido
 baloo
 baloo-widgets
@@ -139,7 +137,6 @@ duktape
 e2fsprogs
 easyeffects
 ebook-tools
-editline
 editorconfig-core-c
 efibootmgr
 efivar
@@ -592,7 +589,6 @@ libcdio
 libcdio-paranoia
 libcloudproviders
 libcolord
-libcpuid
 libcups
 libcupsfilters
 libcurl-gnutls
@@ -814,7 +810,6 @@ llvm-julia-libs
 llvm-libs
 lm_sensors
 lmdb
-lowdown
 lsof
 lua
 lua51
@@ -860,8 +855,6 @@ nettle
 networkmanager
 networkmanager-qt
 nim
-nix
-nix-busybox
 nnn
 noto-fonts
 noto-fonts-emoji
@@ -1174,6 +1167,8 @@ ttf-0xproto-nerd
 ttf-fira-code
 ttf-fira-mono
 ttf-hack
+ttf-nerd-fonts-symbols
+ttf-nerd-fonts-symbols-common
 twolame
 tzdata
 udisks2
@@ -1209,7 +1204,6 @@ woff-fira-code
 woff2
 woff2-fira-code
 wpa_supplicant
-wpebackend-fdo
 wsdd
 wxwidgets-common
 wxwidgets-gtk3
@@ -1290,6 +1284,7 @@ xsettingsd
 xvidcore
 xxhash
 xz
+yazi
 zellij
 zenity
 zeromq
