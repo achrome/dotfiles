@@ -34,7 +34,20 @@ automake
 avahi
 awesome
 awesome-terminal-fonts
+aws-c-auth
+aws-c-cal
+aws-c-common
+aws-c-compression
+aws-c-event-stream
+aws-c-http
+aws-c-io
+aws-c-mqtt
+aws-c-s3
+aws-c-sdkutils
+aws-checksums
 aws-cli
+aws-crt-cpp
+aws-sdk-cpp
 ayatana-ido
 baloo
 baloo-widgets
@@ -127,6 +140,7 @@ duktape
 e2fsprogs
 easyeffects
 ebook-tools
+editline
 editorconfig-core-c
 efibootmgr
 efivar
@@ -585,6 +599,7 @@ libcdio
 libcdio-paranoia
 libcloudproviders
 libcolord
+libcpuid
 libcups
 libcupsfilters
 libcurl-gnutls
@@ -807,6 +822,7 @@ llvm-julia-libs
 llvm-libs
 lm_sensors
 lmdb
+lowdown
 lsof
 lua
 lua51
@@ -852,6 +868,8 @@ nettle
 networkmanager
 networkmanager-qt
 nim
+nix
+nix-busybox
 nnn
 noto-fonts
 noto-fonts-emoji
@@ -1090,6 +1108,7 @@ rubygems
 run-parts
 runc
 rust
+s2n-tls
 samba
 sbc
 sbt
