@@ -39,5 +39,6 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 eval "$(~/.local/bin/mise activate zsh)"
 mise use --global node
 mise use --global python
+mise use --global go
 
 eval "$(zoxide init zsh)"

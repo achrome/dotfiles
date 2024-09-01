@@ -70,7 +70,6 @@ bolt
 boost
 boost-libs
 botan
-box2d
 breeze-icons
 breezy
 bridge-utils
@@ -302,7 +301,6 @@ gnome-video-effects
 gnupg
 gnuplot
 gnutls
-go
 gobject-introspection
 gobject-introspection-runtime
 gom
@@ -483,6 +481,7 @@ haskell-onetuple
 haskell-open-browser
 haskell-optparse-applicative
 haskell-optparse-simple
+haskell-os-string
 haskell-pantry
 haskell-parser-combinators
 haskell-path
@@ -595,6 +594,7 @@ jbig2dec
 jbigkit
 jdk-openjdk
 jdk17-openjdk
+jdk21-openjdk
 jdk8-openjdk
 jemalloc
 jfsutils
@@ -1146,7 +1146,6 @@ libwebp
 libwmf
 libwnck3
 libwpd
-libwpe
 libwpg
 libwps
 libx11
