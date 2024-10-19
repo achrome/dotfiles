@@ -109,6 +109,7 @@ ctags
 cups
 cups-filters
 curl
+cyme
 dav1d
 db5.3
 dbus
@@ -124,7 +125,6 @@ dex
 diffutils
 discount
 discover
-dkms
 dmidecode
 dnssec-anchors
 docker
@@ -144,7 +144,7 @@ editline
 editorconfig-core-c
 efibootmgr
 efivar
-electron30
+electron31
 elixir
 enchant
 erlang
@@ -250,6 +250,7 @@ harfbuzz-icu
 haskell-aeson
 haskell-annotated-wl-pprint
 haskell-ansi-terminal
+haskell-ansi-terminal-types
 haskell-ansi-wl-pprint
 haskell-appar
 haskell-asn1-encoding
@@ -437,6 +438,7 @@ http-parser
 hub
 hugo
 hunspell
+hurl
 hwdata
 hwloc
 hyphen
@@ -462,6 +464,7 @@ jdk17-openjdk
 jdk21-openjdk
 jemalloc
 jq
+jre8-openjdk-headless
 json-c
 json-glib
 jsoncpp
@@ -764,6 +767,7 @@ libuv
 libva
 libvdpau
 libverto
+libvlc
 libvorbis
 libvpl
 libvpx
@@ -894,6 +898,7 @@ openjpeg2
 openlibm
 openssh
 openssl
+openxr
 opus
 orc
 ostree
@@ -1038,7 +1043,7 @@ python-typing_extensions
 python-urllib3
 python-yaml
 qca-qt6
-qcoro-qt6
+qcoro
 qpdf
 qqc2-breeze-style
 qqc2-desktop-style
@@ -1070,6 +1075,7 @@ qt6-webview
 r
 ranger
 rav1e
+re2
 readline
 redis
 reflector
@@ -1167,11 +1173,11 @@ terraform
 tevent
 texinfo
 thrift
+tinysparql
 tk
 tmux
 tmuxp
 tpm2-tss
-tracker3
 tree
 tree-sitter
 tree-sitter-c
@@ -1185,12 +1191,15 @@ ttf-0xproto-nerd
 ttf-fira-code
 ttf-fira-mono
 ttf-hack
+ttf-jetbrains-mono
 ttf-nerd-fonts-symbols
 ttf-nerd-fonts-symbols-common
+ttf-roboto
 twolame
 tzdata
 udisks2
 unibilium
+unixodbc
 unzip
 upower
 util-linux
@@ -1215,6 +1224,7 @@ wayland
 wayland-utils
 webkit2gtk
 webrtc-audio-processing-1
+wezterm
 wget
 which
 wireplumber
