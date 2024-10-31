@@ -1,0 +1,9 @@
+brave-bin
+carapace
+gleam-bin
+kind
+kind-debug
+mise-bin
+scala
+spotify
+yay-bin

@@ -1,5 +1,6 @@
 a52dec
 aalib
+aardvark-dns
 abseil-cpp
 accounts-qml-module
 accountsservice
@@ -84,6 +85,7 @@ ca-certificates-utils
 cairo
 cairo-perl
 cantarell-fonts
+catatonit
 cblas
 cdparanoia
 chezmoi
@@ -98,7 +100,9 @@ compiler-rt
 composefs
 composer
 confuse
+conmon
 containerd
+containers-common
 convertlit
 coreutils
 cppdap
@@ -868,6 +872,8 @@ mtools
 ncurses
 neofetch
 neovim
+nerdctl
+netavark
 nettle
 networkmanager
 networkmanager-qt
@@ -922,6 +928,7 @@ parted
 partitionmanager
 pass
 passim
+passt
 patch
 pciutils
 pcre
@@ -989,6 +996,7 @@ plasma-workspace-wallpapers
 plasma5support
 plymouth
 plymouth-kcm
+podman
 polkit
 polkit-kde-agent
 polkit-qt6
