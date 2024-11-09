@@ -148,7 +148,7 @@ editline
 editorconfig-core-c
 efibootmgr
 efivar
-electron31
+electron32
 elixir
 enchant
 erlang
@@ -460,6 +460,7 @@ iputils
 iso-codes
 jack2
 jansson
+jasper
 java-environment-common
 java-runtime-common
 jbigkit
@@ -682,6 +683,7 @@ libmbim
 libmd
 libmfx
 libmm-glib
+libmng
 libmnl
 libmodplug
 libmpc
@@ -1107,6 +1109,7 @@ qt5-x11extras
 qt6-5compat
 qt6-base
 qt6-declarative
+qt6-imageformats
 qt6-multimedia
 qt6-multimedia-ffmpeg
 qt6-positioning
