@@ -1,3 +1,4 @@
+7zip
 a52dec
 aalib
 aardvark-dns
@@ -914,7 +915,6 @@ otf-font-awesome
 oxygen
 oxygen-sounds
 p11-kit
-p7zip
 packagekit
 packagekit-qt5
 pacman
@@ -1135,6 +1135,7 @@ redis
 reflector
 rhash
 ripgrep
+ripgrep-all
 rlwrap
 rnnoise
 rsync
