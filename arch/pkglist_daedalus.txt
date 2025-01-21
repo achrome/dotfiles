@@ -49,7 +49,8 @@ aws-c-sdkutils
 aws-checksums
 aws-cli
 aws-crt-cpp
-aws-sdk-cpp
+aws-sdk-cpp-core
+aws-sdk-cpp-s3
 ayatana-ido
 baloo
 baloo-widgets
@@ -94,10 +95,12 @@ cifs-utils
 clamav
 clamtk
 clang
+clang18
 clinfo
 cmake
 cockpit
 compiler-rt
+compiler-rt18
 composefs
 composer
 confuse
@@ -212,6 +215,7 @@ glslang
 glu
 gmp
 gnu-free-fonts
+gnulib-l10n
 gnupg
 gnutls
 gobject-introspection-runtime
@@ -827,9 +831,11 @@ linux-firmware
 linux-firmware-whence
 linux-headers
 lld
+lld18
 llvm
 llvm-julia-libs
 llvm-libs
+llvm18-libs
 lm_sensors
 lmdb
 lowdown
