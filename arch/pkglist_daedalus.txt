@@ -17,6 +17,7 @@ alsa-lib
 alsa-topology-conf
 alsa-ucm-conf
 alsa-utils
+amdvlk
 ansible
 ansible-core
 aom
@@ -152,7 +153,7 @@ editline
 editorconfig-core-c
 efibootmgr
 efivar
-electron32
+electron33
 elixir
 enchant
 erlang
@@ -443,7 +444,6 @@ hex
 hicolor-icon-theme
 hidapi
 highway
-http-parser
 hub
 hugo
 hunspell
@@ -453,6 +453,7 @@ hwloc
 hyphen
 i2c-tools
 iana-etc
+ibus
 icu
 imagemagick
 imath
@@ -658,6 +659,7 @@ libgphoto2
 libgudev
 libgusb
 libheif
+libibus
 libice
 libidn
 libidn2
@@ -832,6 +834,7 @@ linux-firmware-whence
 linux-headers
 lld
 lld18
+llhttp
 llvm
 llvm-julia-libs
 llvm-libs
@@ -886,6 +889,7 @@ nettle
 networkmanager
 networkmanager-qt
 nim
+ninja
 nix
 nix-busybox
 nnn
@@ -1182,7 +1186,6 @@ sbt
 screen
 sddm
 sddm-kcm
-sdl2
 sed
 serd
 shaderc
