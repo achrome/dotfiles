@@ -100,6 +100,7 @@ clang18
 clinfo
 cmake
 cockpit
+code
 compiler-rt
 compiler-rt18
 composefs
@@ -153,6 +154,7 @@ editline
 editorconfig-core-c
 efibootmgr
 efivar
+electron32
 electron33
 elixir
 enchant
@@ -216,6 +218,7 @@ glslang
 glu
 gmp
 gnu-free-fonts
+gnu-netcat
 gnulib-l10n
 gnupg
 gnutls
@@ -574,6 +577,7 @@ layer-shell-qt
 lazygit
 lcms2
 ldb
+leancrypto
 less
 libaccounts-glib
 libaccounts-qt
@@ -707,6 +711,7 @@ libnfnetlink
 libnftnl
 libnghttp2
 libnghttp3
+libngtcp2
 libnice
 libnl
 libnm
@@ -893,6 +898,7 @@ ninja
 nix
 nix-busybox
 nnn
+nodejs
 noto-fonts
 noto-fonts-emoji
 npth
@@ -1186,6 +1192,8 @@ sbt
 screen
 sddm
 sddm-kcm
+sdl2-compat
+sdl3
 sed
 serd
 shaderc
@@ -1378,6 +1386,7 @@ xvidcore
 xxhash
 xz
 yazi
+zed
 zellij
 zenity
 zeromq
