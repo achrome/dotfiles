@@ -1,6 +1,5 @@
 brave-bin
 carapace
-gleam-bin
 kind
 mise-bin
 scala
