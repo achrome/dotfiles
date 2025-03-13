@@ -139,8 +139,7 @@ editline
 editorconfig-core-c
 efibootmgr
 efivar
-electron32
-electron33
+electron34
 elixir
 enchant
 erlang
@@ -479,6 +478,8 @@ icu
 imagemagick
 imath
 imlib2
+influx-cli
+influxdb
 intel-ucode
 intellij-idea-community-edition
 iproute2
@@ -496,6 +497,7 @@ jdk17-openjdk
 jdk21-openjdk
 jemalloc
 jq
+jre8-openjdk
 jre8-openjdk-headless
 json-c
 json-glib
@@ -915,6 +917,7 @@ nim
 ninja
 nix
 nix-busybox
+nlohmann-json
 nnn
 nodejs
 noto-fonts
@@ -1032,6 +1035,7 @@ plasma5support
 plymouth
 plymouth-kcm
 podman
+podman-compose
 polkit
 polkit-kde-agent
 polkit-qt6
@@ -1065,6 +1069,7 @@ python-certifi
 python-cffi
 python-charset-normalizer
 python-cleo
+python-click
 python-colorama
 python-crashtest
 python-cryptography
@@ -1072,6 +1077,7 @@ python-dateutil
 python-defusedxml
 python-distlib
 python-docutils
+python-dotenv
 python-dulwich
 python-fastjsonschema
 python-filelock
