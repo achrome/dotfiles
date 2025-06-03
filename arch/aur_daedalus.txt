@@ -1,7 +1,9 @@
 brave-bin
 carapace
+gleam-bin
 kind
-mise-bin
+neofetch
+redis
 scala
 spotify
 yay-bin
