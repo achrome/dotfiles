@@ -505,7 +505,6 @@ imlib2
 influx-cli
 influxdb
 intel-ucode
-intellij-idea-community-edition
 iproute2
 iptables
 iputils
