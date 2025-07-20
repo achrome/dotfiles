@@ -516,10 +516,9 @@ java-environment-common
 java-runtime-common
 jbigkit
 jdk-openjdk
-jdk17-openjdk
-jdk21-openjdk
 jemalloc
 jq
+jre21-openjdk
 jre8-openjdk
 jre8-openjdk-headless
 json-c
