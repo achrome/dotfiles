@@ -1,8 +1,0 @@
-brave-bin
-carapace
-kind
-neofetch
-redis
-scala
-spotify
-yay-bin
