@@ -1,3 +1,9 @@
 [tools]
 node = "latest"
 python = "latest"
+go = "latest"
+bun = "latest"
+erlang = "latest"
+ruby = "latest"
+elixir = "latest"
+scala = "latest"

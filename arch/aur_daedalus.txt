@@ -1,6 +1,5 @@
 brave-bin
 carapace
-gleam-bin
 kind
 neofetch
 redis
