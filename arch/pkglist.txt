@@ -95,13 +95,11 @@ cifs-utils
 clamav
 clamtk
 clang
-clang19
 clinfo
 cmake
 cockpit
 code
 compiler-rt
-compiler-rt19
 composefs
 composer
 confuse
@@ -153,12 +151,10 @@ editline
 editorconfig-core-c
 efibootmgr
 efivar
-electron34
 electron37
 elfutils
 erlang-asn1
 erlang-core
-erlang-eunit
 erlang-inets
 erlang-mnesia
 erlang-public_key
@@ -738,6 +734,7 @@ libpng
 libppd
 libproxy
 libpsl
+libptytty
 libpulse
 libpwquality
 libqaccessibilityclient-qt6
@@ -849,12 +846,10 @@ linux-firmware-whence
 linux-headers
 lksctp-tools
 lld
-lld19
 llhttp
 llvm
 llvm-julia-libs
 llvm-libs
-llvm19-libs
 lm_sensors
 lmdb
 lowdown
