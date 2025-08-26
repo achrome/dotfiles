@@ -275,7 +275,6 @@ haskell-assoc
 haskell-async
 haskell-attoparsec
 haskell-attoparsec-aeson
-haskell-attoparsec-iso8601
 haskell-auto-update
 haskell-base-compat
 haskell-base-compat-batteries
@@ -292,6 +291,7 @@ haskell-byteorder
 haskell-casa-client
 haskell-casa-types
 haskell-case-insensitive
+haskell-cborg
 haskell-cereal
 haskell-clock
 haskell-cmdargs
@@ -335,6 +335,7 @@ haskell-generically
 haskell-githash
 haskell-glob
 haskell-hackage-security
+haskell-half
 haskell-hashable
 haskell-hi-file-parser
 haskell-hinotify
@@ -349,6 +350,7 @@ haskell-http-types
 haskell-indexed-traversable
 haskell-indexed-traversable-instances
 haskell-infer-license
+haskell-integer-conversion
 haskell-integer-logarithms
 haskell-iproute
 haskell-libyaml
@@ -403,6 +405,7 @@ haskell-safe-exceptions
 haskell-scientific
 haskell-semialign
 haskell-semigroupoids
+haskell-serialise
 haskell-shelly
 haskell-silently
 haskell-socks
@@ -418,6 +421,7 @@ haskell-tar
 haskell-tar-conduit
 haskell-tasty
 haskell-temporary
+haskell-text-iso8601
 haskell-text-metrics
 haskell-text-short
 haskell-th-abstraction
@@ -938,7 +942,6 @@ oxygen
 oxygen-sounds
 p11-kit
 packagekit
-packagekit-qt5
 pacman
 pacman-contrib
 pacman-mirrorlist
