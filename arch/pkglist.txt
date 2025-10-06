@@ -219,6 +219,7 @@ glib2
 glibc
 glslang
 glu
+glycin
 gmp
 gnu-free-fonts
 gnulib-l10n
@@ -254,6 +255,7 @@ gtest
 gtk-update-icon-cache
 gtk3
 gtk4
+gtk4-layer-shell
 guile
 gupnp
 gupnp-igd
@@ -305,6 +307,7 @@ haskell-cryptohash-sha256
 haskell-crypton
 haskell-crypton-conduit
 haskell-crypton-connection
+haskell-crypton-socks
 haskell-crypton-x509
 haskell-crypton-x509-store
 haskell-crypton-x509-system
@@ -368,6 +371,7 @@ haskell-mono-traversable
 haskell-mustache
 haskell-neat-interpolation
 haskell-network
+haskell-network-bsd
 haskell-network-uri
 haskell-old-locale
 haskell-old-time
@@ -403,7 +407,6 @@ haskell-semialign
 haskell-semigroupoids
 haskell-serialise
 haskell-silently
-haskell-socks
 haskell-split
 haskell-splitmix
 haskell-src-exts
@@ -663,6 +666,7 @@ libfontenc
 libfprint
 libfreeaptx
 libftdi
+libfyaml
 libgcrypt
 libgee
 libgirepository
@@ -1307,6 +1311,7 @@ xcb-util-wm
 xcb-util-xrm
 xdg-dbus-proxy
 xdg-desktop-portal
+xdg-desktop-portal-gtk
 xdg-desktop-portal-kde
 xdg-user-dirs
 xdg-utils
