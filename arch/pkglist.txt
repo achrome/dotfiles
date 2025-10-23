@@ -16,7 +16,6 @@ alsa-lib
 alsa-topology-conf
 alsa-ucm-conf
 alsa-utils
-amdvlk
 ansible
 ansible-core
 aom
@@ -769,6 +768,7 @@ libssh2
 libstemmer
 libsysprof-capture
 libtasn1
+libtatsu
 libteam
 libthai
 libtheora
@@ -879,7 +879,6 @@ man-db
 mariadb
 mariadb-clients
 mariadb-libs
-mbedtls2
 md4c
 mdadm
 media-player-info
@@ -1159,7 +1158,6 @@ qt6-svg
 qt6-tools
 qt6-translations
 qt6-virtualkeyboard
-qt6-wayland
 qt6-webchannel
 qt6-webengine
 qt6-websockets
