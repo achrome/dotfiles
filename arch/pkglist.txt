@@ -85,7 +85,6 @@ ca-certificates-mozilla
 ca-certificates-utils
 cairo
 cairo-perl
-cantarell-fonts
 catatonit
 cblas
 cdparanoia
@@ -536,6 +535,7 @@ kholidays
 ki18n
 kiconthemes
 kidletime
+kimageformats
 kinfocenter
 kio
 kio-extras
@@ -551,6 +551,7 @@ kjobwidgets
 kmenuedit
 kmod
 knewstuff
+knighttime
 knotifications
 knotifyconfig
 kotlin
@@ -1074,10 +1075,12 @@ python-dulwich
 python-fastjsonschema
 python-filelock
 python-findpython
+python-fluidity
 python-gobject
 python-html5lib
 python-idna
 python-installer
+python-invoke
 python-jaraco.classes
 python-jaraco.context
 python-jaraco.functools
@@ -1088,6 +1091,7 @@ python-jsonschema
 python-jsonschema-specifications
 python-keyring
 python-lark-parser
+python-lexicon
 python-libtmux
 python-lockfile
 python-markupsafe
@@ -1283,6 +1287,8 @@ vim-runtime
 vmaf
 volume_key
 vulkan-icd-loader
+vulkan-mesa-device-select
+vulkan-radeon
 vulkan-tools
 wacomtablet
 wavpack
