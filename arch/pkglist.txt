@@ -75,7 +75,6 @@ breeze
 breeze-gtk
 breeze-icons
 breeze-plymouth
-bridge-utils
 brltty
 brotli
 btop
@@ -160,7 +159,7 @@ edk2-arm
 edk2-ovmf
 efibootmgr
 efivar
-electron37
+electron39
 elfutils
 erlang-asn1
 erlang-core
@@ -169,6 +168,7 @@ erlang-mnesia
 erlang-public_key
 erlang-runtime_tools
 erlang-ssl
+ex-vi-compat
 exfatprogs
 exiv2
 expat
@@ -295,8 +295,6 @@ haskell-async
 haskell-attoparsec
 haskell-attoparsec-aeson
 haskell-auto-update
-haskell-base-compat
-haskell-base-compat-batteries
 haskell-base-orphans
 haskell-base16-bytestring
 haskell-base64-bytestring
@@ -640,6 +638,7 @@ libblockdev-loop
 libblockdev-mdraid
 libblockdev-nvme
 libblockdev-part
+libblockdev-smart
 libblockdev-swap
 libbluray
 libbpf
@@ -734,6 +733,7 @@ liblouis
 liblqr
 libluv
 liblzf
+libmakepkg-dropins
 libmalcontent
 libmaxminddb
 libmbim
@@ -757,6 +757,7 @@ libnfs
 libnftnl
 libnghttp2
 libnghttp3
+libngtcp2
 libnice
 libnl
 libnm
@@ -1191,6 +1192,7 @@ python-sentry_sdk
 python-shellingham
 python-shtab
 python-six
+python-systemd
 python-tomlkit
 python-trove-classifiers
 python-typing_extensions
@@ -1444,7 +1446,6 @@ v4l-utils
 vapoursynth
 vde2
 verdict
-vi
 vicious
 vid.stab
 vim
@@ -1463,7 +1464,7 @@ volume_key
 vte-common
 vte3
 vulkan-icd-loader
-vulkan-mesa-device-select
+vulkan-mesa-implicit-layers
 vulkan-radeon
 vulkan-tools
 wacomtablet
