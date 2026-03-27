@@ -1,4 +1,5 @@
 7zip
+a52dec
 aalib
 aardvark-dns
 abseil-cpp
@@ -49,9 +50,6 @@ aws-c-sdkutils
 aws-checksums
 aws-cli
 aws-crt-cpp
-aws-sdk-cpp-core
-aws-sdk-cpp-iam
-aws-sdk-cpp-s3
 ayatana-ido
 baloo
 baloo-widgets
@@ -72,6 +70,7 @@ bluez-utils
 bolt
 boost-libs
 breeze
+breeze-cursors
 breeze-gtk
 breeze-icons
 breeze-plymouth
@@ -168,12 +167,14 @@ erlang-mnesia
 erlang-public_key
 erlang-runtime_tools
 erlang-ssl
+espeak-ng
 ex-vi-compat
 exfatprogs
 exiv2
 expat
 eza
 f2fs-tools
+faad2
 fakeroot
 fd
 feh
@@ -487,6 +488,7 @@ i2c-tools
 iana-etc
 ibus
 icu
+iio-sensor-proxy
 imagemagick
 imath
 imlib2
@@ -542,7 +544,7 @@ kded
 kdeplasma-addons
 kdesu
 kdnssd
-kdsoap-qt6
+kdsoap
 kdsoap-ws-discovery-client
 kexec-tools
 keyutils
@@ -581,6 +583,7 @@ kpipewire
 kpmcore
 kpty
 kquickcharts
+kquickimageeditor
 krb5
 krunner
 kscreen
@@ -620,10 +623,12 @@ libadwaita
 libaemu
 libaio
 libarchive
+libasan
 libass
 libassuan
 libasyncns
 libatasmart
+libatomic
 libavc1394
 libavif
 libayatana-appindicator
@@ -694,11 +699,14 @@ libfprint
 libfreeaptx
 libftdi
 libfyaml
+libgcc
 libgcrypt
 libgee
+libgfortran
 libgirepository
 libgit2
 libglvnd
+libgomp
 libgovirt
 libgpg-error
 libgphoto2
@@ -731,6 +739,7 @@ libldap
 libldm
 liblouis
 liblqr
+liblsan
 libluv
 liblzf
 libmakepkg-dropins
@@ -739,6 +748,7 @@ libmaxminddb
 libmbim
 libmd
 libmfx
+libmilter
 libmm-glib
 libmng
 libmnl
@@ -764,6 +774,7 @@ libnm
 libnotify
 libnsl
 libnvme
+libobjc
 libogg
 libopenmpt
 libosinfo
@@ -791,6 +802,7 @@ libqaccessibilityclient-qt6
 libqalculate
 libqmi
 libqrtr-glib
+libquadmath
 libraqm
 libraw1394
 librest
@@ -805,11 +817,14 @@ libslirp
 libsm
 libsndfile
 libsodium
+libsonic
 libsoup3
 libsoxr
 libspeechd
+libssc
 libssh
 libssh2
+libstdc++
 libstemmer
 libsysprof-capture
 libtasn1
@@ -824,6 +839,8 @@ libtool
 libtpms
 libtraceevent
 libtracefs
+libtsan
+libubsan
 libunibreak
 libunistring
 libunwind
@@ -922,6 +939,7 @@ lua51
 lua51-lpeg
 lua53
 lua53-lgi
+lua54
 luajit
 luarocks
 lv2
@@ -995,6 +1013,7 @@ opencv
 openexr
 openh264
 openjpeg2
+openjph
 openlibm
 openssh
 openssl
@@ -1006,6 +1025,8 @@ ostree
 otf-fira-mono
 otf-font-awesome
 oxygen
+oxygen-cursors
+oxygen-icons
 oxygen-sounds
 p11-kit
 packagekit
@@ -1023,6 +1044,7 @@ pass
 passim
 passt
 patch
+pcaudiolib
 pciutils
 pcre
 pcre2
@@ -1179,6 +1201,7 @@ python-pycparser
 python-pygdbmi
 python-pynacl
 python-pyproject-hooks
+python-python-discovery
 python-rapidfuzz
 python-referencing
 python-requests
@@ -1304,7 +1327,6 @@ qt6-positioning
 qt6-quick3d
 qt6-quicktimeline
 qt6-scxml
-qt6-sensors
 qt6-shadertools
 qt6-speech
 qt6-svg
@@ -1315,6 +1337,7 @@ qt6-webchannel
 qt6-webengine
 qt6-websockets
 qt6-webview
+qtkeychain-qt6
 r
 ranger
 rav1e
@@ -1361,6 +1384,7 @@ sleuthkit
 smartmontools
 smbclient
 snappy
+sndio
 socat
 sof-firmware
 solid
@@ -1369,6 +1393,7 @@ sord
 sound-theme-freedesktop
 soundtouch
 source-highlight
+spandsp
 spdlog
 spectacle
 speex
@@ -1459,6 +1484,31 @@ virtualbox
 virtualbox-ext-vnc
 virtualbox-host-modules-arch
 virtualbox-sdk
+vlc-plugin-a52dec
+vlc-plugin-alsa
+vlc-plugin-archive
+vlc-plugin-dav1d
+vlc-plugin-dbus
+vlc-plugin-dbus-screensaver
+vlc-plugin-faad2
+vlc-plugin-flac
+vlc-plugin-gnutls
+vlc-plugin-inflate
+vlc-plugin-journal
+vlc-plugin-jpeg
+vlc-plugin-mpg123
+vlc-plugin-ogg
+vlc-plugin-opus
+vlc-plugin-png
+vlc-plugin-shout
+vlc-plugin-speex
+vlc-plugin-tag
+vlc-plugin-theora
+vlc-plugin-twolame
+vlc-plugin-vorbis
+vlc-plugin-vpx
+vlc-plugin-xml
+vlc-plugins-base
 vmaf
 volume_key
 vte-common
@@ -1567,6 +1617,7 @@ zellij
 zenity
 zeromq
 zimg
+zint
 zip
 zita-convolver
 zix
