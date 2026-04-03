@@ -935,6 +935,7 @@ lrzip
 lsof
 lsscsi
 lua
+lua-luarocks
 lua51
 lua51-lpeg
 lua53
@@ -976,7 +977,6 @@ mtools
 multipath-tools
 ncurses
 ndctl
-neovim
 nerdctl
 netavark
 nettle

@@ -1,8 +1,11 @@
 brave-bin
+bridge-utils
 carapace
 kind
 neofetch
+neovim-nightly-bin
+neovim-nightly-bin-debug
+packagekit-qt5
 redis
-scala
 spotify
 yay-bin
