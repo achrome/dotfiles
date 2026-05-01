@@ -154,8 +154,8 @@ ebook-tools
 editline
 editorconfig-core-c
 edk2-aarch64
-edk2-arm
 edk2-ovmf
+edk2-riscv64
 efibootmgr
 efivar
 electron39
@@ -740,7 +740,6 @@ libldm
 liblouis
 liblqr
 liblsan
-libluv
 liblzf
 libmakepkg-dropins
 libmalcontent
@@ -862,7 +861,6 @@ libvncserver
 libvorbis
 libvpl
 libvpx
-libvterm
 libwacom
 libwbclient
 libwebp
@@ -937,11 +935,9 @@ lsscsi
 lua
 lua-luarocks
 lua51
-lua51-lpeg
 lua53
 lua53-lgi
 lua54
-luajit
 luarocks
 lv2
 lvm2
@@ -971,7 +967,6 @@ mosh
 mpdecimal
 mpfr
 mpg123
-msgpack-c
 mtdev
 mtools
 multipath-tools
@@ -1439,13 +1434,6 @@ tmux
 tmuxp
 tpm2-tss
 tree
-tree-sitter
-tree-sitter-c
-tree-sitter-lua
-tree-sitter-markdown
-tree-sitter-query
-tree-sitter-vim
-tree-sitter-vimdoc
 tslib
 ttf-0xproto-nerd
 ttf-fira-code
@@ -1459,7 +1447,6 @@ twolame
 tzdata
 udisks2
 ufw
-unibilium
 unixodbc
 unzip
 upower
